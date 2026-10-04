@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LoL 電競新聞速報</title>
+<title>LoL 電競資訊速報</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
 <style>
@@ -24,84 +24,209 @@
   .bar-in { max-width: 1120px; margin: 0 auto; padding: 12px 20px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
   .chip, select, .btn { font: inherit; font-size: 14px; border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
   .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
-  .chip:focus-visible, select:focus-visible, .btn:focus-visible, a:focus-visible { outline: 3px solid var(--blg); outline-offset: 2px; }
+  .chip:focus-visible, select:focus-visible, .btn:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px solid var(--blg); outline-offset: 2px; }
   .spacer { flex: 1; }
   .btn.primary { background: var(--t1); border-color: var(--t1); color: #fff; font-weight: 700; }
+  .btn:disabled { opacity: .45; cursor: not-allowed; }
   main { max-width: 1120px; margin: 0 auto; padding: 20px; display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
   article { background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
   .thumb { aspect-ratio: 16 / 9; width: 100%; object-fit: cover; display: block; background: var(--line); }
-  .ph { aspect-ratio: 16 / 9; display: grid; place-items: center; color: #fff; font-weight: 900; font-size: 34px; letter-spacing: .02em; }
+  .ph { aspect-ratio: 16 / 9; display: grid; place-items: center; color: #fff; font-weight: 900; font-size: 34px; }
   .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
   .tags { display: flex; gap: 6px; flex-wrap: wrap; }
   .tag { font-size: 12px; font-weight: 700; color: #fff; padding: 1px 8px; border-radius: 4px; }
-  h2 { margin: 0; font-size: 18px; line-height: 1.4; }
+  h2 { margin: 0; font-size: 18px; line-height: 1.4; overflow-wrap: anywhere; }
   h2 a { color: inherit; text-decoration: none; }
   h2 a:hover { text-decoration: underline; }
   .meta { color: var(--muted); font-size: 13px; }
-  .sum { margin: 0; font-size: 14px; color: var(--muted); }
+  .sum { margin: 0; font-size: 14px; color: var(--muted); overflow-wrap: anywhere; }
   .foot { margin-top: auto; padding-top: 4px; display: flex; gap: 8px; }
   .foot .btn { border-radius: 6px; padding: 4px 12px; font-size: 13px; }
+  .foot .btn.primary { border-color: var(--t1); }
   .empty { grid-column: 1 / -1; color: var(--muted); padding: 40px 0; }
-  .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 8px 18px; border-radius: 8px; font-size: 14px; opacity: 0; pointer-events: none; transition: opacity .2s; }
+  dialog { border: 1px solid var(--line); border-radius: 12px; background: var(--card); color: var(--ink); padding: 0; width: min(560px, 94vw); max-height: 92vh; }
+  dialog::backdrop { background: rgba(0,0,0,.55); }
+  .dl { padding: 18px; display: flex; flex-direction: column; gap: 12px; }
+  .dl h3 { margin: 0; font-size: 18px; }
+  .dl img { width: 100%; max-height: 260px; object-fit: contain; background: var(--line); border-radius: 8px; }
+  .dl textarea { width: 100%; min-height: 220px; font: inherit; font-size: 14px; line-height: 1.6; padding: 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); color: var(--ink); resize: vertical; }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; }
+  .hint { color: var(--muted); font-size: 12px; margin: 0; }
+  .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 8px 18px; border-radius: 8px; font-size: 14px; opacity: 0; pointer-events: none; transition: opacity .2s; z-index: 20; }
   .toast.show { opacity: 1; }
   @media (prefers-reduced-motion: reduce) { .toast { transition: none; } }
 </style>
 </head>
 <body>
 <header>
-  <h1>LoL 電競新聞速報</h1>
+  <h1>LoL 電競資訊速報</h1>
   <p class="sub" id="updated">載入中…</p>
 </header>
 <div class="bar"><div class="bar-in">
   <div id="chips" role="group" aria-label="主題篩選"></div>
+  <select id="type" aria-label="來源類型">
+    <option value="all">全部來源</option>
+    <option value="news">新聞</option>
+    <option value="reddit">Reddit</option>
+    <option value="x">X</option>
+  </select>
   <select id="range" aria-label="時間範圍">
     <option value="1">今天</option>
     <option value="3">近 3 天</option>
     <option value="7" selected>近 7 天</option>
   </select>
   <span class="spacer"></span>
-  <button class="btn primary" id="copyAll">複製全部貼文格式</button>
+  <button class="btn" id="addX">加入 X 貼文</button>
+  <button class="btn primary" id="digest">一鍵生成彙整貼文</button>
 </div></div>
 <main id="list"></main>
-<div class="toast" id="toast" role="status">已複製</div>
+
+<dialog id="dlg"><div class="dl">
+  <h3 id="dTitle">生成貼文</h3>
+  <img id="dImg" alt="" referrerpolicy="no-referrer" hidden>
+  <textarea id="txt" aria-label="貼文內容，可直接修改"></textarea>
+  <p class="hint" id="dHint"></p>
+  <div class="row">
+    <button class="btn primary" id="cText">複製文字</button>
+    <button class="btn" id="cImg">複製圖片</button>
+    <button class="btn" id="dlImg">下載圖片</button>
+    <button class="btn" id="shareBtn" hidden>分享</button>
+    <button class="btn" id="close">關閉</button>
+  </div>
+</div></dialog>
+<div class="toast" id="toast" role="status"></div>
 
 <script>
+// ====== 可自行修改的設定 ======
 const TAGS = ["全部", "T1", "Faker", "LPL", "BLG", "Worlds", "LoL"];
+const HASHTAGS = {
+  T1: ["#T1"], Faker: ["#Faker", "#李相赫"], LPL: ["#LPL"], BLG: ["#BLG"],
+  Worlds: ["#Worlds2026", "#英雄聯盟世界賽"], LoL: []
+};
+const BASE_TAGS = ["#英雄聯盟", "#LeagueOfLegends", "#電競"];
+const DIGEST_COUNT = 5;   // 彙整貼文收錄幾篇
+// ==============================
 const COLORS = { T1: "--t1", Faker: "--faker", LPL: "--lpl", BLG: "--blg", Worlds: "--worlds", LoL: "--lol" };
-let data = [], tag = "全部";
+const TYPE_NAME = { news: "新聞", reddit: "Reddit", x: "X" };
+let data = [], tag = "全部", cur = null;
 const $ = id => document.getElementById(id);
-const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const fmt = iso => new Date(iso).toLocaleString("zh-TW", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false });
+const imgOf = a => a.local_image || a.image || "";
 
+function toast(m) { const t = $("toast"); t.textContent = m; t.classList.add("show"); setTimeout(() => t.classList.remove("show"), 1500); }
+function hashtags(list) { return [...new Set([...list.flatMap(t => HASHTAGS[t] || []), ...BASE_TAGS])].join(" "); }
+function genPost(a) {
+  return `${a.title}\n\n${a.summary ? a.summary + "\n\n" : ""}來源：${a.source}\n${a.link}\n\n${hashtags(a.tags)}`;
+}
+function genDigest(items) {
+  const top = items.slice(0, DIGEST_COUNT);
+  const day = new Date().toLocaleDateString("zh-TW", { month: "numeric", day: "numeric" });
+  return `📰 LoL 電競快訊 ${day}\n\n` + top.map((a, i) => `${i + 1}. ${a.title}\n${a.link}`).join("\n\n") +
+    `\n\n${hashtags([...new Set(top.flatMap(a => a.tags))])}`;
+}
+
+// ====== 篩選與顯示 ======
 function visible() {
-  const since = Date.now() - $("range").value * 864e5;
-  return data.filter(a => new Date(a.published) >= since && (tag === "全部" || a.tags.includes(tag)));
+  const since = Date.now() - $("range").value * 864e5, ty = $("type").value;
+  return data.filter(a => new Date(a.published) >= since && (ty === "all" || a.type === ty) && (tag === "全部" || a.tags.includes(tag)));
 }
-function postText(a) {
-  return `【${a.title}】\n來源：${a.source}（${fmt(a.published)}）\n${a.summary ? a.summary + "\n" : ""}${a.link}`;
-}
-function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("show"); setTimeout(() => t.classList.remove("show"), 1400); }
-async function copy(text) { try { await navigator.clipboard.writeText(text); toast("已複製"); } catch { toast("複製失敗，請手動選取"); } }
-
 function render() {
   const items = visible(), list = $("list");
-  if (!items.length) { list.innerHTML = '<p class="empty">這個範圍內沒有文章。試試放寬時間或換個主題。</p>'; return; }
+  if (!items.length) { list.innerHTML = '<p class="empty">這個範圍內沒有內容。試試放寬時間、換個主題或來源。</p>'; return; }
   list.innerHTML = items.map((a, i) => {
-    const main = a.tags[0], col = `var(${COLORS[main] || "--lol"})`;
-    const img = a.image
-      ? `<img class="thumb" src="${esc(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;ph&quot; style=&quot;background:${col}&quot;>${main}</div>'">`
+    const main = a.tags[0], col = `var(${COLORS[main] || "--lol"})`, src = imgOf(a);
+    const img = src
+      ? `<img class="thumb" src="${esc(src)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;ph&quot; style=&quot;background:${col}&quot;>${main}</div>'">`
       : `<div class="ph" style="background:${col}">${main}</div>`;
     return `<article>${img}<div class="body">
       <div class="tags">${a.tags.map(t => `<span class="tag" style="background:var(${COLORS[t] || "--lol"})">${t}</span>`).join("")}</div>
       <h2><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a></h2>
-      <div class="meta">${esc(a.source)} ‧ ${fmt(a.published)}</div>
+      <div class="meta">${TYPE_NAME[a.type] || "新聞"} ‧ ${esc(a.source)} ‧ ${fmt(a.published)}</div>
       ${a.summary ? `<p class="sum">${esc(a.summary)}</p>` : ""}
-      <div class="foot"><button class="btn" data-i="${i}">複製貼文</button></div>
+      <div class="foot"><button class="btn primary" data-i="${i}">生成貼文</button></div>
     </div></article>`;
   }).join("");
-  list.querySelectorAll("button[data-i]").forEach(b => b.onclick = () => copy(postText(items[b.dataset.i])));
+  list.querySelectorAll("button[data-i]").forEach(b => b.onclick = () => openDialog(items[b.dataset.i]));
 }
 
+// ====== 貼文產生視窗 ======
+function openDialog(a, text, title) {
+  cur = { img: imgOf(a), local: a.local_image || "" };
+  $("dTitle").textContent = title || "生成貼文";
+  $("txt").value = text || genPost(a);
+  const im = $("dImg");
+  im.hidden = !cur.img;
+  if (cur.img) im.src = cur.img;
+  $("cImg").disabled = !cur.local;
+  $("dlImg").disabled = !cur.img;
+  $("dHint").textContent = !cur.img ? "這篇沒有圖片。" :
+    cur.local ? "圖片已存在本站，可直接複製或下載。" : "此圖片來自外部網站，無法直接複製，請用「下載圖片」開啟後另存。";
+  $("shareBtn").hidden = !navigator.share;
+  $("dlg").showModal();
+}
+async function copyText() {
+  try { await navigator.clipboard.writeText($("txt").value); toast("文字已複製"); }
+  catch { $("txt").select(); toast("請按 Ctrl+C 複製"); }
+}
+async function pngBlob(src) {
+  const b = await (await fetch(src)).blob();
+  if (b.type === "image/png") return b;
+  const bmp = await createImageBitmap(b), c = document.createElement("canvas");
+  c.width = bmp.width; c.height = bmp.height; c.getContext("2d").drawImage(bmp, 0, 0);
+  return new Promise(r => c.toBlob(r, "image/png"));
+}
+async function copyImg() {
+  try { await navigator.clipboard.write([new ClipboardItem({ "image/png": pngBlob(cur.local) })]); toast("圖片已複製"); }
+  catch { toast("複製失敗，請改用「下載圖片」"); }
+}
+function downloadImg() {
+  const a = document.createElement("a");
+  a.href = cur.local || cur.img;
+  if (cur.local) a.download = cur.local.split("/").pop(); else a.target = "_blank";
+  a.rel = "noopener"; document.body.appendChild(a); a.click(); a.remove();
+}
+async function shareAll() {
+  try {
+    const text = $("txt").value;
+    if (cur.local) {
+      const f = new File([await pngBlob(cur.local)], "lol.png", { type: "image/png" });
+      if (navigator.canShare && navigator.canShare({ files: [f] })) return await navigator.share({ text, files: [f] });
+    }
+    await navigator.share({ text });
+  } catch {}
+}
+$("cText").onclick = copyText; $("cImg").onclick = copyImg; $("dlImg").onclick = downloadImg;
+$("shareBtn").onclick = shareAll; $("close").onclick = () => $("dlg").close();
+
+// ====== 一鍵彙整 ======
+$("digest").onclick = () => {
+  const items = visible();
+  if (!items.length) return toast("目前沒有內容可彙整");
+  openDialog(items.find(a => imgOf(a)) || items[0], genDigest(items), "彙整貼文");
+};
+
+// ====== 手動加入 X 貼文（存在你自己的瀏覽器）======
+function guessTags(s) {
+  const t = s.toLowerCase(), out = [];
+  if (/t1/.test(t)) out.push("T1"); if (/faker|李相赫/.test(t)) out.push("Faker");
+  if (/lpl/.test(t)) out.push("LPL"); if (/blg|bilibili/.test(t)) out.push("BLG");
+  if (/worlds|世界賽/.test(t)) out.push("Worlds");
+  return out.length ? out : ["LoL"];
+}
+function loadMyX() { try { return JSON.parse(localStorage.getItem("myX") || "[]"); } catch { return []; } }
+$("addX").onclick = () => {
+  const url = prompt("貼上 X 貼文網址");
+  if (!url) return;
+  const text = prompt("貼文內容或重點（可留空）") || "X 貼文";
+  const h = (url.match(/(?:x|twitter)\.com\/([^\/?#]+)/) || [])[1];
+  const item = { type: "x", title: text.slice(0, 120), source: h ? `X @${h}` : "X", link: url,
+    published: new Date().toISOString(), summary: "", image: "", local_image: "", tags: guessTags(text) };
+  try { localStorage.setItem("myX", JSON.stringify([item, ...loadMyX()])); } catch {}
+  data = [item, ...data]; render(); toast("已加入");
+};
+
+// ====== 啟動 ======
 $("chips").innerHTML = TAGS.map(t => `<button class="chip" aria-pressed="${t === tag}">${t}</button>`).join(" ");
 $("chips").onclick = e => {
   if (!e.target.classList.contains("chip")) return;
@@ -109,15 +234,14 @@ $("chips").onclick = e => {
   $("chips").querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", c.textContent === tag));
   render();
 };
-$("range").onchange = render;
-$("copyAll").onclick = () => copy(visible().map(postText).join("\n\n"));
+$("range").onchange = render; $("type").onchange = render;
 
 fetch("news.json").then(r => r.json()).then(j => {
-  data = j.articles;
-  $("updated").textContent = `最後更新：${fmt(j.updated)}，共 ${data.length} 篇（近 7 天）`;
+  data = [...loadMyX(), ...j.articles].sort((a, b) => b.published.localeCompare(a.published));
+  $("updated").textContent = `最後更新：${fmt(j.updated)}，共 ${j.articles.length} 篇（近 7 天）`;
   render();
 }).catch(() => {
-  $("updated").textContent = "讀不到 news.json。請先執行 fetch_news.py，並透過網址（不是直接開檔案）瀏覽。";
+  $("updated").textContent = "讀不到 news.json。請先執行 Actions，並透過網站網址（不是直接開檔案）瀏覽。";
 });
 </script>
 </body>
