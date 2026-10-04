@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LoL 電競新聞速報</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #11151c; --paper: #eef0f3; --card: #ffffff; --muted: #5a6472; --line: #d9dde3;
+    --t1: #e4002b; --blg: #1c6dd0; --lpl: #b8860b; --worlds: #6b3fd4; --faker: #11151c; --lol: #3d4857;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --ink: #eef0f3; --paper: #0e1218; --card: #171d26; --muted: #98a2b0; --line: #2a3340; --faker: #eef0f3; }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-padding-top: 96px; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: "Noto Sans TC", system-ui, sans-serif; line-height: 1.6; }
+  header { padding: 40px 20px 16px; max-width: 1120px; margin: 0 auto; }
+  h1 { margin: 0; font-size: clamp(30px, 6vw, 52px); font-weight: 900; letter-spacing: -0.02em; line-height: 1.1; }
+  .sub { color: var(--muted); margin: 8px 0 0; font-size: 14px; }
+  .bar { position: sticky; top: 0; z-index: 5; background: var(--paper); border-bottom: 1px solid var(--line); }
+  .bar-in { max-width: 1120px; margin: 0 auto; padding: 12px 20px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .chip, select, .btn { font: inherit; font-size: 14px; border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .chip:focus-visible, select:focus-visible, .btn:focus-visible, a:focus-visible { outline: 3px solid var(--blg); outline-offset: 2px; }
+  .spacer { flex: 1; }
+  .btn.primary { background: var(--t1); border-color: var(--t1); color: #fff; font-weight: 700; }
+  main { max-width: 1120px; margin: 0 auto; padding: 20px; display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  article { background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
+  .thumb { aspect-ratio: 16 / 9; width: 100%; object-fit: cover; display: block; background: var(--line); }
+  .ph { aspect-ratio: 16 / 9; display: grid; place-items: center; color: #fff; font-weight: 900; font-size: 34px; letter-spacing: .02em; }
+  .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag { font-size: 12px; font-weight: 700; color: #fff; padding: 1px 8px; border-radius: 4px; }
+  h2 { margin: 0; font-size: 18px; line-height: 1.4; }
+  h2 a { color: inherit; text-decoration: none; }
+  h2 a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 13px; }
+  .sum { margin: 0; font-size: 14px; color: var(--muted); }
+  .foot { margin-top: auto; padding-top: 4px; display: flex; gap: 8px; }
+  .foot .btn { border-radius: 6px; padding: 4px 12px; font-size: 13px; }
+  .empty { grid-column: 1 / -1; color: var(--muted); padding: 40px 0; }
+  .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 8px 18px; border-radius: 8px; font-size: 14px; opacity: 0; pointer-events: none; transition: opacity .2s; }
+  .toast.show { opacity: 1; }
+  @media (prefers-reduced-motion: reduce) { .toast { transition: none; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>LoL 電競新聞速報</h1>
+  <p class="sub" id="updated">載入中…</p>
+</header>
+<div class="bar"><div class="bar-in">
+  <div id="chips" role="group" aria-label="主題篩選"></div>
+  <select id="range" aria-label="時間範圍">
+    <option value="1">今天</option>
+    <option value="3">近 3 天</option>
+    <option value="7" selected>近 7 天</option>
+  </select>
+  <span class="spacer"></span>
+  <button class="btn primary" id="copyAll">複製全部貼文格式</button>
+</div></div>
+<main id="list"></main>
+<div class="toast" id="toast" role="status">已複製</div>
+
+<script>
+const TAGS = ["全部", "T1", "Faker", "LPL", "BLG", "Worlds", "LoL"];
+const COLORS = { T1: "--t1", Faker: "--faker", LPL: "--lpl", BLG: "--blg", Worlds: "--worlds", LoL: "--lol" };
+let data = [], tag = "全部";
+const $ = id => document.getElementById(id);
+const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const fmt = iso => new Date(iso).toLocaleString("zh-TW", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false });
+
+function visible() {
+  const since = Date.now() - $("range").value * 864e5;
+  return data.filter(a => new Date(a.published) >= since && (tag === "全部" || a.tags.includes(tag)));
+}
+function postText(a) {
+  return `【${a.title}】\n來源：${a.source}（${fmt(a.published)}）\n${a.summary ? a.summary + "\n" : ""}${a.link}`;
+}
+function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("show"); setTimeout(() => t.classList.remove("show"), 1400); }
+async function copy(text) { try { await navigator.clipboard.writeText(text); toast("已複製"); } catch { toast("複製失敗，請手動選取"); } }
+
+function render() {
+  const items = visible(), list = $("list");
+  if (!items.length) { list.innerHTML = '<p class="empty">這個範圍內沒有文章。試試放寬時間或換個主題。</p>'; return; }
+  list.innerHTML = items.map((a, i) => {
+    const main = a.tags[0], col = `var(${COLORS[main] || "--lol"})`;
+    const img = a.image
+      ? `<img class="thumb" src="${esc(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;ph&quot; style=&quot;background:${col}&quot;>${main}</div>'">`
+      : `<div class="ph" style="background:${col}">${main}</div>`;
+    return `<article>${img}<div class="body">
+      <div class="tags">${a.tags.map(t => `<span class="tag" style="background:var(${COLORS[t] || "--lol"})">${t}</span>`).join("")}</div>
+      <h2><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a></h2>
+      <div class="meta">${esc(a.source)} ‧ ${fmt(a.published)}</div>
+      ${a.summary ? `<p class="sum">${esc(a.summary)}</p>` : ""}
+      <div class="foot"><button class="btn" data-i="${i}">複製貼文</button></div>
+    </div></article>`;
+  }).join("");
+  list.querySelectorAll("button[data-i]").forEach(b => b.onclick = () => copy(postText(items[b.dataset.i])));
+}
+
+$("chips").innerHTML = TAGS.map(t => `<button class="chip" aria-pressed="${t === tag}">${t}</button>`).join(" ");
+$("chips").onclick = e => {
+  if (!e.target.classList.contains("chip")) return;
+  tag = e.target.textContent;
+  $("chips").querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", c.textContent === tag));
+  render();
+};
+$("range").onchange = render;
+$("copyAll").onclick = () => copy(visible().map(postText).join("\n\n"));
+
+fetch("news.json").then(r => r.json()).then(j => {
+  data = j.articles;
+  $("updated").textContent = `最後更新：${fmt(j.updated)}，共 ${data.length} 篇（近 7 天）`;
+  render();
+}).catch(() => {
+  $("updated").textContent = "讀不到 news.json。請先執行 fetch_news.py，並透過網址（不是直接開檔案）瀏覽。";
+});
+</script>
+</body>
+</html>
