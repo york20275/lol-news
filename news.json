@@ -1,6 +1,58 @@
 {
- "updated": "2026-10-07T21:19:41.501581+00:00",
+ "updated": "2026-10-08T01:58:21.763937+00:00",
  "articles": [
+  {
+   "type": "news",
+   "title": "Riot 擬限制《英雄聯盟》重播分享引發社群抗議官方今緊急宣布延期、將研擬配套措施《League of Legends》",
+   "source": "GNN 新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5talB4MkRVZnBaS0pGTUx5cXgwQU0xTXJvdmM1XzVLVE5lSEU3R0kwbXZ3dEI1VzdvbjNkN180Q2JBNFJEaHhzeEpYLTBucmh0NDFXZVR2RHM?oc=5",
+   "published": "2026-10-08T01:39:26+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "What To Expect From CBLOL Teams At Worlds 2026",
+   "source": "Hotspawn",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmZidE5vdmVpQzdkOHp5R21mb0VlelVmRG5hZkZNNGNXbzBpcHhFQ2VURElxRUgxRFU3b3k4ekZlMXgwMDcwOF9OU2d5Q3lCMENKMjZoMDlKTmJVWjFtZ3dTY09POXpZeWh6MUlkQ05LVWVWZGV1Q2k4ZkhKalhySEJzajI2Z2hOR1FvSk1wZw?oc=5",
+   "published": "2026-10-07T23:30:16+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LoL Patch 26.20: This Is The Worlds Patch",
+   "source": "EarlyGame",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yc01GLWtxeWJ1NWhxLTJqT1hkWUhzZmVlTm5tSFktcHJVOC1qWFFMbFBwLWNIWUhQeDhQeE14VERuS19NczFyU2pNcEZ0dVhsYWh1VnRoeDVJM3RGcnVXT0pwZFZyS25xN2FxUGhFVVN5N3BXWWpmbE1Daw?oc=5",
+   "published": "2026-10-07T23:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "TBD vs TBD | Worlds 2026 | 15 October 2026",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVBiNzRnYWlheE9IbXFIRlE5RGlpTDNwbVNwTFVMM3BaQTNMWEVQcF9XaVF0ZWt5bVd6eDN6c3hjZmFzZEtvdzFsZEYtUFJUNFlZOFVyRURLeVUxc1A4UDd2TlVKLUUxTWlVRGVSU190RVpNOGM1bUVSS3ZUTmdvc3NKS00xek9MUExoalNYSE9oakE5ZGJOV2Vmc1dJbkc4aHdMSA?oc=5",
+   "published": "2026-10-07T21:22:50+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
   {
    "type": "news",
    "title": "Worlds 2026 — Meet the Players: Jungle (2/5)",
@@ -94,23 +146,10 @@
   },
   {
    "type": "news",
-   "title": "LGD Gaming Vs Team Vitality League Of Legends Match At Demacia Cup Global Invitational 2026 - 1076759",
-   "source": "Hotspawn",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUttQmdkSm5aM0c4UXlMTVJlT2JyMm5kTERlRWNhRmFCXzlvMWo0MmlOTUY0YTZQTWJrMnB5czl1bnFfS1FOeXhIREJ5aDJ2cmR2ZnUxQVZtYmNzWVFjM25DVUpCT21HZ0dlSm1Ud3BFVkEzRTJpN2lfVGt5QTcxRGFWYVlQOUlJNjYzVjJhQktSeVdQUUF0cHlDSXBfS0RVYU5WZVhUYWc?oc=5",
-   "published": "2026-10-07T14:31:13+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "League of Legends World Championship 2026 - All qualified teams and players",
    "source": "GosuGamers",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbko0dWg3eFdLbEFaRTVFY2s1c1otOW9FQ1lmZ3pULTA4NWdvQUQyMWJCLXBkODdXazJxdXlnZHhrbllRRFVIM0lDVzBrUVNobzluYW1xVFdmNjZlbFR2Q0tWbnU1UWtyOUJFdFhNa0FybHRZM2RydTV1QXpYNDBBQ0MzSF8wbWV4ZTlnbnJLTHQ2MW5ZeXpkakRELS0wd0w4bEVtQUphazc1cy0wajBGUjJQV01DQ0FrZVFkcDd4dWo?oc=5",
-   "published": "2026-10-07T11:10:46+00:00",
+   "published": "2026-10-07T11:10:52+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -355,6 +394,19 @@
   },
   {
    "type": "news",
+   "title": "LoL Patch 26.20 Notes: All Champion Buffs, Nerfs, and Major Changes",
+   "source": "GameRiv",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSS0yV1kxaERlcGFBWHdFN3lQTXp4NGcwd2Jaa3VUM1g5Z2VsZm9GYzRZdGxRVG1Nbml0S3JKVHFKcTAtSzc4X2M0eFpGSGVmaHE2NU5fV2F5U3lOaGQ2WUQ3RWZJUVcycW5EaExJZkYxT191RlJHU3I1MGZUZFFtaDZfbFNRTUpkUWxVLVd3?oc=5",
+   "published": "2026-10-06T19:05:23+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "League of Legends patch 26.20 notes: All changes ahead of LoL Worlds 2026",
    "source": "Sportskeeda",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTl9mZ19tbWJxaGxtVTZCNnRCT0ctZmJOMmlNYkoxMVFwbVZuRzJlMUFoT0EtNndEcExua0ZSbnhaNHZoT1hLQ2t0bXZKZm1vYzFEUGN5Y3RpaXFmZVI3alptdm1jVjdWZ2N5WmU0cUJxZHpFbnBLak1sdVZfUElSZl9qdVZxcGVSZFNTbDZyMlMtNG1UNDg3alN4MGkzd1ZickhMNA?oc=5",
@@ -370,7 +422,7 @@
    "type": "news",
    "title": "League of Legends Patch 26.20 Notes",
    "source": "League of Legends",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVB1MGZFRG9mNzV3VW1CMGJESDhvVmRIendENDRoSXZPbmhWdVo2WEZCWFBtb1BpcFFjWWJXcUlFeG5jQ0dpYXg4dlBobFNBQ3d1YktPM3hnYzltWElIUURaN3Blb1hycWtNNExpblg1ZXltV1hlSFRWeHF2WmhKUjVhb1U0ZEFNMDNVZDlDd3NqZkYyZS1F?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTE4wQ25paUs5aDF2VUxMNHNGTG1kT3JDVHpTSVVyTzhCR0dWZ1FoZHlMVTJ0SjVpNjBJZDFsLW81NklLSTdiVUgwOXV5cjBHLXRlcWtJVnZ6bWZhUTNJTDBIVUZzVnNwS29ldDhjTDVDNFQzdnR0U0tZNzhHU1I1anVWai1XeGo3Sm9rWmE3aUNmSmtfU2pF?oc=5",
    "published": "2026-10-06T18:00:00+00:00",
    "summary": "",
    "image": null,
@@ -659,7 +711,7 @@
    "type": "news",
    "title": "「感謝」變成反諷詞？中國《英雄聯盟》社群被《特戰英豪》圈產生文化衝擊",
    "source": "udn遊戲角落",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0STB4MUFtX0VEWGdTQXdRNWpEYzRXMEtfTkRpRERpT0xKSkVuOW1IOXBVSGR1VWpwTVJQMk9SbnNiQ1ZHcHZzWUM1dTU3U0lzckRIM3FFSV8xYnhiU08zaUxSNEVQMlpfUHZrN090eGczdVdfUE5YRlpTTi1YM0HSAV9BVV95cUxQa1RiMlQ4MHVjX01MdHJETFV5M0VSRm9oajhIdlExY1pZaUVtVmluX2huTkNWazhhbTRES0Z3LUJudDZ5anFOOGphSThDcTRXdjhzbGJGbzhsS3pfVFQ3cw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84dEptTmFmUlFCbTBCZ1BGZ3Nsd25wVEpBS1JvME5CR3hCZ3Q1bjBtbzA5OVdNcy1BdklYdGpJU2d1QzZ5TkdISlZNUnItTmVWV0I0LTdyMTFId9IBX0FVX3lxTFBrVGIyVDgwdWNfTUx0ckRMVXkzRVJGb2hqOEh2UTFjWllpRW1WaW5faG5OQ1ZrOGFtNERLRnctQm50NnlqcU44amFJOENxNFd2OHNsYkZvOGxLel9UVDdz?oc=5",
    "published": "2026-10-06T08:06:47+00:00",
    "summary": "",
    "image": null,
@@ -739,6 +791,19 @@
    "source": "Esports Charts",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90WGZaQ0ZoTkFIUnRNMU5YNmlpajVQeHFEb0pxdkVYaTJJbnNpZ0Z1M2dJNlkyTEtoaDFNX19PUHA5TFFwcEt0MG9NZ054Ql94LVkxWE9KY3ZKbDR1ZEg3UUNfM2x1WkpiQWxhRQ?oc=5",
    "published": "2026-10-06T06:00:50+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "2026 KeSPA Cup - LoL - Viewership, Overview, Prize Pool",
+   "source": "Esports Charts",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LNUJGRUFUbEdmcUxzdGxzZ0QtTDExc0xPMk9yNm9oTjQ0clViSUlCN0JsZDNoWXgwYW1YQ1hVa2RacXF6YUFWZVNNWUdURDgzbk05ZWhBQmJ6M180VzBPTQ?oc=5",
+   "published": "2026-10-06T05:46:29+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1547,10 +1612,10 @@
   },
   {
    "type": "news",
-   "title": "Team Korea Wins Golds in LoL at 2026 Asian Games Without Dropping a Single Game",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3JVdHhYM1pGdjN0eXRmWl9jX1plRG42Q0ktN1FNZEJRd0RtSEJiS3lJNWxXQjgxNktxR2hOTi1ERDExRzhrX1A2MTRtWTFsNU05cHByeU1ZY2JqZHNEc3RpN3Rvak1PNWpiYlFEYldHeGRmUTVnWFhxY3BsQVhGRFRBZElSS1BfRWxaOFJTQ3RUNFc2TUtNMHJaRWdDVlhJMjhXRGZHZkp2bUJEbXhmUHZhMGVfSVZKdFVpcHBEcw?oc=5",
-   "published": "2026-10-02T06:53:50+00:00",
+   "title": "2026《英雄聯盟》名古屋亞運懶人包：選手陣容、分組、賽程、戰績、直播連結一次看",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPVkZKTGdMVm5Dd3RWNU1yem1IWF92WV9JVjUxYmFROWtVQmRBd1RlY2c4cDgxRFZUY0lLOVRWUnBhX0xfd2NOam94ZlZiWDR4Yjh6MmlpZGR5WHZHcWRQYlBNbW5TZjM1UDMtWURteWxBZGtWZmtYWFpYUjZtcWkwNWlDUTV1X0NnMnNBVmVzdDBwSFBGcHp5MDRodjdaR09aQlltdkhTbDUtVG10ekp6MkVqZVBBOElBU1dVS1MxLVJKaW54NWVnSW1ORzZhYTRBX2xxbERBcVZiVG02Mnp3RFA1Z2tjdG9oZ20xb3NYZWdBOFM2enNQS2ZoMGtVSlZpZHFWd3Rvb2h4bmZuT2R4M3QwUldLUWtIWERwaWpFZkZxZFRRNWZsczhrS29vVzJjY2FnVFhNYUhXQTVYWmxwaWE4SEJvdG1WMW5Od0pIZnJnRmN1Z205Q19DZHdhU1pPMWljNU1fZ0dFVkw5RVdIX2RLTVZFRUxXdGYxS2RyX2VUczh2OG9TRFE0SlFmUFFvZDVOb281MkNUQlRmMG5RN0dTV2taTlNjLWdyX3pfcmo5TEp4cGktSFI1c2hEZHQxOTBHMXlPYVZTLVlkQnZDSF9yZ1c4bWJnWjNUdW1qMTFPTzBkLU9NQTZGTnBZb0JTdUJONFdiTEwxMlJNT3FQZ0w1TzZ1RnZW?oc=5",
+   "published": "2026-10-02T06:49:24+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1576,19 +1641,6 @@
    "title": "亞運電競／雖敗猶榮！中華隊0:3不敵韓國《英雄聯盟》摘銀| 運動 | 2026名古屋亞運",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VazVNanB4TUNEOUdXZmFqcHotWFpHazFESm5TSnJFOVpMbkYzaVM5OGtLYWlteUlQcWxFeUFfVXFuN3V0czdWdm96UEc2NDBGSWFIRGFMbjduOEJrYTFESW1QR2dhVFlKemw0WkJIR21CUQ?oc=5",
-   "published": "2026-10-02T06:25:48+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "亞運電競／雖敗猶榮！中華隊0:3不敵韓國《英雄聯盟》摘銀| 名古屋亞運| 運動",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvNGtKLVdhQlFtSGtzbFBZNmw5bzlLLTM0VmUtWGpLb0lvQzRReV9uNXhuZVhPLWpibzl2MXlnTEpkaTRleXJmb0dGczlvVDBLMnQySHhyQ25TOGp4YXBDaUFuS21xY2M?oc=5",
    "published": "2026-10-02T06:25:48+00:00",
    "summary": "",
    "image": null,
@@ -1639,6 +1691,19 @@
   },
   {
    "type": "news",
+   "title": "亞運《英雄聯盟》擊退越南 明對決南韓「Faker」爭金",
+   "source": "你的公共電視",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54UUpSYUcybHpnWHdUUDdhSTFiQi1zbDFvaVlmejNCcUYyZTc1cF9ET0ZJT3JiMlVOaURwOXNfVkZjUWpiUG1WOVhhMW9HUUk?oc=5",
+   "published": "2026-10-01T12:48:39+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
    "title": "League of Legends’ True Damage is Back for Worlds 2026",
    "source": "https://thegame.ph/",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmhPdElkZUh3V29CWlA0Q1dMOUFFdmRZS1JPbnBibkhZTUJpd3ZmUlZNakNBM2x2eWRzdVVNVWI1LU9QX0g4aE50enhrWjVIc3VqWktVOWdnN1BBRzhreG4xRklVdDh4TXRuNzR0RjIxQW01bVR4dUlFTnl6Z0U2aFAya0dYZ2FFOUlSX2l0YkcwWGVxeThlM1U3NENYTGQtSmc?oc=5",
@@ -1656,19 +1721,6 @@
    "source": "udn遊戲角落",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LOWhUSmJ4RC1MbDhMaEhnOGxaSDdwN0lKWFRvQk9pcGpQdE9BS2FTOERxYmo1cTJSQ0FaZk1NNTlEbWV0b2FhejVoYU1YUWw0M09ucjdWaGVtWkJXREZqSi1SR3N6MWFiN3NhUEx0QUVnSkZKN09Xb3RLa0HSAV9BVV95cUxNTGlCWl9OT0NDVWR5dXhyeFlTcDVDc284VlRLb3dTNmUxNzlBU1pRWDRmMG1PTVJFRlZHbVF5cWFYV2xyWDQwZXN5OXpuTGhqTnRNZUNleU1CNXEzYUZncw?oc=5",
    "published": "2026-10-01T07:50:57+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "2026《英雄聯盟》名古屋亞運懶人包：選手陣容、分組、賽程、戰績、直播連結一次看",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPVkZKTGdMVm5Dd3RWNU1yem1IWF92WV9JVjUxYmFROWtVQmRBd1RlY2c4cDgxRFZUY0lLOVRWUnBhX0xfd2NOam94ZlZiWDR4Yjh6MmlpZGR5WHZHcWRQYlBNbW5TZjM1UDMtWURteWxBZGtWZmtYWFpYUjZtcWkwNWlDUTV1X0NnMnNBVmVzdDBwSFBGcHp5MDRodjdaR09aQlltdkhTbDUtVG10ekp6MkVqZVBBOElBU1dVS1MxLVJKaW54NWVnSW1ORzZhYTRBX2xxbERBcVZiVG02Mnp3RFA1Z2tjdG9oZ20xb3NYZWdBOFM2enNQS2ZoMGtVSlZpZHFWd3Rvb2h4bmZuT2R4M3QwUldLUWtIWERwaWpFZkZxZFRRNWZsczhrS29vVzJjY2FnVFhNYUhXQTVYWmxwaWE4SEJvdG1WMW5Od0pIZnJnRmN1Z205Q19DZHdhU1pPMWljNU1fZ0dFVkw5RVdIX2RLTVZFRUxXdGYxS2RyX2VUczh2OG9TRFE0SlFmUFFvZDVOb281MkNUQlRmMG5RN0dTV2taTlNjLWdyX3pfcmo5TEp4cGktSFI1c2hEZHQxOTBHMXlPYVZTLVlkQnZDSF9yZ1c4bWJnWjNUdW1qMTFPTzBkLU9NQTZGTnBZb0JTdUJONFdiTEwxMlJNT3FQZ0w1TzZ1RnZW?oc=5",
-   "published": "2026-10-01T07:00:00+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1713,6 +1765,19 @@
    "local_image": null,
    "tags": [
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "【亞運電競】中華隊2：0擊退越南！《英雄聯盟》連兩屆闖進金牌戰 明日再拚隊史首金",
+   "source": "上報Up Media",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56dnBRNzRpajduenNxRnlVR1h0dnhwLWhrbksxc1YwZ0p2N3NDNlhtbHFTUzQ3Y0VObjlzN0R5Vk82akJqNnE0NWdVcUJfMHdLbHh3?oc=5",
+   "published": "2026-10-01T03:50:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
    ]
   },
   {
@@ -1769,71 +1834,15 @@
   },
   {
    "type": "news",
-   "title": "電競恐退出亞運？Faker直言「非常遺憾」 韓媒曝奇葩規定",
-   "source": "ETtoday運動雲",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNVDlsa2o2QTJkLUhJQTFWdVZDenhRakxBQllBekI4NU9EbTJnMnJqQXJnS3JNZlVfZFZlWUxJdVFUSThNLVI3eUFzczMwWFQ40gFPQVVfeXFMT0pnMzNDcl9rbHhnek45NFotS193NFZUdWRIalI4Si1KOVZhQmpKTXV0T1k0aExpalktN3lnRDJQNnhxWWtyZnYxd1NJUWpMQQ?oc=5",
-   "published": "2026-10-01T01:56:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "亞運LOL／保底銀牌！中華隊2:0越南 成功晉級金牌戰",
-   "source": "udn遊戲角落",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3ZHBpVUFkaUgxQnBoSjNVVUcxa20yNE5pRDNOdnVqZGwyRW5nMEhpVmtfQnRuelhUQnpnQm5sa1g5MHNtamZfOXVhQmpiYnJ0UXg5VjBXYjJ2QdIBX0FVX3lxTFBBU2pwYUVBam1GWTJtUV9Kc0RRMHdLUHJpT25TM1hLS01HS1FnckVkVmJEU2FkNmdWQk9fTjhHbmU1eVpVQ3E3T0lyTDl5V1ZPSlZjZ0tWV3VUdWptcGln?oc=5",
-   "published": "2026-10-01T01:51:53+00:00",
+   "title": "#爭金奪銀 恭喜亞運電競代表隊 余峻嘉/蔡明宏/邱梓銓/劉家豪/陳俋錦/林煜恩 挺進《英雄聯盟》金牌戰！！！ 四強以2比0擊退越南 將要與稍後南韓與沙烏地的勝方 爭取最高榮譽！ 連續兩屆挑戰頒獎台最高處！ . 🎉2026愛知-名古屋亞運🎉 鎖定 #愛爾達電視 一同為選手",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMijAhBVV95cUxQdENfLUxuaVNwc1B6QXFDN0p0SWEtdkNWdG5pSkZ0Z1E0WjJCZWJSMVFiT2dQWXRHdU9wLTNSWDhwczhZd3hkWmFDZ1Z5eGtpRWE0dm1lQW9ZNmxabW90clpLenZYR20tNVJmZWtaOGw4OUNHaExRN3FtbVhaNEszMXRJU2o0TFRyUXNWZXY5Nmh2TnFUZlJNcHlqbl9YNVprbmFHMDdTdDY1TzBpWnJMRTBydmFrN2FnR0NjOXlta1JyX0JHb0ZnaTVLUmJBSDJyYmYxbUh1cHh5YnZaeWEyQUR1a0ltWWp3U043VktCX3hQRjRHQXZ2V0R5RGI2VHpIcUswS0pYSGROajZrOVJpYnNwbUIwXzRYVHhMOGRDaXZoVl9PNEVmRElsRlRodHFsZFNxZllXQjRwWWM5Q2xqcnVOQjBiaFY1ay1JallfUV9XeVFITUdrcEZybkpiTHpETnFvTGM4eXVVMml1QjROM2NFZWJnblNZOWVVMG53bGhPeENwWFJ4WVJYQnVKb1AzcGExY2NMcjRtQXZNNlNVU3dBbkZGSXJrU2QtaEtKZWgtY2JTZkRUMzhXMTZWUTAwakpFYlFraDRLaTBFR2w5Ukx1VWY4Q2hYWlMyMThRSkdqaEZ1cllxMUhsSUU5UWtPbjdydk9FYU1nWmU2Zk5LZE5sMGpxS25tOUt0ajk1Y1VmcmpLN1J2d3JJNGl4TkQwcVhmMk93ejlIQzhFeG1iNmFSbFRHX1dRWDhUX1RZYWQ4bWxwcWFVak5ibmhYUjNVWmRpS2JPWjVwR1Q2S3pRbkxCUU9sZ21nX3pra3FrY1RaUDR3akRMN2xsU3RiS1BOSzdKazlJb1pRTFVQbFdrNEVTWUYzMWNvR0hvdVJpbW9mWDhaSC1ZZHFIZEZ5YS1mV3ZGMnZTLWJHaUFlam9EdUhUNDVtcXlscjJ6RHZxTWJPYW9Oeng3cXh5R1h4RGlxa3VyT1RHejZ4NEl0UmJrcm9qQzFxb0tiUEpGUUtCNWE5S1MxaGhfeDZfSmxJd2NwX0Y5RGEyT2JyV181Z29aSlE3NUFJb3l0Q1RNLW9YWkFkcFZwV3JXbGtjMDR4dUYtcXZDZTM3WGJoU2VJQmw4STNydjJSNGh5amNSa0pmLW9hd0xKT1ROOXNLS3MyalRDbi00WFI4UU01cjhlaFVaX2hObmsydEwtOTNkUjNHZ0hUUWEwTlNFUENGbk1ENVpwcU5wZ1QzQnBqRHp6enJLYjFtM0JlUVBPbG9vbUl5aUZld2NFWHZCSzE0V0pEaUFYT2RCekwtTjBkc1kyY0pCc0ZJZ0JrX0VuTVVDX29GUEY2d2NIeVpYa2kzOWFrVjJyV1pEaXpoQWN0ak5Z?oc=5",
+   "published": "2026-10-01T02:07:12+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
     "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "T1「Faker」三連霸奪冠篇章⋯⋯世界賽主題曲10月9日公開《Know My Name》",
-   "source": "씨네플레이",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WNVpHWEgwbVF1OWtnVExDak9hSF8tTW5HV01UMkstbnpSLW5jZHhKOTNVNnd1OEpqdUN2aHFTbDNXRnJnclBYbVRsdUw5UGx2MWpJS25WamZDUWc?oc=5",
-   "published": "2026-10-01T00:30:55+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1",
-    "Faker",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "T1's 'Faker' Three-Peat Championship Saga ... Worlds Theme Song 'Know My Name' Set for Oct. 9 Release",
-   "source": "씨네플레이",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iTDV2eWVtT3FQbm4tdDNWamFBVktoOVBHb1EyOFlYV21jWDFZY0s2a0NIWUZfeXUxVlVpRWh4QmR2TmJzdjJfUkc0cEtuaEVRRGdBNmpkazZJeG8?oc=5",
-   "published": "2026-10-01T00:30:55+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1",
-    "Faker",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "From taekwondo to Faker: South Korea eyes golden finish at Aichi-Nagoya Asian Games",
-   "source": "헤럴드경제",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kWS1Ncmx2RHVKSUt5NldzZkJXV0hRUzQ3blBZUzRHMUtwbEVkelpCZkQtYTJqNHhNXzlHNy1URGpZY294YXhRemN0R1hKRDM1MUNpZW5EZw?oc=5",
-   "published": "2026-09-30T22:46:41+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
    ]
   }
  ]
