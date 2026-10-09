@@ -1,6 +1,179 @@
 {
- "updated": "2026-10-09T02:12:43.361735+00:00",
+ "updated": "2026-10-09T09:13:27.364031+00:00",
  "articles": [
+  {
+   "type": "news",
+   "title": "《英雄聯盟》S16主題曲〈Know My Name〉公開 致敬Faker 6冠傳奇生涯",
+   "source": "VOCO News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WNmZoQ1BndG5VUlAxZkNHcURiWTF6aFhIUXJuZHNpZWViaUhRX2ZtRS05V2h1R2o4cXJtZE1veTNqODg2WVFpZkVrcDZNWTJDN002cmduUnhEeTFrT1otbjhZWm1tUFB0OFA3SUhYdnNJdTFZX0NV?oc=5",
+   "published": "2026-10-09T09:06:16+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "True Damage honors Faker's legacy on Know My Name Music Video",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXlpdE1tU1JjQkdGQTZmaWREUHA1MVo3dkY2NS1MSi1UaWpfa2daZ0oyMm80c214ZVBMMVl6RERRMzgtTThfeWJ3d3NsUzVTVEd6R3M3MkJQeXB4dGZ4ZkJXTnAxX3k2RGh3NnQ1b0hvYWVjbXZJeTFycU54TTNsMldONnVUNTJkWWpIMGpXMzQ1dklnejV0eUpGeDVnZEFkdzBmQ3JsQnU?oc=5",
+   "published": "2026-10-09T08:21:04+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026: LCS, Can you handle the pressure?",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGlqZFpuMHg2VjYwRmNyR214c0FYbGFzLTN4ZDBvVk9XczBGQUxWVGgtbTVQR25ldFRKX2NNZnpmYUtqWE91OEVERV9rcl8zNVhRR0F1ZFNyUk5HQlBzcFp2TmZndXp0bXg3NUxQbWEwbjZnYkRnbzhUaEFERGp6U0R3cUtFU3hERzNReGtkWS0?oc=5",
+   "published": "2026-10-09T07:57:01+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "《英雄聯盟》世界賽前Faker新廣告又上線！這次與Keria合作笑翻網：真人拍得像AI",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNWEJpM1hzb2FsYS0yQ3dybGJrS3did0M3Tm5NY29tbllUUC15WVl1N2wyemwzY0JSMTRHVm9GTi03UWhBT25oX0dwX3ZzeFprT3Q4aWNpbTcyVTRYWkdBV3dlcmJ6VG40LTNHeGhSSDdXZGlpY1BmVEZ4Y2FrajlIZWVHQy14SlJFUC0zYzlHRi1WQVpVREJFeUJkbnR4OXRiNER1X1ExeTdrbEwtMkpjeW5ubm5ENUdtMU9qU044cE1IWTMtODB6Y3pOVmM2SnJiT0FEaHNjMnJ4VXBscHVQSjNGUnBfeHY2cUNDdzU0T0JvYXdTOWppbDQ4WTRERjBCZ3d0WHBXTUdyaXFVQ2tZV3NRZTRwR0dycmN3MC13VVJaeF9DN3VfR3dROVVwZ00yR2E0MUxTZG1xY3d4WGw5b1ZyXzlxaW5GTTB6bFV6Z3N0YWx2OFllMjFsQmJoY1pUUmwtWGJILWNSNDNjWGxaQ2R3bldmdk96SlZ5N1ItOEloVUxoVmRkZ2tKTXBOS1dyLThUdjZLTWpPVUtTeDRvRklfZWFzaXR4d2d1TDZmMzh6eGdTblhyamNxRXVSRXY0aGJFLWxPUkdvYlB4VXdKM0F1TUFUd00?oc=5",
+   "published": "2026-10-09T07:35:25+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LOL世界大賽主題曲MV揭曉！重溫Faker傳奇 CFO「飛牡蠣」也出現",
+   "source": "NOWnews今日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2SW9YWng1OUtEdzlkOGxaODREZThSOFFWajBBU3BZbjJpODkyb2dYSDB6WHFxVVVOYmVZQU81UjJiWDZCdTV0emxVUFRud1NYckHSAVJBVV95cUxQdklvWFp4NTlLRHc5ZDhsWjg0RGU4UjhRVmowQVNwWW4yaTg5Mm9nWEgwelhxcVVVTmJlWUFPNVIyYlg2QnU1dHpsVVBUbndTWHJB?oc=5",
+   "published": "2026-10-09T07:01:19+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "2026《英雄聯盟》世界賽懶人包：賽程、隊伍、賽制、直播連結一次看",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNZ3d3SzhvRjd2V0pwV01IclA0NXBjVTZuUFd0Q2pQaTU1TU5QcHFTS3A0TlB6MlBPOXo1aXdxNGxQWjZnQXh2RGg3UFozQThjTUJjLXRyNjRyNndjSHgwS2h4TmlhZWZmbXJubTh4TWRWYWFIOU15bG11aEVIanZ0ZXF1aDZDdTVfaGhsU1FJeEQ1aEdkajZzLVBISjRIbkQtWmtobHVySkx3M3Rybm5oeWVLbjBzdWs3cnJkNnVJVVZOXzhmMmwzTjFRZHVJVHZjMTRpemJURl9UbFplOE5kSTMzRGZYbXRXV044VFlUWnNDWWx5VlNqcWJ0MTAxakQwck5waTJ3VmpsWFJVR013OVRsS3BzNV9mQ0twQzBDXzFzVWFmNkVKOG1jdm00VmFZTi1TNzZNZlNIc1FTYmlCaE1lWHBWOEtDWm5XT3JkV2gyNEJYLWUtWmhvejkwNTFjVVZYd3FkaURYNllGQ09tNXF2QnRWMThwdTdIdllicHdubFg3cmI5Vy01VzNIRWt1MmNXa1dyckVscUpOVDVaeFhDaVBYbHJTd2IyRGR3YllZc0Nz?oc=5",
+   "published": "2026-10-09T06:02:20+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "《英雄聯盟》世界賽台灣選手只剩3人創14年來新低！有11隊中路都韓國人",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNV1JsRVBINjA5UXBnSnNFQ2JGa1dBYUVaYTRCbUFOU3oxMEZGR0x3bDItNHp5STh3a2hsMWNmQzVST2ZnUXJOUDJJX1duMVBRcUVQTVFQdGszZVFxZS1jQjBRQWtnT3F5ejRtei04R0ZWRkF5RXZoVUlpUGdsUWtZYndnUFlDTTBQQm8teGtBcy11SGRsTjVmMDN3NjlodkwzdmNkZkg4OEJoMzNPU3ZkQy1QRnZCWjZMXzNjVk85a2wwSVV1TGZYYUNiX25MX00tLTBrVVhfcnozSFNJcy1nNndhSEFVdFljNHVoX2VYd3IzWVJuQVg2ZDZ0YVN5TWJ6MzBsUVpadHJYcWdzX1pteEVrTVJERHpPSmw3VUQ2Z2t0TjBtRjgzeEJaSzMzaG5lRXd6a0hhb2VlOFBNcFZWdkdHcDljS1lCM2lvTGROSHRlMjhhVDdab09lZ21oZFpQSElSczdNdG52Y1BWQ3ctMzNhRk1VS29lRnNSOEZ0V29tbVVXc2xkV21PR1BqRk9Yclh3OTZnUURmdExPQUFGUU5BY1kxbXJDcTNtMTQ5SnJNTmZRNzE1M1dOa1pnbGVkVmc?oc=5",
+   "published": "2026-10-09T05:55:07+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "《英雄聯盟》Zeka冠軍全都有！網封「史二中」卻仍有爭議：再拿一冠就穩了？",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxONHJoS2VUdkZobUtLWktRWWFldTc1VmZaenFUZDZPdWNXVGROWjFQZF9abEQ1UG1TUVdVSEJINzdScW0tel9IZmVOS3hNTFRhTDBBczlvZy12ejJxZVdaTU5UQTJfRzZhMGxfbTVzc1BfSGhHd0JjU3hldnZEclc3UFluVWQ4eXkzbHRod0hLdzU0c0JkTm1FYV95U0VKaEk5S3ZxUXY3amVNMVdjYjR6UHVCYnRfRGlPY0F0MXNYUEEtS1U1NmNyT3pHVWcwSHRyd043OWUxRk1EWElZUzMwTVB6UGFfTkJucDNZanlkNmZQRXZsV3dXUWZqZzZRNjViOTIyTURfcUtrLTk0V3NROVllN1BuNXcydlRmSm5hUlE1TGxXaXFEdDkxQzlRblljT3lEbnRHdEUtaXp2QVJJaXJoTFpwWFJUVFNWQVpuNF9mS3l6Y3RxXzYyWHk5X0ZIUTdoR1hCQTZMV3JSYkY3emt6RGdsMW5hMUkyX0RkR3M1V1h3VUZuSlNtUEdKanVLbGh6Uzk4ZmRodVJZX0tKMThHMFBkZUc1cjY1enBxZmhIbGM1Vk56N3ZUMnZpSlREdUJKWkVjOU5FV3RSNzVPNEY0UExhYmdtLXYwbjB6bkdIclZi?oc=5",
+   "published": "2026-10-09T05:41:50+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "2026《英雄聯盟》世界賽主題曲MV上線！重溫Faker三連霸之路淚灑鳥巢、加里歐登場經典鏡頭全都有",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNallUaWYzNG5xc0xUcy1uUnBjcjNGN1A0UnRnMkZ2aGJ4Y05vbVpkVUV0N0xEZ2VaWWNOajlmME1ZZ0FuSHlEZmRCMUJIOC11YVpSWG1TU2FYRFBhY0hXU0lYMlFhV203ZldTZ3pqcVhWcU1nQnVFOHVSbGlnbjhUREVnWWZ0RS1DT2JDUG5zbUhkQ1hla1NvMzZnYXJCX25vTzl2b0JzaFI0WHk1aEJTTTNBRDlqQV9iam5JbkRjWGxNclFlY3pKZk9hSko4Rno1VXotRUp3QXEzZlRJNkktZFJZYUlEdnNkREwtbEVVa2dSTllIM3FiNmRfTDVHeW1wRjhSRGp1SHl5OTJsUHd0bzZwNG9aRWdlWU9EQ1Z6cDA3d3JiVXE0by02SlZQakE4MlM3Zm1uSi1pdEJWOFNkSnZUY2xHYi1WeWxrNnh6alhyeTRKOUYwV3BIOGJQZHpRaXRGTUZZanZMZUNNakJQWF9vbUFrdjB6QXpHeHdtQ0dDQ0JyQkJkdXc3eklSeXBVMHBtM1F3cjZTRklMNkxud0RsQWRFNVZabUZzel83a0VwaFg4UkxVdC12S0FsbW1LYjJzVmphMnAweVM0ZHNIT2hwZHVLYkJTOHV5aTNvcWxmQ284ZVV3TENuOFd4T0xleE1rOXlkdWRHZjVudUVvaXdTTG0yVTQzU0hnRU9KeGVobEVxOHcwbDJTMllwM0NadG56RlpxY3RJVTViQ01ORWMxUjRKWDg?oc=5",
+   "published": "2026-10-09T04:28:14+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "2026 LoL Worlds 'Know My Name' MV Captures 'Faker' History",
+   "source": "Inven Global",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkNzc0VqTldRaXhYT1dQZjU3ZDRfWVpvYm42ei1icTZGejRXTWdyNG1ZRk9CRzN5YjNkVjZGNjBVMnV4MW12Rlo1VHhaUWFlcURZTkViUVN6RC1jQ2JKMjBOMWhqUTAwaGVMdC1iY1NXYjhGSWpoWGlabXZQcDFTRnlrekg4Z3FQdm1qd1BqcjlYU3A0ZWlXc0l3T24xZw?oc=5",
+   "published": "2026-10-09T04:09:35+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Faker's History Captured in One Video: 2026 LoL Worlds 'Know My Name' MV",
+   "source": "Inven Global",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGlCbGVHdW9vXzlaQzBCNmduWDN5S25hTVFPZXJuczV0QklxWDVPaW4weWJPdHdnVTkxS2dnU05BWXNqZnMxSTN6NVhXTU1zMGFjYkVMa2RTSkw5T3NCUWF0WU42Wnh4ZUdaT05vaGpITXdWOEhweWVwajNiNWhJdFU0RVNLcWJCRjNuR2hsN2MwY0ZveGs3aTVVVFNtTDUwZlloZjI5blJKbnZNdzA2eQ?oc=5",
+   "published": "2026-10-09T04:05:33+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "【英雄聯盟】Faker三連冠傳奇登上世界大賽主題曲！《Know My Name》MV正式公開True Damage睽違7年回歸| 上報",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HU3dTY3c3YlBwZi04V3lWaFgyU2NWZUJUMUhUSkl0cW5KZ2o0LWRvUlV0dWZSa1ROWEZhSDdoX0NIaWFzbmxsc2dyOHEyYVI4S0lycUtR?oc=5",
+   "published": "2026-10-09T03:29:07+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "【英雄聯盟】Faker三連冠傳奇登上世界大賽主題曲！《Know My Name》MV正式公開True Damage睽違7年回歸",
+   "source": "蕃新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVDlmbVNHYUFjUjN6bURuS1FRQTExS25uX1hyYV9leWVUYzNjcEpzc0ZPRnpwalJEeXlsVV9BMkIyMVpIRGxTbkstWmUtb19MekE?oc=5",
+   "published": "2026-10-09T03:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
   {
    "type": "news",
    "title": "《英雄聯盟》S16 主題曲〈Know My Name〉MV 正式公開，致敬 Faker 傳奇生涯",
@@ -25,6 +198,33 @@
    "local_image": null,
    "tags": [
     "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "League of Legends (@LeagueOfLegends) on X",
+   "source": "Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1lcTRBWkxITWs1dTlrMVBtN1lHQm1PYzV5MDhOcnVQbWhpc3RzVGN6MW9jVTBrQ2hxdEtz?oc=5",
+   "published": "2026-10-09T01:00:09+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "True Damage returns for Worlds 2026 anthem Know My Name centred on Faker’s historic three-peat",
+   "source": "GosuGamers",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGZmM1J3endvanEzZEtUdDRvcURzWFU5cVZEcUZ6WlJwN2NFcW50YlhXaGxzLWlpNE5hZndJWkJfTE1PUUl4M3p4YU93NndjQVQzZHZLN1B5WFBzSklXeTBEckswTWhDbXVFTFJVVEJZbDMyeFNKaURLclBjZHlpNE01TE5pUWdBMXA1dFYycTQ1dWZ6dmtDVTE5dmptTkxGYVk5RzRFUzZfUVdzTzhmS2VvaUctV0tsOHA5NzZvY1UzTHM3aXRfaV9MOURSVHY0WWc?oc=5",
+   "published": "2026-10-09T01:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker",
+    "Worlds"
    ]
   },
   {
@@ -84,7 +284,7 @@
    "type": "news",
    "title": "League of Legends Worlds songs ranked: Every anthem from 2014 to 2026",
    "source": "Red Bull",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xR0NWSmZpVTFya1F3dDRHS3A0TUJ5MjgyTkUtdVVrWVN3ZjJ5OGl5U05tNlBjdUpCM2tPUXBjQnh1YVpVSG1VZURlSkRqVDVoSWxCLXdrOG9vdDVsbXhlYTNnZ0REREJqYXoxMzJteW5qaC00YXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YS3Y3dVhYOWpjRWY1V0lqS1hqVnJRN3ZLdzRWTVJMZG4yeGNGSUFaVEo0cndnMVN3Y2l4X2pvOUo1VjlLMlJaMDlZS1VZTE9yQ2FGZXJyM3VGb0FOUUJWbTM1cy1haHJrNl9vLXhIS1NadC1YRmpF?oc=5",
    "published": "2026-10-08T13:46:20+00:00",
    "summary": "",
    "image": null,
@@ -188,7 +388,7 @@
   {
    "type": "news",
    "title": "LoL Worlds 2026 Power Rankings: Ranking Every Team from 19 to 1",
-   "source": "EGamersWorld",
+   "source": "Egamersworld",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2pQQVZaVGN5am83MGVZc3JOUHNqNkVrTTlXQkpvVUVLcVF5QkdIdE02N09hQUd5Z2d3QVJ1WFluXzF0S1ExTXhBbC1nRm9pY1FvdDBfQTNvamxNa3JfT2xEcXIxNzZRWXhSb1lZYkpZY2hwX2dOLTl6SnlubHFUSUdaZFdmZ2NBcEd5MTFuUERMVzJK?oc=5",
    "published": "2026-10-08T09:39:34+00:00",
    "summary": "",
@@ -293,10 +493,10 @@
   },
   {
    "type": "news",
-   "title": "Rapper Northfacegawd Apologizes for Using AI Likeness of Pro Gamer Faker in Music Video",
-   "source": "SBS Star",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3dSNmw1a2RySy1GcW1lTVUzM19qVHNlYnBjSUxlcWdMS3ZpMDhycHNuSWRYcFZqbEZpc1FtUXgwSE5aRWdwQ094ZE9kSFV2emhJSlV5WVl2ZWo0RTFEVjd5NDctbmZUdG5tVmZ2cksxUGRVcEdwYV8xVF9ON1lkdWhfZGtrZmpUN092aUNlXzN0UHZ4SGZGUFQteFRGT1Jrb256aUtLRUZYTFUzOUhnd0dGaENDNWQwYkpfOV9EbDRwb1lERFE?oc=5",
-   "published": "2026-10-08T05:09:22+00:00",
+   "title": "最老奪冠不是Faker！電競老將32歲創紀錄 他也曾是世界冠軍",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQMXBiMXdJZVhVMklyYlRWVkJrSWxxZ21EakJuQURFM1EzOWp1V2xKQng0cHI4aFNBSTUwQ1ZDY2tEd3pvTXRyTVdMOG5XMDJTcnJCQmhsSkstYy1OT2E2TEdmaXljNDdUcE9HcnFuN3d1WGk4dzVjcGpJSFBSc01ueTh6MUprZzhlUFVraUFnOElfbGk1VWlvTHhlVF9BNFNDdHFxSnB5UTZNVkZkZFJKdzZXc0Ntd0J6T0pySnBFR2U4NGZUVzBWcHNRV2QzYjJ5RjJqQXNGNG1pdlhVLXdzdVpocGdXMDFrc2FUb3l2VFE5SDlBc1lqeGw1dEkteVhtZDl0ZFdwX2d2ZHUwcGxJUzdrcmdBVWFIU0ZDbVlqRkY0ZWI5czlUdkpIVEZIdFNNNF9qQTBwS0lqTzhMRjNrMHNDZnJZYnFQekVvRV9EalB3U0RuMXR0TVpBVnJqblV5M0xRNFdIbFFOSzdoX21XR3dB?oc=5",
+   "published": "2026-10-08T05:10:33+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -553,15 +753,15 @@
   },
   {
    "type": "news",
-   "title": "《英雄聯盟》震撼彈「對戰重播不再公開」！精華剪輯創作者哀號：要失業了",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNdm1kZkMxX2pzZEZ6ZHcwQldUdmpDcno1LXdENzBRZnhGeUs4dkpBQVR1M3RfN05FajZURm1DNEVGQm5LUi1HTHVuSlZfeUZBQjVIREZJbkJ2VFdlQzkwdWgzdnhyOEVQMnJNNnFia0NQTGJMeUtPMVlRaW9BY29OU3kzbHFINWUxRVA5SzhTZGlWZ2tKRldVSkdHeEZodWNpSWYtMFB1NWJOb0RTLVVMdU4tQnNBUXpJZGU3ckRVcjVDWkN6ejRlVWhZR0lsRjNqODh1SDF5WTBRSEFmaU9JMUozWVBHTHVRc19CMUdILWFhd0V4VlFXMDlsQmlhMThWUW1hNmV0UXJTTGppWkNIbDlGTHE3SjhwNGRmdlgwYUx3b2g2eTEwcm9KRnF5X1A1OWZ2T09paU0yX0JvNFE1WllGWFQtbWhvdWZkd0hNSUloU2VnRnVxZ2k1SjlRTHZpVk1SelNYa29Mc2pCSDZoTnAtMXc3Qy1UYl85WGwwTWVCQU9QQkhPSGkyemlrYTlyelhNbG1GbmFRakZYMlVkOEs2TW5vMHV0bHFKNi1nZjJKMFZWS0ZaSlRmWmVYMnlfZ09vZ2VlV0tINEd2REJPb1dYSWs4LVpmcW5jZ2dmU0tRb1N3VFNXRk1zcw?oc=5",
-   "published": "2026-10-07T07:44:02+00:00",
+   "title": "LoL Worlds 2026 Battle Pass: Schedule, Price, Levels & Full Rewards List",
+   "source": "Egamersworld",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmwybk5LRWV4NVRRcGhPbHVvcmw5cENuU0laWG5EVjBsMnVHVFhkRWxlV1FPNld4M0pZY2g1Z09ZRWdUazRralZZNFFHcXRNclY2aWlnaWktUGFSSjBKX3NpMlpJV2s4V1BnTUZqMC1jVC1kWXhDblBSMUpfdXg4M094SVlWSDRWV0hxcUZ3RXJVV0hi?oc=5",
+   "published": "2026-10-07T07:40:10+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
-    "LoL"
+    "Worlds"
    ]
   },
   {
@@ -658,19 +858,6 @@
   },
   {
    "type": "news",
-   "title": "《英雄聯盟》26.20版本更新公告",
-   "source": "League of Legends",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTVkSzVpU2lveVc4SlRtemNhRFFmTXM0WnllRUV6QjJTcnZRRW1JOElQekxFOTNDeVhjRFZiWWtndDBsSEQ4Q0ZCUEJ1U1hyWkMyVXdkVjRSQ0tkbGpJVEZoVkRNTGEzZlJPUWJtZ1ZyV1BRd29LbXBWc0gtVjA2bVBuX0NUNkdUbFdMelpDTUFNVm9KV3c?oc=5",
-   "published": "2026-10-06T21:45:32+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Everything We Know About LoL Worlds Pick’Ems 2026",
    "source": "Insider Gaming",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGlXVUdGM3BoV3FZeXl6cExmTnVLSzVkdm5CR0VKN0pkYVRVQTJMc2lZYnpmOXNDeUw5YmRMbHRlQmZ3V285VTRETm5VcHVTOURHaWZ6ZkZUY3doWko1WTN5Tk94a2p3RlJBdmpka1VhN2ZvTzdJMUFxOHBzZjA2bkxR?oc=5",
@@ -706,6 +893,19 @@
    "local_image": null,
    "tags": [
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "《英雄聯盟》26.20版本更新公告",
+   "source": "League of Legends",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFM1VkM0ajBDM2xGeGtCd0M2cXdZWk5pN1AzR01aSWtjcTQwZjYtZGIxWnhRRmlURm5Ecy01b3MtWmdTZEdDWGxnUW1oWVU4V1VGdDJoWm5EM2E2UWlzbmlrbWZsNEhJQ0t0Z0JuNWdia0JRWFBFalJ0VWlFQXFTeWxwNVVlWVprTHpUWm52YW9TVm4zRUZF?oc=5",
+   "published": "2026-10-06T18:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
    ]
   },
   {
@@ -1195,15 +1395,15 @@
   },
   {
    "type": "news",
-   "title": "League of Legends pro player, coach and owner banned for match-fixing",
-   "source": "Dexerto",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWQxVjhwR0w5U3hLZUNuS01yckk1b0puenZySnRaTldmUzl6bkNDcXZhbjZLOFYzSGc3Y3ZmZkQ0Y2JJTXppNHJ1QVlLMHV5ZEpJUDZmaEZDSE56UnUweEMxRG1sOHVLdXd2ZzZoOEcxU25kRUtqbVg2UmExclBmX1VoUWZXY2lQVzRrV3oyUm0yMFpWZ19LVGZjQ2owcU5TNGJpNHU3Zjk2MmhNYktlMVppWlA?oc=5",
-   "published": "2026-10-05T18:24:11+00:00",
+   "title": "Every Team Qualified for Worlds 2026: Rosters, Seeds & Overview",
+   "source": "Egamersworld",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xNERNUFRaRElGLV9lMG1iazl5aHFqUW1xS2RqOXJqd0o2WmdwQ1U4Y09pLW9YTTFqc25Ca3BTZXotR0RIcTBzamNaQnA1TXFZSC1tdXk0QkhmclRMRnd2dk85Mkl0bF9mNGpLMUJBUmFid2JPUFlSS2k2VTduQQ?oc=5",
+   "published": "2026-10-05T16:45:30+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
-    "LoL"
+    "Worlds"
    ]
   },
   {
@@ -1265,19 +1465,6 @@
    "source": "Hotspawn",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84eGdlVnVPN0toNmFiOC03cFdHb3hoZXRuUmljWENrdVBqZVlHUEljb3pxdV9CVDlGYVlBdVhwcXZYM0swaEJwVjEteDNqUVoycjI3MUp6Z21nZE5MSGtmUUszUWQxRXpyZWpyNTVJTEkwWVZiWC1V?oc=5",
    "published": "2026-10-05T15:00:31+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Format Explainer | Worlds 2026",
-   "source": "YouTube",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kcFRFZEdsUUhtUzZmbWJJb1J4XzBXYjl3LV81U0FsUXRQcUVnWWx4ZDUzTzlDN0pTY3E3Z0wyRlRsMHhxb1E3Z2hRcFJQbjQteHo3bWpWVHphbU1F?oc=5",
-   "published": "2026-10-05T15:00:05+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1376,6 +1563,19 @@
    "local_image": null,
    "tags": [
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Top 10 most-played League of Legends champions in Ranked",
+   "source": "Dexerto",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEQwSDgtTUNzYXA1S2RKZGQ4bXFUUWltTmtIczJLUThubTZvekdVckFjZE82QXBpQkxyVk5wWEtPU1RKQVhNN2lDQW5RekdnNmZNWHZQR3VDMUhDby1sYVJ2WU0xMERsc1RpTFVDUGJPSjFXc0Y0cmlWTG5kSnpURG5mQWMyQng4UXcya2FGMHZlRW5NS0Rtd3JEZ1ZOZw?oc=5",
+   "published": "2026-10-05T07:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
    ]
   },
   {
@@ -1538,6 +1738,32 @@
   },
   {
    "type": "news",
+   "title": "亞運電競》未出賽看隊友打敗台灣奪金 30歲傳奇Faker被問退役這樣說",
+   "source": "自由體育",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HOXRJTkE5TDZQZ2ZkTFJEbkRQRFhXRHBJbE5YejBJeWQxRVdmUWFHYlZyOUNrQUJHdTBKUnN1XzMwZG8xMTQwelN3WEc1UDFRaER5b3dfaGthYU1oNnlncdIBZkFVX3lxTE5NS1hEcTN6NGd4SS1PMFdXZHhPUjNTeDIySXZZc0tMV0VDbFZlM2lwZ2JjVmYwVWo4bkktZ1FLb1EybjU0cnNtd1ZLVUZnQWw2V2FoTXZxQmFEV2RFX0dkOU90LV9wZw?oc=5",
+   "published": "2026-10-03T03:08:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "How Faker coached South Korea to winning the Asian Games 2026",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEtiSXhtN1RDTUM5bFR0ZHdvOElwLWFfQUtueXVvRS1YdlJfRFkyQXhxZVpOdkxyVTRGQmtPWVBKZHUwcjlPbG1TVWxTOE15Rm1QekFpVmpqRHdZUDJKQ1h0Z0VvMm50aXVaMkR2YktYSkdVTERGajh1ekx3NnNkdklmdVRHM3ZPVEdCenNHTHVIYUlmUVZTMXBEUlRKNjZGdHJndi10aDE?oc=5",
+   "published": "2026-10-02T22:07:03+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
    "title": "League of Legends Demacia Cup Global Invitational Preview",
    "source": "Insider Gaming",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1JPYUFnYlRKNTZrRDBxa0hpWUZwZVFpRTNGRl9nWHR5TUxwSnB1TktDOFJjbmM0M2VKcUNWS0M1NjVmWTdhNUdBYmVRcGdpMDRUdVd0ZkZ0VWwzWnZVOGtMUWd6MVdPVWNpUVk3d0lyT0xSUFp4MGNyUE1hZUFXOVNnQUh4MXhFVmowbXVn?oc=5",
@@ -1590,23 +1816,10 @@
   },
   {
    "type": "news",
-   "title": "Even T1 Academy Are World Champions After Winning WSCI",
-   "source": "Insider Gaming",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXBEOFRQN1FSQ21HWWhmZzQ0SlFpcVZIb1BxaUM1eEhUNWhHdU5ZekpfLWRVanlUMDFWcE5jMHRnNl9EN2NyRnNoZ200ZkpkeEY5WU82ODJlVkZyaWN4X1d6MnpLUkFaUm5UZU1mYmV4Ynd4aW5XTE1vQXVEbnJlYW5JX2p6aUdGMFE?oc=5",
-   "published": "2026-10-02T15:39:23+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1"
-   ]
-  },
-  {
-   "type": "news",
    "title": "T1 Esports Academy capture inaugural WSCI over Solary",
    "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3FpMk1GNmZzRlFwbDhWYmJxa05mbFl4Ujl5NVBFQTNlZE9US0VrUG9yQ2FQcXlORHpscXQzWURaSENNekRNbDNUeEhYR1cyVnhzTkFkNDhFdXBFQXZvWkk3TDZzYzFLZFVMVXRMN3o3MzZkWk1xZUE1RXpiQ0Mzc3ZfcjVuaGU3SHJyUnczUnBTUXQ0WlhvOE5B?oc=5",
-   "published": "2026-10-02T14:32:13+00:00",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSXVoc2ZoRThoaTFUc2EySGZkU2JhMHJ0VG5ZN3REOGxtRVVwSjQySFNtN0VvU3BiaW1zSWhKU3c5NEoxc0J5X05kQXg0VWRKTUJYRmZKZlZkWDhiM0JzUTRfN0IwQjRnNEdELThRRHZVN1lYSEJiM3ZGbEtjT1QwYld2cjZiYUNvZTkxcEI4ME1qZFdwTkozdTl3?oc=5",
+   "published": "2026-10-02T15:08:28+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1703,216 +1916,6 @@
    "local_image": null,
    "tags": [
     "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "South Korea Completes Flawless Run to give Faker, Zeus, and Keria their Second Asian Games Gold",
-   "source": "Insider Gaming",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LQVNETXBwY1NGMEdGSnBUUlM4dXhQbDBwOU9WbTdzTGNwUU9JRFBlNV8ySTBjOVVRZDhHeVpaVks1b0hJbnk4cjRtQzRfeUVvX1J3d19uQzh6RGJGS3p3cWtMc1FKNnRxQXpTRw?oc=5",
-   "published": "2026-10-02T09:11:56+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Faker: \"Winning Gold Was the Bigger Goal\"",
-   "source": "Inven Global",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXl6SlBnMndNX0t5R2V6TldCY3IzZDVpX0V0REpNdlhMVkF1SXdLX2I3Z21wcVBPTUY5RVJINWoza3JuZkh5VXlyTzhuU3QxTzBjV2NxeW1zMlFDVERGYk9XbHE5Q0U3VXdEckVfVHdWSGVOal9KMk9vZl9MRnpYVTFoYzBDRU4x?oc=5",
-   "published": "2026-10-02T08:56:55+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "【名古屋亞運】「英雄聯盟」中華隊不敵韓國隊 連續兩屆銀牌",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWklYWGZOa3RndU8xWnI0dHhpMDVZSVJLTkxENWkydHZyY3RoUXBxMkN1eXFhRnljcjgzNTJLdW5aenl2SDFSXzE5MVd0cDl2VmUtV2xGZUlUM3lmZ3c1dGxiV1lacFpNNzJCb2wzaG5YcXo0T1lJdS02TUZKemZvQ1VIRmRyOXRG?oc=5",
-   "published": "2026-10-02T08:38:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "How Faker coached South Korea to winning the Asian Games 2026",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEtiSXhtN1RDTUM5bFR0ZHdvOElwLWFfQUtueXVvRS1YdlJfRFkyQXhxZVpOdkxyVTRGQmtPWVBKZHUwcjlPbG1TVWxTOE15Rm1QekFpVmpqRHdZUDJKQ1h0Z0VvMm50aXVaMkR2YktYSkdVTERGajh1ekx3NnNkdklmdVRHM3ZPVEdCenNHTHVIYUlmUVZTMXBEUlRKNjZGdHJndi10aDE?oc=5",
-   "published": "2026-10-02T08:29:03+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "亞運｜Faker領韓國3：0擊敗中華台北 《英雄聯盟》兩連霸 (16:22) - 20261002 - 體育",
-   "source": "明報新聞網",
-   "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNUG9wQkFlQklWbGxqUEYtdVJEbnlBcXhBandiVnFfNjdobkp1LUVKU25qdWd6WHJtbUMyQ0ZjQXVmeUozTi1uQmRSak9mSkZlaFFKWWVOVU92b1NhYUN6VVhvcjJLQlM3WEVoMmViMV9YdHdaUjQxZnhPcmE2bVNjaVJLMEJKVU51eG1PZlE3Y3ItTllIQ0NrTGVVNEJNNkZnY01yay1NemdhQ1REajdYS0JDSU9oanVZcVJTeEFET0lYbmxnOUpXczdsSGV3SDVYMkQwRWJLSGNFN0Fsak1YVTlQSXprNHlyN1BLUlNjWW55SWUwN3ZfRjFvQks4dXBiLUUxalRwdUdHUllObDJVWlRObVBSUnVHMFd6MWdwTGl2YXU2bE1QS1g5SkVPRDZQVnZUREp5b0p6VTUtM2l2alhkcHpRVzU5RXc2SEUyd082c2RQcVVKczBfSTc1N3pNYjRBMHRZdU9mdUpMbUNPcDB6allTenVHNWQ2OEM4cDltLUNnS1JiTzZCbTk?oc=5",
-   "published": "2026-10-02T08:22:18+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "亞運／英雄聯盟金牌戰不敵韓國 台灣奪得銀牌！連兩屆登上頒獎台",
-   "source": "Yahoo運動",
-   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOWDB2TWgyVWg0Z2RCclloWnBfSGxDcjdkeEg1UTBLRUpBU3Z1VHhsZUhwZ0ZBNkk5YlpyWjVPVndaWXBRVlBJNi1jVGthdVlMblZ4ZlpEUVlWOWRIVHMtLU9oN2tJRWZYZTI1MDlNV0pyTnpJVTZmczZJb1VjTG9Lemh3SnZYOHRjWXRUTlROTHlCY2R6ZGd0TkZOdEpra3ZRWUg1M1ZNOVVPZUE3UndSdjR6VkJZbjU5bG56NThVc0VKX1Y4dGJScGl3R3U3ZnRkcDlPQzdEcFhwQ2x4b3A4VG84NlFHb1VLbVJXNG5BODBRVHNWd3NOcVFfZGFrSDc1NW9JRUVUM2tySjNXZndrQnJjdGx1dW1nT2ZJd1R6UFlVcGNoTWs5RURzTFlTQzVBdmNERUh6WnhpOXZ1cnJVdGM2V3lwT1ZrSFJhZFQ4b3Y1Sks1N2dBb3NBdFRDOUZCSXRhZWhtSE5fQXNJVUNNVms0ekx1TUsycEh2OWkzMlVERUxxRE90RW5JRGhXTmtUSUQxTmNsV2NvczZnOUxlbTNQN08?oc=5",
-   "published": "2026-10-02T07:42:16+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "'World's Best' South Korea LoL Sweeps Finals 3-0 for Undefeated Gold Medal",
-   "source": "Inven Global",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmFqTG0zTnpQQktmT1FGSkl2N24tOE5kUDZvWW5hVURMZmZOSmo0aE8waHlka21tbVdwWThlVDdfYW92RnZleTRrTmRTMlRtUEZRMVZOZXJSd1VyVExaMHoyNkg1eW1FM2gwQ3JWSThDVVByZ1cxRmJhLWpJX0lfMWdyN2lxTXplM2FsbnlxZTdic00tTy1aVmF6NGlUU3lFWnlIcFJhZjZJcFA5T25iRm9ZTTc?oc=5",
-   "published": "2026-10-02T07:27:53+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Faker at Worlds: Every Championship Appearance and Result",
-   "source": "Dot Esports",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFdOaWwtR3VqbmRRLUNLdjNuZlh5XzZJZGZ2bHNhM1pSWXl3RzdCTzlLMWtiWWEwb3FhUXVBWUd1Q2VhcklsamZJN0hsM09uNFNWSTBxSEdIamRSUE5kXzNxeE1vWjN6bXo5b09FVGhlZGVkRlhmSE5QVnlKbG5OckZ4eW9uRFlhakdOX3VmVS1oOWh3UGc1a3Y5LXlESFNQUjhqRDg1Y0gyMVc4?oc=5",
-   "published": "2026-10-02T07:07:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》True Damage 真傷樂團全員換新裝！新造型搶先預覽，犽宿成為本次世界大賽造型",
-   "source": "COOL-STYLE 潮流生活網",
-   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxON0FoNkl2V2dTYnNmRXFSUlpiY19oeXJUTGdEN21uNUl2MlhKbDRpRFVMWGN1cjZlQnFSczJBSVc3STlMNHRWbXJWQUMzOFR6enRaLWR0dGtaX3Z0LVlkSjhRcFpKMDFKcFJBUjBuaGdCMTVZY2MyWGF3N3NFeXYzSnNUM0kzSmR3NF9paVFQNktoSmZyVVFUTUs0ZkMyLThrNVc4M0ZJdVNuYjNBTWtsM0Z2Zl9VNTh4QkZGU2ZDUkRMUjBPNFQ3QlNSVUFRWG96Z2RSSm9FdW1fdlBGdXg4UlprQ05xQlhkTWFKcmNyb0xvQTJjTWJ2RkJaR2ltcFNMZXRHVTNsWVUxVl9UWkJweHpCUHJUNmZfNHpGZEdVVDNZQ0taRUZHbUFaV2daTmhBWEdXd3gxbzJUcXRCRHljRVgwanVEVHZ2RUNqM2lua181UFZ6UmRhN3h5ZjdoTDRl0gHmAkFVX3lxTE5TTG5GLWp4RGxwVE1WMWljN1g5cmpteEx3OGJwMnlLX3NvOGJ5Y29OWExDQUdKaU9mZ25MenJQalR1c2ZzZGxHTUZHNVEyS0N2MUdNaHVQRjNaRDItaWVJRDR2ckI3c0JOdF9wc2U2YkpJTTVBUnJ5Q2ROSzQ1aHBjY1ppNV9tLVI3aTBtcVltbGFsMDdabmozWlFwMFhRQXhFSnFWaHk0ZUVXYjJzR2ZjeXBKdXllTDhCQlhyV05zT3JVb2tCN3FtalZqSWVnV29zMUNIeGpjMURHQzIwV2tQTHpaTjlhcnNVT3NSYXVrUlZhYW9vWEpucEZPdUFyUlhDdTkwTXFVd2J5akpfUEg1NVVwNVI4ZlhUckdEY1JUQ291RjMtemhIbUJUTDI3VkllWnV5N212c0lhQVRpSGFBcEtiOUQ3RjZuX1BYZW45eFRYOTFsck1HQ21OSFZnSHF6d2dxVnc?oc=5",
-   "published": "2026-10-02T07:02:31+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "League of Legends Betting: Best 2026 Betting Sites & Apps",
-   "source": "WIN.GG",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BRS0wVTZ4NmpYUGt2Y0NjR2o0YW1Fd0txcXBZNV9aZXp6d1BocHdzYm4xbm5Ncmhsc3FBSTR2eUJSQlhJMDR2U0hNdw?oc=5",
-   "published": "2026-10-02T07:00:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Team Korea Wins Golds in LoL at 2026 Asian Games Without Dropping a Single Game",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3JVdHhYM1pGdjN0eXRmWl9jX1plRG42Q0ktN1FNZEJRd0RtSEJiS3lJNWxXQjgxNktxR2hOTi1ERDExRzhrX1A2MTRtWTFsNU05cHByeU1ZY2JqZHNEc3RpN3Rvak1PNWpiYlFEYldHeGRmUTVnWFhxY3BsQVhGRFRBZElSS1BfRWxaOFJTQ3RUNFc2TUtNMHJaRWdDVlhJMjhXRGZHZkp2bUJEbXhmUHZhMGVfSVZKdFVpcHBEcw?oc=5",
-   "published": "2026-10-02T06:53:50+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "亞運《英雄聯盟》金牌戰，韓國 3：0 擊敗中華隊，連兩屆奪金",
-   "source": "COOL-STYLE 潮流生活網",
-   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQLUFOMmgyQ0JobXRkNjN1R3lVMlpmWmZJSGhNZFIwbEo1ZDFLS2NuLTBvTzdzZ3JBek5udElrMlZXSVQ5NjJURkpsNGQ2Wmo1cFJVQ2FuX0p6RWpjWE5HZmU1aXVjbGpIOXVKRXBwcHB5WExwSVV5N1FRcVhNQlY3di1ibEU1WTZCVTM2VEVCd1dWR19ZZnpLbWxoYkNKWlJzZWlaX3VHZFZ4d0J1bURlVXFsUzlWdFRtYW5rUm5Md3BsZ2phNU9qZ0hheHpjMGdWMWJTaFltUTBZVzhKQzVBQXBLaFNMcE9BMDNuWFNaUlhENXpWZDN3LS1KbkRNUWRndjEzT1ZOdU15dVluM19PRWpYNG1Jcy1uY29KbUluUjhVU1RZSnFhYTNlTTNkS3ZHWjdlYTdCVDZyalNxWURlYnctZTEzaGlvNHhvaHhPSi1MOUV2X1ZxbTZ1U3RESjd1aGfSAecCQVVfeXFMUERqaWlDTW53S09HWE1NQ3E5MEc5X0J4UkYyQVYycnJ6eWNyNzFQSV85UG03WUVCN3NjU3JobDA2bzRIM20zdk5iZTlZb20tdlktakxEaHZSckJmYVVUS2E3WndjLXpyVFZDc0ppd2I2bmswdVlCOFhBMllvYVZNSGhFMmFoS0puSnBOMGQ0eU10dnhsZHhCSFRFSXRiU1dhY0V5bDh5dVMxM3o0SjlHTS1HNGozOVZ1bWw0Y1g4YU1hcF91ZjU5Q0k0U2ZON1IzSDBUb1AzdEYyTGZXVDF5cnJxR0d2Q3NyZDlJSnU0aUo0M1pnVTdnMEtRZDZNdjRrQVFldVNJejdlRXFocXgtTTJOUlBrT1ExZG9FVTgzeWxPTERTZnlsRFR3SE1nSVcxQ0NsVG9jVjBDREFaU29Rcm1wOFUxMWFrdld1VDNiS25YUFJBOW5LVm1MWWZTU01kUGdadHJndHM?oc=5",
-   "published": "2026-10-02T06:37:15+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》亞運中華隊不敵韓國強權收下銀牌前兩局前期攻勢犀利、可惜遭韓國隊逆轉《League of Legends》",
-   "source": "GNN 新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EUXZDZjY3YlAwR2ZZbDZhaHQyWkV0c1UtS21PcmVRcWd0bVc2YzdOQTdmQVRvMmRkWWlCN1NISnRBYzhtdU4weWJyZ09YVGh2UHlpZXFwN1A?oc=5",
-   "published": "2026-10-02T06:32:45+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "【亞運電競】不斷更新／中華隊拚亞運首金！《英雄聯盟》金牌戰對決韓國",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQNXRYLXlpb1hSdXVWVktfZDBrbFBuMGZFV184SmRTZXpRZDBJUU52d3RmT1gyS2ZfWXN2MEpGbWFYd1NVajNQaHJjZmJ6dkYxSlF2bmRwaXVCdTNqVEhmcjVXTmZxVE1PbWVCTERJbEYyMHhDenR2WFU3Z0kyd2NCZmZoV0JhdUxvZE55TkxzTjRCSkhWOFYxVGxjMDVxdGNQbC1LdW1TQlA1bGctbEZYZHA1cG1vaW0xbEl1dzdSV1NHRTlSR1Atb0ZUbnhyUGVJVTk0WUJhMUN5MVJTd0VtY3A0MWhyZ3lyQjNoaUQ4WnN6cGp0Q1NuN1pyMTVTMkdkQ0gxWGNQZDJnNnZaTHB2dEtqRk03Y2pzbTFiQWxxUWE5d2RqRzlMU1lmcWppOUR2a1h0UExRVFdha1FmY21zemxEQWkxZnRCbkl1NmloVFlWNzE1NjFNUThCX2RPdno0ek5XSC1NWUJ0d2ZZNm1VU3N5bkRIQ25ieElITFBUdmpxSGJ6RUdLYjEwVlVpVzlDbjJOUGw3U01HSDNl?oc=5",
-   "published": "2026-10-02T06:30:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "亞運電競／雖敗猶榮！中華隊0:3不敵韓國《英雄聯盟》摘銀| 名古屋亞運| 運動",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tMjdXZjJoVWE1Vlh3aWM3ZlVfbEhxZzBhR2sxRjRXWkNrU0FVNDRmSm1QRlgtTXZkQjlFMnNlT1RFYkFFQVZ2QVdyemxTNE5jM0F2NWdSV2FaY0V5WUR4RHk1VXU?oc=5",
-   "published": "2026-10-02T06:25:48+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》LPL世界賽各隊戰服照流出！果然偶數年就是要穿白色！",
-   "source": "Paradaily",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uYWV2Nlhra3ZDTzVQSG1Pc3VvNnN5MWJlTHp0WTZUdzZSQ0ZCS0JHRkMwdzVWVWZ2T1N5Ri1Ja2ZZWE5xMF9ZZl9LclhfNHRBZXNkWERnaDFCcjNEdzdYTTl0Z01yZXVJdEhaOHc4cmRQZlJKcksydmpIQQ?oc=5",
-   "published": "2026-10-02T05:56:31+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL",
-    "Worlds"
    ]
   }
  ]
