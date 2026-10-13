@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-13T17:36:58.824800+00:00",
+ "updated": "2026-10-13T22:48:18.922171+00:00",
  "articles": [
+  {
+   "type": "news",
+   "title": "Worlds 2026: All Team Kits Revealed So Far",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamhkVkN6S2d4TG9sWFR6WXdqNm9EWC0xQ3daTl9tTkhSdjlSUFhCdTZGVS1LNy1aX3pBMks3UVZ5WndWcDhQOHJnbWlaR0tFaUU2X1djYm1xZTlpVktBamR0VFE1dVdLZm5UVkJsOUpLRzktMWFwSExvbFhSeE1jRUpqRU5yeF9yYVRSOVpB?oc=5",
+   "published": "2026-10-13T22:05:15+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "League of Legends Worlds 2026: Top 20 Players",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNE1BcE1aeTc3WE9rdk9iaks4TmthRGlvUFJjMDFXS0pSaktNVVFmNmh0VE9hWWpzMjRMaUR6RGV0ZHB0UFkyWVlMNVVDWFBRQVRSRUVtT3NJYUx5SVlHNjlCamZXb1pnb09WSDRFeVJrQ0N4MzZvUXFvVVpRRXp5Um1NM2w0dUgxY1VPbklIWkowdw?oc=5",
+   "published": "2026-10-13T20:38:11+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
   {
    "type": "news",
    "title": "Full Details on Know My Name, The Worlds 2026 Anthem",
@@ -32,6 +58,19 @@
    "title": "《英雄聯盟》2026 世界大賽 奪冠預測",
    "source": "4Gamers",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZWJ2cG1USFRLUzlFOGpJN2REempjdkRkaTQxZlFjZ0oyS2UwVDM5NDhSRVJDaVdWWktMa19KUzJpQmxoMmhPeDhYcHRXWkFweGF1eE9hTndXbjFHRU5Z?oc=5",
+   "published": "2026-10-13T15:31:21+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "《英雄聯盟》2026 世界大賽 入圍賽晉級隊伍",
+   "source": "4Gamers",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5X213eU9qRTBmd3dSWFZUZE5uTnhra0JLMkZfOU1LUVNYOWxZS1RXdHg5T1Q2TmltNjhoUi0zZnViZzA3ZUVKdWNKcTRIUGNUU2xPZWNkaTVZNGhadkpn?oc=5",
    "published": "2026-10-13T15:31:21+00:00",
    "summary": "",
    "image": null,
@@ -225,6 +264,32 @@
   },
   {
    "type": "news",
+   "title": "LCK 2026 Road to MSI - LoL - Viewership, Overview, Prize Pool",
+   "source": "Esports Charts",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsTTdyQXEzeU9KbjhyMnMySkFFRm04TUZseGowTUtGQzdycUJyNVJVT2s4aEthT2h1b3dxQWtUSnZpQVo4VHFFdzZSVlJ2YURsZUM3Vm1hWW85T3VCQ0k0WUx5MU8?oc=5",
+   "published": "2026-10-13T04:46:55+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LCK 2026 Season - LoL - Schedule and Results",
+   "source": "Esports Charts",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ob2ZBSnZBbnNVN0VnSzdNWDI3RTU1ZHdFbU12N2hDeUl4QnA3OVZkSVVycnJOblhpTHYtQjZzWV9xVGdvLTB4aUQ4OERjeTRrX2lnN2tFcloxQUN0aXA5Y1lNb1k4UXRGbXl4S0ZR?oc=5",
+   "published": "2026-10-13T03:36:57+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "LOL／以前太想賺錢！TES 369談「聖經事件」：年輕時覺得操作亮眼才有高薪",
    "source": "udn遊戲角落",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lcHN2YUc0M0d6Wmloanp4NkdaalhMR1VrUFJFUE9CbUxNYmVTM3JhOE5LYzl6NmJ6QjFBb1hUWUhNSmRVZTJBOC10UnRFZVgyaW9od3dYcXFSUdIBX0FVX3lxTFBZUTItRkdfMXlScTFzWlBpUm5JREhidm5IQm42U3VCYlBaQmRnVGp5aVUteHJzTTdlT0Vhams0WFBUSlJtcktyNC1iOWlJSy1kMnExV01XMW9VV0tQSUFr?oc=5",
@@ -338,19 +403,6 @@
    "local_image": null,
    "tags": [
     "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LCK 2026 Season - LoL - Schedule and Results",
-   "source": "Esports Charts",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ob2ZBSnZBbnNVN0VnSzdNWDI3RTU1ZHdFbU12N2hDeUl4QnA3OVZkSVVycnJOblhpTHYtQjZzWV9xVGdvLTB4aUQ4OERjeTRrX2lnN2tFcloxQUN0aXA5Y1lNb1k4UXRGbXl4S0ZR?oc=5",
-   "published": "2026-10-12T17:04:22+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
    ]
   },
   {
@@ -586,19 +638,6 @@
    "local_image": null,
    "tags": [
     "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LCK 2026 Road to MSI - LoL - Viewership, Overview, Prize Pool",
-   "source": "Esports Charts",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsTTdyQXEzeU9KbjhyMnMySkFFRm04TUZseGowTUtGQzdycUJyNVJVT2s4aEthT2h1b3dxQWtUSnZpQVo4VHFFdzZSVlJ2YURsZUM3Vm1hWW85T3VCQ0k0WUx5MU8?oc=5",
-   "published": "2026-10-12T05:05:01+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
    ]
   },
   {
@@ -870,19 +909,6 @@
   },
   {
    "type": "news",
-   "title": "DN SOOPers Academy vs KT Rolster Academy | LCK 2026 | 11 October 2026",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDFXNm9UVVV2VVlneXdkdEVvZXpQcG5QaXpGZTlVWGNfU2UxNUdieHpoVDBXWFZ4TVFILTBJMlhrWXp2WFJkeEY0OEZ0TkhRZk1pbEdnenoyZkhRUE5neE9ON2tfeGxaTnN6Tkw0ajFhYi1MYmZNX19iZF9XZGIxWkowdUlWQWlzMnNtMW1tUHQzMVU2dWFQdUR5Y1JRUWhaSWxQWnJ5ZXFCTTZjRFhxS25vNFM?oc=5",
-   "published": "2026-10-11T07:15:21+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Dplus Kia Youth vs Gen.G Scholars | LCK 2026 | 11 October 2026",
    "source": "Sheep Esports",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWQ3WFBvM1docHdueEJnRmlNd0wtWDZpcUpCbVloUXBDMGgxLThXRHZwdENZVDBNX0NCX0xoNldKUXRhYjZ6MmxlemUyVGtwMlVqLWk0bWQ3dTY1Ym9PTm1VR0E4TWVwc3hwbjY4a19uSEM2T0NCdDRoWjVyTUVNbGtmbVRHeXVGZGJ3ZmJyVGtSbTZ6Q1oxREZkM19mWHlQMkN0MGhpbTZ2U09sNVpUelNDd00?oc=5",
@@ -905,6 +931,19 @@
    "local_image": null,
    "tags": [
     "T1"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Gen.G and Hanwha Life Lead Worlds 2026 Contenders",
+   "source": "SuaraGarut.ID",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3VVFuYjhIQXktaXB6U0NJcnQ5SWJBZVB0aTZKVjh2RDNpUDBETHByVDRXYTQtOWtaTFlYNGJLbDV1aDBYM0tjNEJQQy1jNGV5WEctekVPZXBab0I1MjVPLTB6VQ?oc=5",
+   "published": "2026-10-11T07:14:06+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
    ]
   },
   {
@@ -1131,6 +1170,19 @@
   },
   {
    "type": "news",
+   "title": "Worlds 2026: The Most Exciting Rookies to Watch",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3VqVVhlUzI0OGVuMmd4WkVJakg3TDNCVDlteWFjbHNDRmExb2Y4cDdyTDBlWDd2MFRnR2hlMGkySERTNGtDSGZYQzI3S3lkeU8wVVpqODU1U3VBbGRrTWtObjNEQlg0bHZISjRFcTVIYWJ6eklQLVJRVkdwMXZ0d0NGYk1XSW5mejVzWTR0bjZNbnJN?oc=5",
+   "published": "2026-10-10T15:02:14+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "不僅「再1年」！T1宣布與Faker簽3年長約 2023陣容出爐",
    "source": "三立新聞網SETN.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JRGF4VjdQajB1eFBSUl9PZDM5RzVNSXYtTlhMM2xmbWRFRDlqQ2h5VVpZMU5oT2FYR2xpMm9kWk5BZlMzV3pBZ9IBTEFVX3lxTFBmdGZvenIzdFpNcHZNTUxNclZUdVVsZlpJemRpTHNuVXB4M1o5V19waGVHMmtJb1luM1JpQS1ycnRHUlZzRFhXUTRXYlg?oc=5",
@@ -1168,6 +1220,19 @@
    "tags": [
     "T1",
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Gen.G Scholars vs Eunpyeong Meditech High School | LCK 2026 | 10 October 2026",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2Jrb09tVnhsVGdMMFd6dHh2NVRSVTJ6cGtoQ2pGNnF6UDFzWURjRkprWlJ4VTJtSjhpczNTUFdNejU3aDJJWkg1LUlqcWhKWEZNWmFMeXVWcWFaekU4YkFIblZhQng1cVFqYWlTTXlRb1BTcUI3aUJRVVdEZl8xUmxuTDVsak9oVVVzbnJOajkzbWtzMm9KUTgyMjFSMEdINlgzYmgxdTdZZmJTUU9nQ3JNZw?oc=5",
+   "published": "2026-10-10T07:25:52+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
    ]
   },
   {
@@ -1392,20 +1457,6 @@
    "image": null,
    "local_image": null,
    "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026: The LPL's Road Back to the Top",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbmZLaE10dW9EckF0TUtjZGtpSHFkUGVFNnJNWFZicGI4c3AyTEFISEMtdUNsLTZwQ2lKT1FXRDM5em9mLTlrOERobkNsM2hRUUZRbkhaVlFWdF95RWRpVmZYaE5oMkU1djhjbmNISFZuNlNNVnpvV3VWdWkzc2ZXckpqMFQ5YW9ucjhXSWI0Yw?oc=5",
-   "published": "2026-10-09T17:00:34+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL",
     "Worlds"
    ]
   },
@@ -1844,6 +1895,19 @@
   },
   {
    "type": "news",
+   "title": "Rapper Northfacegawd Apologizes for Using AI Likeness of Pro Gamer Faker in Music Video",
+   "source": "SBS Star",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3dSNmw1a2RySy1GcW1lTVUzM19qVHNlYnBjSUxlcWdMS3ZpMDhycHNuSWRYcFZqbEZpc1FtUXgwSE5aRWdwQ094ZE9kSFV2emhJSlV5WVl2ZWo0RTFEVjd5NDctbmZUdG5tVmZ2cksxUGRVcEdwYV8xVF9ON1lkdWhfZGtrZmpUN092aUNlXzN0UHZ4SGZGUFQteFRGT1Jrb256aUtLRUZYTFUzOUhnd0dGaENDNWQwYkpfOV9EbDRwb1lERFE?oc=5",
+   "published": "2026-10-08T12:03:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
    "title": "League of Legends Worlds 2026 debutants – 23 players making their first Worlds appearance",
    "source": "GosuGamers",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjFEVnN4TTVSSGdwMGd6NWdYVzIwY3NMc004R1hEZ0EwUlJWQ1dJRDNKU0t5WlRJYXRGRGtlckpsQlJwemFrSFYwZ1Nia2duTFIzNlhSMGIwNmVmVHRZc28xcHRac0o4UnV0dzdreXhONlM4MzVBV2J4My1hZjJJVFF5N0F5SXQxQl9vMzcyeTB2NGktNkRQUk8tb0RvaktMWlo3Y0dLUEoxLU5Ic2psOFNFSWZBWjZydUxmWHlyLW9ka0ZEUkxGRg?oc=5",
@@ -1951,19 +2015,6 @@
   },
   {
    "type": "news",
-   "title": "Rapper Northfacegawd Apologizes for Using AI Likeness of Pro Gamer Faker in Music Video",
-   "source": "news.sbs.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Bazg1WFkxQUJtUkdCR1BTblRSQjYtQVhhWTQwT0RodXNweXlSYUdlcGUtUlp1Z1hNbTJBNVZVWmJ1N0ZWN3N1Y2VDY2ZHazRMWk1HaEVYSzFaZmlOb01vRERxTzJfTERrdXc?oc=5",
-   "published": "2026-10-08T05:03:08+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
    "title": "T1 Peyz Jinx vs Aphelios [ ADC ] Korea Challenger 2192 LP | Patch 26.20",
    "source": "YouTube",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwOUZ6SU1uUTFHQTBRYVR2UDZfUE9tdmpENnFJUVIxejFBTU40VlNpYmdOYXpFUGdqbmxyTW1LdzZRX2xJRFB5Wm9kWVE1cjg4Q043cHhndGk1M1o3?oc=5",
@@ -2012,19 +2063,6 @@
    "local_image": null,
    "tags": [
     "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LCK: All players out of contract in 2026",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc09tQ1o1U1Fnc0RYQ1ZRSW1vX1BZVHQ0anNUX2xid3RucktGWkZzQ01mQjdUNVlaMF9hRDJLTGRxc0JxTUR0Zk44bXU5aEkzckljemtXR1ZOMnBGQW9mb3Y3OVlicllXVjk1UGhPRTQzMnJ6U1B2SzBBeER4bjNmWjY0YXZDUVZVbFc0?oc=5",
-   "published": "2026-10-07T23:41:50+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
    ]
   },
   {
@@ -2351,58 +2389,6 @@
    "tags": [
     "T1",
     "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Everything We Know About LoL Worlds Pick’Ems 2026",
-   "source": "Insider Gaming",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGlXVUdGM3BoV3FZeXl6cExmTnVLSzVkdm5CR0VKN0pkYVRVQTJMc2lZYnpmOXNDeUw5YmRMbHRlQmZ3V285VTRETm5VcHVTOURHaWZ6ZkZUY3doWko1WTN5Tk94a2p3RlJBdmpka1VhN2ZvTzdJMUFxOHBzZjA2bkxR?oc=5",
-   "published": "2026-10-06T19:28:14+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LoL Patch 26.20: Every Change That Will Impact the Worlds Meta",
-   "source": "Insider Gaming",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMGNlSThpaWhjYzRRT2JUWnVRVVVjWV8zR0hIWTlqejVxak5ld1E0T00wUmozRVlRajlSQlBzeHIxYU91R0d6TUVHU3owSkYyU3dxT1MyU0JaaDhTUi1UODJ1QXpHT2FjSEZTbXZCdlE1SGZQLU85RTc5Y3pYTjMxbQ?oc=5",
-   "published": "2026-10-06T19:21:44+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "League of Legends patch 26.20 notes: All changes ahead of LoL Worlds 2026",
-   "source": "Sportskeeda",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTl9mZ19tbWJxaGxtVTZCNnRCT0ctZmJOMmlNYkoxMVFwbVZuRzJlMUFoT0EtNndEcExua0ZSbnhaNHZoT1hLQ2t0bXZKZm1vYzFEUGN5Y3RpaXFmZVI3alptdm1jVjdWZ2N5WmU0cUJxZHpFbnBLak1sdVZfUElSZl9qdVZxcGVSZFNTbDZyMlMtNG1UNDg3alN4MGkzd1ZickhMNA?oc=5",
-   "published": "2026-10-06T18:40:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》26.20版本更新公告",
-   "source": "League of Legends",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFM1VkM0ajBDM2xGeGtCd0M2cXdZWk5pN1AzR01aSWtjcTQwZjYtZGIxWnhRRmlURm5Ecy01b3MtWmdTZEdDWGxnUW1oWVU4V1VGdDJoWm5EM2E2UWlzbmlrbWZsNEhJQ0t0Z0JuNWdia0JRWFBFalJ0VWlFQXFTeWxwNVVlWVprTHpUWm52YW9TVm4zRUZF?oc=5",
-   "published": "2026-10-06T18:00:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
    ]
   }
  ]
