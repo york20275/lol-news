@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:48:18.922171+00:00",
+ "updated": "2026-10-14T01:55:31.558944+00:00",
  "articles": [
   {
    "type": "news",
@@ -29,10 +29,24 @@
   },
   {
    "type": "news",
+   "title": "T1 x Minions Collection Launches With Faker and Teammates as Minions",
+   "source": "Shane the Gamer",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGtHeE9KaTktaTVXWS0zb2VjcTN5dFk1U25KeXQ3a1RCSzlsV0FIWUVPUnNhUFludy1FcnB6ODBLd19JVXc3U09jTkI5cXdwRjRqVE81Z3htX2NpVkEyY0F3NUZNTHhqZk43ZDJlS3hSTGFtOG9LQmdDVHlocWxFTmlDOXlTbFljY003UDNScW5OaTRFQ3dYSHZFQkNVaER5RjJoc2VTRQ?oc=5",
+   "published": "2026-10-13T18:07:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
    "title": "Full Details on Know My Name, The Worlds 2026 Anthem",
    "source": "WIN.GG",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GNkFxelMwSTk3V1BVOWtibUFiMms2cG1EQVBHa2ctOEhTNWpTSk1hbVpaS0p5ZlFoZ3hXNVRyUENWMk5talE?oc=5",
-   "published": "2026-10-13T17:15:00+00:00",
+   "published": "2026-10-13T17:18:29+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -766,6 +780,20 @@
   },
   {
    "type": "news",
+   "title": "T1's road to defending their League of Legends Worlds crown",
+   "source": "Red Bull",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qZFNVTFdmWGpwOXhRTHdicGhySWZtQWh1NHZuTWJuNlZCTDI0d1pFTllIX2RTNjZPaV9QaTBLSGdMVDhaRXpOSVJUNjIwS2ltZXBudjJoQnZtS3RjWG9yZ29TQ1dfeG90SXJFa05nb0haUQ?oc=5",
+   "published": "2026-10-11T23:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "LoL Worlds 2026 Pick’Ems: Crystal Ball Predictions And Best Picks",
    "source": "Hotspawn",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcUdvVjU1SllHYTB1NjdQTFJGS28zdklBWWk5QXNHWWFrX2tOR2NOZkdablVhbVhiYUtwZGRBV0pYdDdBc1dqaXBuMHRfbzJTWWhHQXdnQTZlNEVma1NtYXV4RUI4WTFMVHZuWS1sWUJuMmtjb2REaHlqdw?oc=5",
@@ -1224,19 +1252,6 @@
   },
   {
    "type": "news",
-   "title": "Gen.G Scholars vs Eunpyeong Meditech High School | LCK 2026 | 10 October 2026",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2Jrb09tVnhsVGdMMFd6dHh2NVRSVTJ6cGtoQ2pGNnF6UDFzWURjRkprWlJ4VTJtSjhpczNTUFdNejU3aDJJWkg1LUlqcWhKWEZNWmFMeXVWcWFaekU4YkFIblZhQng1cVFqYWlTTXlRb1BTcUI3aUJRVVdEZl8xUmxuTDVsak9oVVVzbnJOajkzbWtzMm9KUTgyMjFSMEdINlgzYmgxdTdZZmJTUU9nQ3JNZw?oc=5",
-   "published": "2026-10-10T07:25:52+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Gen.G Scholars vs DN SOOPers Academy | LCK 2026 | 10 October 2026",
    "source": "Sheep Esports",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGxTc2hGMlBmUlJlZThGd20weXMtTlNQOGgwVTRIU0Vpdlc3RG10cXFnZjZGMEdLY3c3dlZHUUtkbjJrT09fVFIyNnhxS0t1dm9LVF9yc0xiY3EwbnY3VTNIUWRTU2ZnYng5SUd0MkRlQ200czM0dlNiUkhFR0JuUi1qX3haRnFydmVTY3ZJT1hGMFdURi1zbTFWcjAyTXhINU12bUpJWW9VRjZlVWw4TWxWYw?oc=5",
@@ -1462,6 +1477,20 @@
   },
   {
    "type": "news",
+   "title": "Worlds 2026: The LPL's Road Back to the Top",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbmZLaE10dW9EckF0TUtjZGtpSHFkUGVFNnJNWFZicGI4c3AyTEFISEMtdUNsLTZwQ2lKT1FXRDM5em9mLTlrOERobkNsM2hRUUZRbkhaVlFWdF95RWRpVmZYaE5oMkU1djhjbmNISFZuNlNNVnpvV3VWdWkzc2ZXckpqMFQ5YW9ucjhXSWI0Yw?oc=5",
+   "published": "2026-10-09T17:00:34+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LPL",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "True Damage “Know My Name” Brings Worlds 2026 to Life",
    "source": "Bong Mines Entertainment",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mZWNWUlo4WVlJZHlLcFVXYjFGZkRPOVJidlhfSXFXV05rcWNlckpDbWx3ZnJZVjJqXzB6SEEyTDVkM2xSYWJ1OExKdzlvNlgyTHFjT1gxUldmZzZwSXc0X2RNQzczN1ctRXYzNkI3U3ExVTl1N05GdFBSbS0?oc=5",
@@ -1553,19 +1582,6 @@
   },
   {
    "type": "news",
-   "title": "Worlds 2026 merch includes HUF skateboards, Riftbound cards, and exclusive Teemo collectibles",
-   "source": "GosuGamers",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOejdrWVEzZmE3R2NEZTVsZ09WMFMxVE92QWZmM2JxcTFXMlM1Z0dqaml6OXBXT0IzaGw3RHhwRmd1TjV1dWFTR19hQnUxcW5WQzNGMnZXOWJXbUw3MVJEZjBoS3NBakxzU25vVmxBX05JR1FXeUJLNHF2RExCcnRoWHB5NTh6NVdHUFc5VnZfSFdSWXVoWXEtYlNidWJsUl83eGVjZ2Iza0Vxc21NanJjNDJKYXRhRTlxTmg3X045d3NuOWNSWFctNV9YdDE2UQ?oc=5",
-   "published": "2026-10-09T10:27:56+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Know My Name (League of Legends Worlds 2026) but with Gods",
    "source": "YouTube",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LZnhERGwtelZpaWtTUWswZVRNZlc1WlRac3UwQ3RSV1JnT0NSeEdNQVdTajlEQXpXX1ltcm01Yy0wSUJMbHdjTmNhckxrckgyLWNyTlBLaGhnbnRt?oc=5",
@@ -1621,19 +1637,6 @@
    "title": "Faker三連冠傳奇成主角！《英雄聯盟》真傷樂團回歸 新曲《Know My Name》10月9日揭曉",
    "source": "蕃新聞",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uUUxlLWNOVTJqNFo0SFZVOXMtR3gzM08xdV9EaGxMNVpXWVhlWU1VSGJUek1HS3R4MFZDTWIwWVhtdnFyOG0wNXZjc1EwQUlFRHc?oc=5",
-   "published": "2026-10-09T07:00:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Faker explains how he’s so good at new LoL champions",
-   "source": "Dexerto",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEE5LXI2U2Rubi12blZyNnI5eWNCaHMxRHNPdWRmZGp0X2lGTDh0VkFxVm9OSXRuZ3dkQWN6TmZkX1A0UkVGM2I0d0phTjhPSmozeUxndkFUeFpzSGpteWMtbUctZVdLcll2V3Y2ZnpDTUpKR1pPUGk0eC1qbVg0bXNUT2lpOEoyeHhaR3hmRTJXa0J0NHFQQWkyS0dXZ25rYTVV?oc=5",
    "published": "2026-10-09T07:00:00+00:00",
    "summary": "",
    "image": null,
@@ -2015,6 +2018,19 @@
   },
   {
    "type": "news",
+   "title": "LOL／政策急轉彎！Riot宣布「私人重播」延到下版本 網：還我精選對戰",
+   "source": "udn遊戲角落",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GRHI3eW1DWTRhWUdEOFowY2dxWHN3RDktcnc1eWJIdWlqTFE0RURibldlT1lIV2lwT2FvclBFRUpVVnVFSko3dER0d2tMNWQyWGk1ZU9rajFvQdIBX0FVX3lxTE11dmY0cVpzVkl1Y0QtRTF4UGVRQ3N2aUxkQnRqQ01wYUVDckVObDNzbXE1MzEtTlFWQjhPVWlYMzJnZmZqZFUwNTROME9tVTdjczFrY3gzRTd3SjBBZ3J3?oc=5",
+   "published": "2026-10-08T04:04:35+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "T1 Peyz Jinx vs Aphelios [ ADC ] Korea Challenger 2192 LP | Patch 26.20",
    "source": "YouTube",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwOUZ6SU1uUTFHQTBRYVR2UDZfUE9tdmpENnFJUVIxejFBTU40VlNpYmdOYXpFUGdqbmxyTW1LdzZRX2xJRFB5Wm9kWVE1cjg4Q043cHhndGk1M1o3?oc=5",
@@ -2262,6 +2278,19 @@
   },
   {
    "type": "news",
+   "title": "LOL／高下立判！Zeka談亞運奪金感激免役 韓網大讚「發言比足球選手得體多了」",
+   "source": "udn遊戲角落",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uR3dYS25rckJBSEpvdGtMUjd4Rmk2SE4wSk9jWThWT1RSM3E4YkxMdGRpRnN1eXFzdTFoNm5vSkxycVJMdXZBM0pMOTBsV19xOEhIZUVuaWVSZ9IBX0FVX3lxTE1wWEJLTy1zUDlmVVJEampRa3VHbFJiaXdScnNLbE9HVjB0ZXlQWjBTWmltTWhfelNZVzFtOW1iSXZXZUJ5S2xUQi1maEZMWTNHMG5PekU3akUtQUo5OHd3?oc=5",
+   "published": "2026-10-07T09:20:15+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "T1 and ONIC lead Q3 2026 esports viewership",
    "source": "Esports Charts",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVXlaQ0s3UDd5S3ZXbDg2SmtEYXNwcEt4cG1QOWJleWw2Z1d6X1lubVB3c3hwcFlwQjhZWE0zaC1mRG91bzVuNVZ3UWpyU3ZHOTItaVpjdGM0VVY5QXVQbHhVMVY0WmlC?oc=5",
@@ -2353,10 +2382,10 @@
   },
   {
    "type": "news",
-   "title": "《英雄聯盟》26.20 重大更新 拳頭將限制重播存取權 未來僅能下載自身遊戲重播紀錄並取消第三方存取權",
-   "source": "Paradaily",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1laGYweFJyMERDRFVwZGo2V1RlUXV3LXJMeDZKb190Q2VwNk0ycW4tS1NxRHJDY21pb0pCNk9IZmZOZl9VUWJUSjN2ci1idWFUREdad1J1OTRtZXNFVDZMQjk4a3hDVUdvTzBrWDdVRG83b1VO?oc=5",
-   "published": "2026-10-07T04:18:09+00:00",
+   "title": "LOL／不能看別人重播了！高端對戰影片創作者集體哀嚎：死刑宣告",
+   "source": "udn遊戲角落",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6YTFCZVB2VHRfZTJnRTRRZlNSX0tzVkZEUloyeXZYWGJJRk1YSEoxaG1zZjB4M08zRXp6aWk5dGlhYXVEUU9YTmFpRHhMTUhtZGhWNFdLREFOd9IBX0FVX3lxTE1XdWdBSU9Va0RwODM4Y2s2WUpHYVVmU0NMMllpRXcwcUxaUW9haGJibzRNZ1NKRjdyTF9JdGx2ekh1QTQzS19kWTVkd1Z5ekNCaTF6VE1jS2x4ckpsSF9R?oc=5",
+   "published": "2026-10-07T04:28:55+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -2366,29 +2395,15 @@
   },
   {
    "type": "news",
-   "title": "All teams qualified for League of Legends Worlds 2026",
-   "source": "Dot Esports",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFpjUU1sbUQyU1JZdzBaMnRVUnRuNEZpYWVRZGNNSkNEVW5HVHNwQkRHVFJWNEhtZm5VNlNETkRiaWhSeEV2N0ljMjc4QmFsVWtHT1BIQ0Y5NEM5VFJHODd2YnFnYUdROVE1YXVXWEl4UXpoX09aaGhJbEFhTDdRWVRhQUVsSmRYM3YyWHNUX0ZaV1UwS3NDcHV1ejR4Q3JUSFo4?oc=5",
-   "published": "2026-10-07T00:37:00+00:00",
+   "title": "《英雄聯盟》26.20 重大更新 拳頭將限制重播存取權 未來僅能下載自身遊戲重播紀錄並取消第三方存取權",
+   "source": "Paradaily",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1laGYweFJyMERDRFVwZGo2V1RlUXV3LXJMeDZKb190Q2VwNk0ycW4tS1NxRHJDY21pb0pCNk9IZmZOZl9VUWJUSjN2ci1idWFUREdad1J1OTRtZXNFVDZMQjk4a3hDVUdvTzBrWDdVRG83b1VO?oc=5",
+   "published": "2026-10-07T04:18:09+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Seventeen’s DK and Seungkwan to Sing T1’s Cheer Song for Faker… to Be Released on the 10th",
-   "source": "씨네플레이",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oOVpmQlhQTXItY3d1QU1scnZfbjd1eG1qSzAyQWt2VXRxLXcyUzBUWnM0MTlhbGZqaVo5NFdTWGtEVzQxUFNmZ2c0Nk5sby1BR0JMakVnZ28zTGs?oc=5",
-   "published": "2026-10-06T23:59:27+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1",
-    "Faker"
+    "LoL"
    ]
   }
  ]
