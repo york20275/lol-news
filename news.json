@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-17T22:22:00.277704+00:00",
+ "updated": "2026-10-18T01:06:00.992022+00:00",
  "articles": [
+  {
+   "type": "news",
+   "title": "MVK eliminate FURIA and set up Worlds 2026 Play-Ins final against Karmine Corp",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObWhNUG1lT1VGZF9Dc3M1dmNmY0lLODU5S3FqaEFsTFpvb1A1aWFpWnBiSVNXX0xVMHYyNmNhMTh6QUxMTjVieWp3d0E5MXhKS2Vpd0xXUVFtY19aWmJjNldhT1hmb1VzVDBfUDVvWU5ERW9MejV5Tk5KekFTc1FvNmpSdlBBVS0xSHY2bTdNb2hnc0hwUmtubjhCVUV3UHZpOTljSUwyVGVtN2hoc1ZObFhqR01lQ214T2NRRXhxVQ?oc=5",
+   "published": "2026-10-17T23:49:59+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LOL世界賽懶人包！最新「戰況、賽程、瑞士制時間、直播」一次看",
+   "source": "NOWnews今日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UbTlJeTk1U1ZCZkc5ZWZuaTBiWU5UX3hUYTh4MmRGVVFKN09lUERLN05RZ0hBanlfZHFYUGVZMG5Sd1F4T093SVNtWnVsakR3MnfSAVJBVV95cUxOVG05SXk5NVNWQmZHOWVmbmkwYllOVF94VGE4eDJkRlVRSjdPZVBESzdOUWdIQWp5X2RxWFBlWTBuUndReE9Pd0lTbVp1bGpEdzJ3?oc=5",
+   "published": "2026-10-17T23:03:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
   {
    "type": "news",
    "title": "[Photo] T1 Faker: \"I'll win Worlds and come back\" - CHOSUNBIZ",
@@ -20,7 +46,7 @@
    "type": "news",
    "title": "[Photo] T1 heads to US to compete in Worlds - CHOSUNBIZ",
    "source": "Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUdtN0dsZnZMQktCaXpFWmVjUFJER3ZZZm8xR1JnNV9HU0ZiS3FlUUtLbjRwd3FPUDcyYlpEOGx6RTM1UGRGYUFXdjh4WUIzeVNmLWwzeDRwODBXMnJVWkI2LTQydnA1bFQxTXp5cEw5eHphcTJfOGxlaVpwNl9yMHVtNNIBlwFBVV95cUxPckJpR1hES0hvdkRVbzhpQXRYUGxoRDRRMHlIcHJZVTA0dFE1aVZMUWp1czBEM2JtN285eWNuamxnR1dRUWRoUW91eWxZZVFjZzNVY0UwV3MxOVdINHY5ODZPSDU1S00tZ0RSa19tVGFlYUQyVm9DdXRZcnVGVlR2cGR3S003T0hHRjFrSnRaNTN3Q2tIVG9j?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckJpR1hES0hvdkRVbzhpQXRYUGxoRDRRMHlIcHJZVTA0dFE1aVZMUWp1czBEM2JtN285eWNuamxnR1dRUWRoUW91eWxZZVFjZzNVY0UwV3MxOVdINHY5ODZPSDU1S00tZ0RSa19tVGFlYUQyVm9DdXRZcnVGVlR2cGR3S003T0hHRjFrSnRaNTN3Q2tIVG9j0gGXAUFVX3lxTE9yQmlHWERLSG92RFVvOGlBdFhQbGhENFEweUhwcllVMDR0UTVpVkxRanVzMEQzYm03bzl5Y25qbGdHV1FRZGhRb3V5bFllUWNnM1VjRTBXczE5V0g0djk4Nk9INTVLTS1nRFJrX21UYWVhRDJWb0N1dFlydUZWVHZwZHdLTTdPSEdGMWtKdFo1M3dDa0hUb2M?oc=5",
    "published": "2026-10-17T22:00:00+00:00",
    "summary": "",
    "image": null,
@@ -28,6 +54,19 @@
    "tags": [
     "T1",
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "[Photo] T1 aims for fourth straight World Championship - CHOSUNBIZ",
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazJpVTduUndKNWJqVE92QzM1TXphSXRFQ1hoa2V5SmlYQ1hYMk1RTjd5NmZsUGxfd19FLUdHMTVtZGxlaWpRSmpLUHFWenlWVW1YRWNMaDhqbVAwdWs1QkctTEg0YTZhNzBjU0FmZERqYmE2dkNGQVFFbHo0ZlNNWlp5V0dGalRqTXhTYnA1TF92YjIwQzdn0gGXAUFVX3lxTFBrMmlVN25Sd0o1YmpUT3ZDMzVNemFJdEVDWGhrZXlKaVhDWFgyTVFON3k2ZmxQbF93X0UtR0cxNW1kbGVpalFKaktQcVZ6eVZVbVhFY0xoOGptUDB1azVCRy1MSDRhNmE3MGNTQWZkRGpiYTZ2Q0ZBUUVsejRmU01aWnlXR0ZqVGpNeFNicDVMX3ZiMjBDN2c?oc=5",
+   "published": "2026-10-17T22:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1"
    ]
   },
   {
@@ -62,6 +101,19 @@
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOUTJiZExfdUdVVF93ZmVkMjZyN2hfX1VzenEwaUlwZHVVdGZwUlFuRGZIZktjR0QtWG9wVzljUEVTekhBa3h3VVdIWVRJWWVOS2pEQ2s4d1EzbTNYcmplaHNpMzR5V0JVdjJWOVpLTi1XbnpCTVBYclhVcW9hYUlEempNMDZiNzYwWk53R0Rka1VnVlk0V0ZUbHc1OEVhTzE0RkozWmVpZ0o5dkxZM0NnSEN0c3MtaTQtN284U2FYMnU5ekNPSWEtV3FtTHdDd2plbzdtRHpLcFlKa0o0UU93XzhSdVRMeFJJRjl6QzZjRjFyMXdQMXBEc2IwS3J3MklJSEU0UG1mOXdtSHJjTXQtUzF2UUVpdmVJN3dqc2ljNVNSb3NjZExLTldHY1dSSlBrQmh0QUQxYlN4cDF6Sl9MUVNtWWdpd01zc1BTdlZSemJiRjE3eXNjUDBldm10M1hfaXI2ZnFNb1dkdG5RekFvTEhzamZvVWp1djVSQmVRN2htcFl1SW9zX0ZLOWY1TU1pNFhUbEJCYmwzZ1R5YUZEV19YWkVUMnRxSXNiNE5KRG91S0g0NEdzWXlES0VOSnFyQXFmSXJLQzkzVjdSckJLczlZODlKYmc3VVE?oc=5",
    "published": "2026-10-17T21:22:04+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "2026 World Championship Worlds 2026 LoL players stats - Age & Country",
+   "source": "Esports Charts",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LMFJuVkZpMGd0TGhYZXgzVkJweDFXOGFmM2pLRW5yRWprUHVZQjQ5NlRvOFBxOTJucExzZGlSajRRZGo0eVVDSFNzM2ZiQ0x3QVg0dVctLW9GeDRSVWZUWUhnZUdfWnpoY3M5LXAzQWhSNXM5bVg0?oc=5",
+   "published": "2026-10-17T21:21:59+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -150,7 +202,7 @@
   },
   {
    "type": "news",
-   "title": "Worlds 2026: Cloud9 first team eliminated after losing to FURIA",
+   "title": "Cloud9 become first team eliminated from Worlds 2026 after loss to FURIA",
    "source": "Sheep Esports",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmJLQkdqellqODU4RVM4V05TMGVoNTc4M0dLWnJNeENxaTFxcHE5VTR5blVseE5UV3d0RmxrQUVaWXBZUjRZdExiaV9FMDlMWTRNa0U5X1ZSREZCdmtSVmhlcVhZY2lBVFEtaVNXYkVMZzdvOWxpcXZuOVRBTUpkZ3FIdUw3MWs4UkliYk1sSzcxZVRZc25jVzdocnZzaHlNbWNCSWpsdENNYnFyZ2pVRzh5QjMxV3RH?oc=5",
    "published": "2026-10-17T02:30:41+00:00",
@@ -167,6 +219,19 @@
    "source": "GosuGamers",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLU5tZkhpMEFRYnBfMmppbnRma3E4ZDZyalZDYmxWWUxzc1BfNjNOanBKMC1qcFBJNG4xWDNFbmJKaTEzLWxhd0M4MmNKdWR0STktcmpkTzZtdTVhYThfSXZOVks4Y2hJc0JUNWxuYlBlQkVKMm9uWjB4MTZfQ1REMFJLaFY5c19rQTdSR1JEOFhtcUtQRVZwZ1llUE5DaERSdzdkVDBHTnJINEplaUJMSW1yc2VFSkxTbmtLOFhPZ1ljWHZGOGlublRqRGw?oc=5",
    "published": "2026-10-17T01:26:17+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Play-In Stage Day 2 Highlights | Worlds 2026",
+   "source": "YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QcldaNTB5T0oyeFVzSDJJVmN2Y0NKRS00NmlBMzluQ3JvLVZaU2Y1REd5VU56Q1lKd3dZeF9WSDJVRlA3SDF6NUJOdw?oc=5",
+   "published": "2026-10-17T01:11:18+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -424,19 +489,6 @@
   },
   {
    "type": "news",
-   "title": "League of Legends to Open Worlds Pop-Up Stores in Jamsil and Seongsu",
-   "source": "게임메카",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KVjJMU0hCYm1tRDJrZlBJaUxHa0sxM1B3ZFpSX3dOUElNUXBVRXBPWTN4b2RPUzduSzdvQmFGeWkwNGJfeXYtY1VYN1M4MVVEVGhaMXYtTENpbnJN?oc=5",
-   "published": "2026-10-16T06:50:48+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
    "title": "《英雄聯盟》2026 世界大賽入圍賽洛杉磯開打 KC 3：2 擊敗 C9 晉級下一輪",
    "source": "Ludens Media",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rd0VOSk5YX0Q5WHUtSVdfdk45OHl4Q24wSDRHMmxoZDgzVDVpWE1PNmtJVGpkc0Ric1JWRGxRb25pWjQ3Yy1rSFdpeUgyUlNOVWJPdVBvMkdLQXdvVENhbFZaLUpJaF9lQVBqVEtZaUI?oc=5",
@@ -645,19 +697,6 @@
   },
   {
    "type": "news",
-   "title": "Naver's Chzzk to stream League of Legends World Championship with co-viewing features and other content",
-   "source": "머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yX0dRbmRhcllCajlCMGlON3NITjE2YlN0a1ZlREJQaTM0TWktUGF6X0cxQ0RYMnJ4VU1BaEFjZVRObC16V3A2T2tGa1lSVi1lNHRkUVE1ZVRBTkk4ZXpHZGFYZ2oxMTVSMks0X0hVM2hUc2VfVXlEUg?oc=5",
-   "published": "2026-10-16T00:58:54+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Naver Chzzk to Live Broadcast Worlds 2026",
    "source": "Inven Global",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRkFQZS1HcHFxcHpRazJPTnRzTTNWSzZwcjR2WG5WR2IyaGZvUkR1eXVOTS1Za0xmVTRwT0plUExSc01BSzIyQkxTdXkxbVhNM05FdEFUeE5fM2d5N21hZ09oeTRYbk9XTUhGZ25fVllJUjdTbDR5Z0xwVFlkcG5qZXRlS21oMkxSRTlQbA?oc=5",
@@ -697,19 +736,6 @@
   },
   {
    "type": "news",
-   "title": "WORLDS 2026 BEGINS WITH PLAYINS KC VS C9 - EU VS NA",
-   "source": "YouTube",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVE1TX1NVeV9tbldrVERVYUUxMUtjOXZMeEN3RWFlMl9zWHhlU3hPT3FjNjZ6elhDM2VPcDZ1Q01BelZaTDFWY1dNbTJ2VF9LM3IyUHlNVnZ6aFV4?oc=5",
-   "published": "2026-10-15T23:59:33+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
    "title": "KCorp Draw First Blood in EU vs NA Battle at LoL Worlds 2026",
    "source": "Insider Gaming",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YTkdJMmVpLXZLYjRDZVg4NXVzUkNENjhkMEtqOFhnNE9Ya0VxZmJZVUs4VFRYcXpJZWNQQXdvV2RMRy13SjF1WGRfUlRhbDJxcmt0QnV1cjNfNVBrQXNNYndxcHNTNGE1dWJ2VjFB?oc=5",
@@ -732,6 +758,19 @@
    "local_image": null,
    "tags": [
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "All LCK champions in history: Winning teams and players",
+   "source": "Dexerto",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tIZ3pfMDJxWGpmYTJpaGowamlkTU1uVkVOdFBnM3o4ZFFiRy0zUXJZZ2hvdEJDbThsV1RPNGNEbTdSUHpva3FlX2s4V2s3Sm1SRGpOSFF5TWVoa05HM2JrZmhwRGtRT1cwektVNVE1U2NjNjdUZEpibHNTU3pIMDA1emY2N0xoLXJ2T2x1N1YtTFFPLXZyREF3Q01iNVZvcS11X1lKTFY?oc=5",
+   "published": "2026-10-15T22:25:17+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
    ]
   },
   {
@@ -775,6 +814,19 @@
   },
   {
    "type": "news",
+   "title": "How to Ward like a League of Legends pro",
+   "source": "Red Bull",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nNlNSMkZ1Q0loR0ZNc1NESzBRQzE1TlBTN3B6RVhVeTdjdWtublhJY0llVWFSSzFZNkRJdVI1dHFKM1p0dzFjazVram90UTVLNnJjVGpIMHhVaEl3bUNiT3JkNjE4ME9ZVDBn?oc=5",
+   "published": "2026-10-15T18:30:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "Worlds",
    "source": "LoL Esports",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Y3FCbTQ0VFZuSzRocFNIXzc2M2o1N0FISHVCYkFyVHFZeGRadVRZUV92TXphTFl4TnZVakFPbEd5TmI1MG14bzd4NWRMdE5XT0ZmajNLamY1UTNabG1nVVBOT29HbkxTSFJz?oc=5",
@@ -790,7 +842,7 @@
    "type": "news",
    "title": "When is the 2026 League of Legends World Championship: Play-In and Main Event Dates, Qualified Teams, and the",
    "source": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOEZQZW1WSVJvSzUwNWRPSzZMZUdLUlcxcWVXczNOdDBqZnNGVlNteG5QaHM2bzQ0VFBkS3cxOVFKX05uNjRISmtKeGFoMFIwY3RPVWF4eUxaZ21pMTZrMXFUUTJHM0NBVktNanNWRWJPTGVTYWVncWhKZWZuTkszODhvYXMySUpCQTVXQ25iUTlFLTl0aWdaTGY2VkZ0NXNtZDI0WDVYTUhTdWt6NVNBaFVNVTdqVkZRNndLWmZUWENhUmwzZmlYMFJwVTJQazdMc1NHb1NFcEtkalNqaDhpQi1taXJ3V0Uza0lRRDhQZElDd3dKV3hn0gGLAkFVX3lxTE9tVGZNQ3oydkd2VGZfLUlsbHFpNkNFVndNYjA3SGRpSEZ6WEVnelFNbnZzV3dMa3hiN0xJWEJLWUdVOUlsU1dMRDVoT0hjT09PODBYdGNzWXdFaFdMLVpCdmVKeUNtTm4xaEV6dEpPNmxKdzlkMmk4ejhBUEhtLURsRWFmU3N5NlZmNUlaRkp5UnlubHFFZ1JjMFNQQmVROTM2S1p1YVpQVy1XNzZaMFUwaFlOd1FlR3FyNFJ5dnVMTjhYSG1LYXd4dFh6ekduRG82Tm1Jdk5rcW1LVS1WQ3pEM21GYVBUbWFyb3ljZXBxcC1ZT3BOTVU4SlRhQ0FRb0l1ZXZ4b0ZCb212MA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbVRmTUN6MnZHdlRmXy1JbGxxaTZDRVZ3TWIwN0hkaUhGelhFZ3pRTW52c1d3TGt4YjdMSVhCS1lHVTlJbFNXTEQ1aE9IY09PTzgwWHRjc1l3RWhXTC1aQnZlSnlDbU5uMWhFenRKTzZsSnc5ZDJpOHo4QVBIbS1EbEVhZlNzeTZWZjVJWkZKeVJ5bmxxRWdSYzBTUEJlUTkzNktadWFaUFctVzc2WjBVMGhZTndRZUdxcjRSeXZ1TE44WEhtS2F3eHRYenpHbkRvNk5tSXZOa3FtS1UtVkN6RDNtRmFQVG1hcm95Y2VwcXAtWU9wTk1VOEpUYUNBUW9JdWV2eG9GQm9tdjDSAYsCQVVfeXFMT21UZk1DejJ2R3ZUZl8tSWxscWk2Q0VWd01iMDdIZGlIRnpYRWd6UU1udnNXd0xreGI3TElYQktZR1U5SWxTV0xENWhPSGNPT084MFh0Y3NZd0VoV0wtWkJ2ZUp5Q21ObjFoRXp0Sk82bEp3OWQyaTh6OEFQSG0tRGxFYWZTc3k2VmY1SVpGSnlSeW5scUVnUmMwU1BCZVE5MzZLWnVhWlBXLVc3NlowVTBoWU53UWVHcXI0Unl2dUxOOFhIbUthd3h0WHp6R25EbzZObUl2TmtxbUtVLVZDekQzbUZhUFRtYXJveWNlcHFwLVlPcE5NVThKVGFDQVFvSXVldnhvRkJvbXYw?oc=5",
    "published": "2026-10-15T17:50:54+00:00",
    "summary": "",
    "image": null,
@@ -983,6 +1035,19 @@
   },
   {
    "type": "news",
+   "title": "League of Legends Betting: Best 2026 Betting Sites & Apps",
+   "source": "WIN.GG",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BRS0wVTZ4NmpYUGt2Y0NjR2o0YW1Fd0txcXBZNV9aZXp6d1BocHdzYm4xbm5Ncmhsc3FBSTR2eUJSQlhJMDR2U0hNdw?oc=5",
+   "published": "2026-10-15T07:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "League of Legends tier list: Best champions for every role",
    "source": "Esports.gg",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10NkVWTDYybHhiRm9CV0dIVm9VMnBvZDRKRE9USzRXNXFnZmZGQTViZmRhTUlLcGcxeUM2a0lKZkJpMUl0Wko1UVE3RnJyZXlicllQQkpxV1kyMllvdEdDNUFNOFhWUE1IeGJN?oc=5",
@@ -1153,6 +1218,19 @@
   },
   {
    "type": "news",
+   "title": "2026 League of Legends World Championship Betting Odds – Korean Teams Lead the Charge",
+   "source": "FreeTips",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVdhX3YzWGk5TEdpVmxiSzJ2b29GSzh4QkhldnQ5WjRSVXdVaTMxN0xxa3lBRHpySG9pN3h4OHdYRWtyN241em5vR1U4ekVqOURPaVB3bE42emxISzg3NUlfTmFmMTZsY2VnLUlpczBYR29hbHFaVkJQX3RJY1VMMVc0by12ZTA1S1o3OWJtU3puTGVCY2hBWUEtN0Fob0hjSGEyVQ?oc=5",
+   "published": "2026-10-14T17:30:27+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "LoL Worlds 2026 power rankings: All 19 teams ranked from S to D tier",
    "source": "WIN.GG",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84U1VKR0JtUWNMVEZ6WVF3UW1hWG51b1BsYkZ1d2ZFanNKQ3U2dFh4eF9TUmxmS28xRmIxVmpHelFkak1yYjNmdEl4QTBHRi1SMDM4?oc=5",
@@ -1175,6 +1253,19 @@
    "local_image": null,
    "tags": [
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "T1 Peyz Aphelios vs Yunara [ ADC ] Korea Challenger 2289 LP | Patch 26.20",
+   "source": "YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tLUgtX2NkWUdxWlpGWlJmRU82bzRpdm1iemxhQ3NMVzZOWEJtMW1heTVsRUV3TEVzZWV6N0NOMW9NZV9pVjZaTXRsNkRuMHhQczBpSld4RWZjQkNy?oc=5",
+   "published": "2026-10-14T16:00:32+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1"
    ]
   },
   {
@@ -2038,7 +2129,7 @@
    "type": "news",
    "title": "T1's road to defending their League of Legends Worlds crown",
    "source": "Red Bull",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZTWdpM0R2QjRQem5jc3Z4YzJaUkkzMm5sZGdnNU5jRVp2THNiSml5bHByU0MxUnpFOUVsX2pQcGFwdzhXQktpdGlWWmx3Yll4ZjdvZS1UaFVVSThOcG90d3ZONWdlSWZWaHZxcm13N241QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53MlBrTGgzMlY2S3JJbk5xSGFHZVcteVhxaURPQ3lBZC1oQm5HcEEtOUR4U1pnTEJyTEhqclNHZU5CNXRvdlJGcXlxNmVlZFJYM3NpaF9PVllWQThTQlAweFZTODB5a0JhVEZEeGQyRGRHQQ?oc=5",
    "published": "2026-10-11T23:00:00+00:00",
    "summary": "",
    "image": null,
@@ -2102,6 +2193,32 @@
   },
   {
    "type": "news",
+   "title": "KT Rolster Academy vs Gen.G Scholars | LCK 2026 | 11 October 2026",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNenF0S3NzcnhEaWVYSW52NktrVU5peGIxWkhocTRTSVlUTmRYMEZ6NWNTQzZCTlJXZzBTWmp2YVd2ZEF3WEtwYnIxNTRESURoM2hiWXlDbUFmdUluOEtUNC04SnJobGhxRFh3bTNfZnEzOFZoamtZQmYtRzU3VTI2VjNJWmRGS29KeVVYYTllLXFiT2FWeG9Wa1dlSklSZUE1MjU0cVAxdFgwd0VWd21DV0dPS3Y?oc=5",
+   "published": "2026-10-11T07:15:28+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Hanwha Life Esports Academy vs T1 Esports Academy Rookies | LCK 2026 | 11 October 2026",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTF0aklDVmVqZmI3VzdjNDNKWDJpVGQ1YnhaVGJyUENSV2d0RnMwTC1MTlpYaWNaNFNTYmxPXzBLZ0FsbFUtaUstTkNrWUVsaG8tUW5MWHlfRWdTSUxXTVNfWTRPQjVMQjN6QzY3SGh0N0dRQnFsV3RydUwwUThxRk5oR0l5YnFfMkJSeDV3MTBLNzRzMzk1bXhzT29UeDYtTHB5cGhqU2dJR1JUdHMxaExuRGxyQQ?oc=5",
+   "published": "2026-10-11T07:15:17+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1"
+   ]
+  },
+  {
+   "type": "news",
    "title": "Worlds 2026: 6 must-watch matchups fueled by past connections",
    "source": "Sheep Esports",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmpLamlrNy1Zd3pJMzJzNFh1TDFYNndDRXdRLWpCZWN3bzlEREw4VkpkWmt3NFdrc0c5MTF2ZEpGakpFTU82M3lRMWI5ZVAtZ25sZ3ZSTXFUR1ZfWUZZMTRxNlp5Rk41Z3Y4M3lwRGJJeXg1eExQWFBxS0dMV3NtU2tnbWhqX18tYXQwV0cyNTR5QTVYQ01UdGtPcXlMNDA5c2ZHc3hJYw?oc=5",
@@ -2150,59 +2267,6 @@
    "local_image": null,
    "tags": [
     "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Faker太神啦！韓國發行「李相赫紀念郵票」 限量14萬張10/23開賣",
-   "source": "NOWnews今日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mdHg0em5LaFdKMzZobUEzT3BmcHlpT2hzVUVRbjJSXzVpY2tVUTBfRlRBUkZjOTlvT0s5UnhOTEFuTnhhUllQelVHOWjSAVJBVV95cUxNR1RzdklBVkg5Q0EzR1Zybmx4NHQ0X0pqU0ZpTkFpVTEtSGRJTGxKN1VLZUJ1Si11Yk93cklEMzBUTXIyQXhuSVludjJ3bGdBOXVB?oc=5",
-   "published": "2026-10-11T00:49:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Faker"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "All Worlds 2026 Play-In Teams Locked: Full Bracket and Matchups Revealed",
-   "source": "EGamersWorld",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkNYdWlkSUVRcHhraDJfUTNOVERiSEkwcmp6R2ptUGVLVGluOEFydGdNUGNlczlCaldnV1lXUmJGVzlOY0RZRXlXWGtpaFJEVi1qTGpGcVYya3BGdmFYajRpSUc3dmU0R3cxVkVMakNLMHJqQW5TSGc3bTV0TDY4LW9Hb2RXQmkzUlpBcnFWVEFERm5ONGxmaDBMWS1ZMDU4NUE?oc=5",
-   "published": "2026-10-10T23:14:49+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "League of Legends: SK Telecom T1 fall short in debut at KeSPA Cup – Final Placements",
-   "source": "Dexerto",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFREUHR3ZDM1WVA1VWwwZFkxZ2QtcXlyTmFURTA3Q2Voa1lIVXRXaDJJX0JqbjZhU083RDRPLVlDVHVIcGVFTGllMXFFMVdQNU5taUxtRHRzWnpqVzhCVEh0RXcyOE1IZm42VDFxb2hMYmFYSWs0akJzbDlNbk5hU2t0N3gxUnBwdkUtaEFMZWhBSTE1WFhKN242dTBia0QtLXQwMkg4NlM0eGY2SU1nT3oyelJESzZYRS1rTzVnRzVpeTVtX0hFVFlaVQ?oc=5",
-   "published": "2026-10-10T23:09:29+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "SKT Faker goes viral with vintage 1v1 League of Legends play",
-   "source": "Dexerto",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXhrbklLclVIMkY4U2t0NHlrN0p2NmJSWG1fOEtZa1B0dXJOcEhXOVplTFZHVUVhdnJhd3VDVUZQV3dtLUVTSEtyaHJ0d25jMWNCS3IzRUVKblBZdjRSd3lJUmpVdXY2Nmplc0l2VXRLbzZVempENlNrbkhDOTA0SjBocS1zQzlXRDNOY2lWVFRXVGhIS3JRN1JqeV9FTUgzZDhBdXlMNE45YVozN1M0?oc=5",
-   "published": "2026-10-10T23:09:29+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1",
-    "Faker"
    ]
   }
  ]
