@@ -1,12 +1,305 @@
 {
- "updated": "2026-10-24T23:17:49.519803+00:00",
+ "updated": "2026-10-25T04:46:24.861728+00:00",
  "articles": [
   {
    "type": "news",
    "title": "2026《英雄聯盟》世界賽懶人包：最新賽程、對戰比分、隊伍、直播一次看",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOeVptWjlxRW1fYnNZM3YtV2xmRS1oQXc0bDhtQlBoX0Z6ZWFGZGJhejl0UzBLdml5ZDRBNTJjQ0hZaHNWT0ZmdWxjMlhlanBOMGNKZFRXeHNyZnRON2laRkdXczBPMFNtS21oNmpNMTMyTkl5eHItanYyS0RzS2xRZUU5VXBSaUVlSi00dHRmWGJkY1JlcUdzc0lFXzlGZVV4NUVpR0dxQWZUQUlFZENXTmZlWkJoTjlNeF9QR05iYkdmRC1NT21qRlBseHRnczlUdUJyU0ZUX1VGSDZETTF4djVwa0tpRXJHNXVJRGlFaVNlY1VaanlzSktfblBvQkRuVERFc3QtWC1qZTJfOFZsdEwtNFNvaXZyeDNzWlJvNEo4UGJqU1dfUTRvRDcwd2FQTjNsZ0hObUNDMHozNnF4R0VKS0RoTTM3R2JqMWdfRC01SXZhalRLSktMY1lWaVh2RVR0LWg0OVllVFlvbWdlb19peWRnMm9MbzJFT0c1R2Y5Mkl6M0M3cFlSb1UzSTNqbDE1UU9tMUV6bXYwV05FUEd6Rmhzcm1WdHBGSjZxYU1PNDkyaURKakYyU0FSVTNLTnJRTktLb1F6Sk1W?oc=5",
-   "published": "2026-10-24T21:52:01+00:00",
+   "published": "2026-10-25T04:32:08+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LYON Inspired interview on Worlds 2026, Karmine Corp win, and LPL struggles",
+   "source": "Dot Esports",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVDNxM1BGVW9fVzF5cGotS1d1Mi10WDcxcnFFS3RGU2R4WUlZTTBYMHRFTC1oWjR4blFyQ2FPUFh6SkdNVVhUWWE3YWNwMDJvNzROdkxscUpyWDZ5WXJDeHVVZHVxdkFaSHl2MkFPcWtwMnc4ZnBDeDlSUUZMVEZsN213VjhKcWl0?oc=5",
+   "published": "2026-10-25T04:05:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LPL",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "T1 Keria Reveals The Worlds 2026 Team That Surprised Him Most",
+   "source": "Hotspawn",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanFfNDdYTDRnaDJ4d3F3UzR0aWJhaVZSbmFBcmptMzRyV2E5bFJNa05HTmhReTJOMm93N2RKbHBINWRMa0pFYllVNHlDcU5wNE1aLU11SDFPbHIzZ0xfa3dUMjdSODE4WjBURVF6RFdRbGhNYUppdlRaMzRCYTV5SFl2cHA?oc=5",
+   "published": "2026-10-25T03:49:31+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026 Swiss Stage Day 2 Results: Four first seeds are down 0-2 and some big BO1s coming up between the 1-1 teams",
+   "source": "Hotspawn",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOWhMc0R4WnItdTNSYkZBMTM1SzhVaHNBRnZhb1BsR2RMX3g4YXJwdFNLMVFIMC15bzZxYXZQLUIwOXJuNm5TdldoT01oS1lvQmh0WjNKLVRDc2FQd1kxNVdjSzFsOVRYWEdVczRkUnZjT1ljUkR6ZmxhSzNHODRfdm9qVQ?oc=5",
+   "published": "2026-10-25T03:49:31+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "【英雄聯盟】世界大賽／CFO遭MKOI營運壓制吞首敗！瑞士制戰績來到1勝1敗 | 上報",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1veVVCbjNadGlWUnpZRkdSY1M3S0Jwclpmb0hwN1pzVW5jQ0d5aHczQUxSS2xuWWRWbXlDT2pfMWZLLWtBaXJLYW1xWTdFUjloTmx3UlBR?oc=5",
+   "published": "2026-10-25T03:09:47+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "【英雄聯盟】世界大賽／CFO遭MKOI營運壓制吞首敗！瑞士制戰績來到1勝1敗",
+   "source": "蕃新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdGZLZHRHSDc5a0VDME9zVU1YZ2Q1Y3FUMWJyaTdtakZGaFdHbWdtYjZuZnFJQjlMRV9kbGVQdS10bXR6dlRHNm12OUJjNkZ3N3c?oc=5",
+   "published": "2026-10-25T03:08:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026 Swiss Stage Day 2 results and recap",
+   "source": "Dot Esports",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQektzVEIxTkg1N1lfcGJOamFPN2RuMGt0QnNFd1R1V0Q2ZHRCNjlNTUNVdmwyb1FJcFBTWWRLaXl5d1ZaUUZMZHRPYTdiZkNhaHFzNlZYMkdXVXJxY0toUkV4UzBfbHlTNllvZFR6dnlCc1A2dGxyWllUZ1VsbF9NdmhwREdWNThUVVdoU09jN3BtWC1IV2dLWl9OU3kyT2lORkE2VThHMmZjcUhPalZITENrOG1kZUYyam5ibjVVNUtadw?oc=5",
+   "published": "2026-10-25T02:59:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LOL世界賽／台灣CFO 27日凌晨對T1！瑞士輪第三天賽程、直播一覽",
+   "source": "NOWnews今日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vblRRNDc5MDg1ckduaUUzV0lLM0x6N0FGdGhDeC1JVFJRaWUwYnp1UXJKOGsyb2d2MVNXNU9EZUxJZmN5bHU5c1RsNmtzV0REdFHSAVJBVV95cUxOb25UUTQ3OTA4NXJHbmlFM1dJSzNMejdBRnRoQ3gtSVRSUWllMGJ6dVFySjhrMm9ndjFTVzVPRGVMSWZjeWx1OXNUbDZrc1dERHRR?oc=5",
+   "published": "2026-10-25T02:35:18+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "《英雄聯盟》世界大賽第三輪CFO 抽中去年世界冠軍T1、TSW 退無可退將面對LOS《League of Legends》",
+   "source": "GNN 新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50b1lGQ21LRUVPUFNQMGQxUUtxazNSdk9sNHFnTk5JVnR2VUl3bkdMN3hMa2pkS183YWZSbUdjSlZMOFBiZHpERV9PTHpYVFZKQXQwMVgwSlo?oc=5",
+   "published": "2026-10-25T01:47:14+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LOL世界賽／CFO、T1雙雙落馬！掉到1勝1敗組別 TES打贏中國內戰",
+   "source": "NOWnews今日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNHdjUGNONDdUZDA4U2NkNnRtU016WUk5eUZqV2ZBOTZBS3lSMzFHNFV0TnllbVdjOU1ReUlkVUg1SjV4UFA4LWtxVVEyaXVtQUHSAVJBVV95cUxQYzR3Y1BjTjQ3VGQwOFNjZDZ0bVNNellJOXlGaldmQTk2QUt5UjMxRzRVdE55ZW1XYzlNUXlJZFVINUo1eFBQOC1rcVVRMml1bUFB?oc=5",
+   "published": "2026-10-25T01:44:45+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026: Swiss Stage Round 3 Draw",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONm55NE4ydFpzS2lJWWVxTDE2c2JvVnBrZm5KYTZlMmNwVXlBMnNBTUxYMk9oLVFrTUdjdmtTODhjMFVjZDk4ZW0tU1RhRGxHZl8xbnd6RW1IZXZVbDVxVFVtSHJ4SmdVUjNiRjI4c1ZMTGtQdURYX2hyYXM1N2hDRFVXOFNEa2s?oc=5",
+   "published": "2026-10-25T01:36:25+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026 Round 3 Matchups: DK Face KOI for Knockouts, TLAW on the Brink of Elimination",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzBNeWVLdUY5UFZVU2tfWHY3MU1hRHVGQ3lOVnEtdHR0VDU3NDd2V04xeWF5YTZRMVJhd0VDTFh5bVFMQWRwUUNTNTlKV3VubU5LQzhfczByREVadlFHMkY4Z2tvNjFkcHhVdTBtb0dPVEhpZklZWVYzMXlZUE5LOGJGcG5LdTFPeWtVYm1yQUtZZi1wUXRhSkNJSExoSGFmQWc?oc=5",
+   "published": "2026-10-25T01:35:25+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Gen.G and Dplus KIA Avoid Civil War... HLE vs. IG, T1 vs. CFO Target 2nd Win",
+   "source": "Inven Global",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHp5a0E3R09RODhzUkJiMnlyalBnU2lsTXlpN3lvbGIxOHNUN0RnUlpvMGRtZUtsNUo2MkdtQWU0RUZjRlhwaGhXODljRDdtLUlyX1IwLVlRb1JJWkVCY3FzbDVJX1dLMUtiZnVEbHZySFVEQ2tlMC11d3RRdjN3aTktY1Z2WGZ0NVVEdTFTTU5LVTluTmJ3elVDSTlZQ0xhME9aeUFQUHF6cThOaXpfWlN3?oc=5",
+   "published": "2026-10-25T01:32:26+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Gen.G dominates, DK upsets the reigning champions, and the West continues its rise on Day 2 of Worlds 2026",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkx5dXdySWdkNE9Gd3pBeTJLcm5UMGN2bVNudERQWjQ3UGxiNUxxY2dPN2NBX2VzeG5jNm45Ni1sTUJnVW9qVW1ld0RWU3BsdC1Gc0NiMk5Uc0NTeThaZXdKUHBZWXYxNkctaXB0Y2MwejczYi1NUnF4cEQyTzNmemhJaFc0aDViU2szY1g4Q0Fnb2t3OUU0NTJVbEpjNmp6NkVPNGNCLVhFLWcyWEUwd2lZWmtPdGhDRkxPMlpFM1dWNjA1SS11UWhBY3Z2VW5PZ3c?oc=5",
+   "published": "2026-10-25T01:17:45+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026: Bilibili Gaming Push Team Liquid to Brink of Elimination at 0-2",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkVGX3dtRzRpSHQtV0JxOFBudU5zZGdLQlNvZl9rR2F4NW1aVXRvVG9PNEM0MUxnajUtNzd1ZzJHcjJsd0dCUlI1dkIzOVRIWFliUy1ZSFNMRzhib1dsR3JaNUk2TU1CUzVMdGJZZTFYOGN1X3lLblY1WHBRLWRid0Jqek5feDVBRnIxYUpIU1l4bEhtMXZ5akp1bjdjcFR5OHc?oc=5",
+   "published": "2026-10-25T01:12:36+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "BLG",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Gen.G, Dplus KIA, LYON, and MKOI improve to 2-0 records in Worlds 2026 Swiss Stage Day 2",
+   "source": "GosuGamers",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGM0N0dxTkdlNnBVcTIzaS10eWNvZXMySzdPNDJEaTdlNVkwT09BdmpnQ3ljVVlWOEstRWxEVnhld1Rtdjg0MlpkU2JRblVQMDBPN2JmY05hbElFWHVWMU1JOVEtUllQS29XdE9nek42QUhvcTdmamg3VFMzMmdjaWV5WGY5UUJBQkVJaXkxVkgtTEhFOUpGN1EwS0Y0VkdQdkUxQ3pobmROTXpNMzhPTVk0OEdwMEZNWkl4RmRWY1J5RjdGQWc?oc=5",
+   "published": "2026-10-25T01:06:22+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Dplus KIA pull off a second miracle comeback against T1 at LoL Worlds 2026 Swiss Stage",
+   "source": "GosuGamers",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFpZQWY5Z0FuVnNFZEJZSkxPdTdRR3JYVzgtcks2cU80aXZvZV90eXpqOVhadUVmN3JfMXlDVnFwRHJFM2RmenBKM0pZSjhncDgyNU5BdWFVX0hCaEh3VThqa1dCY1AxVUF6Y253WXB1cldOZ0MxMmlKYmFYRUpBY2ttVzRMQmR3bHlldGdpMFBCVmNZT3R0V2p0NFZ3VHlkXzg5Zmh4cXFmbksxaXMtUzVhejRaYkU?oc=5",
+   "published": "2026-10-25T00:40:32+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Elder Dragon Fight After Holding On! DK Beats T1 to Go 2-0",
+   "source": "Inven Global",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXg1VFlpbURCcWRxcFMxNW9fS21DR09FYXh3cGhiMk43endDY3ExQ2JLQmo4MW9ucTVMMkdDdUM5V2l4X1NxdVhUbU1USVdyVmg5d0k2YktiUjNUdXhmRnFiUzl0RDVLRWVVbXFoTzdiZkhiOUNFaWVyVGlhbUE1UG5SRU9iUG4wTS1jTVZZY095R3FmcEJxU3haYnRtcEsyMFE?oc=5",
+   "published": "2026-10-25T00:12:26+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LoL Worlds 2026 — Gen.G Ruler Reveals Secrets Behind Hanwha Life Win",
+   "source": "The Korea Daily",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84eU5rNkRiVV9DaGl5Nm41MXlfVDg0TUNEZERkZ2ZldTdkV2JROXRYcVVjWncwdWV5a2NtdGhQNmhoWVZ3YlpYVVZKOHd2SWZXdDRWNEt2RE9UeWRKREZ2aExtU0ZFTmFoc1hKWC1zcE5TczRsVERNck1R?oc=5",
+   "published": "2026-10-25T00:09:52+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026: Dplus KIA Ace T1 at Elder Dragon to Secure 2-0 Pool",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1E2WjlDcWlLajRBdHhwM3FORDFrRW95NFY0TjQ0NFUwMFFCdXhyS3gwbHRSOGtacjZVVTVkakptcHZOQ2FTa3BxOVZIUHpsUC1lMS1YRHFGVWVBWmJoVXVLOWtKU0xXX3p3c3Y5eWl1N1dfekNseHlyZmFmOHBDMV9rRDVEX1g5dlByd0hYd2FibjVNc3ppaVA5QkU1NDI4SlE?oc=5",
+   "published": "2026-10-25T00:09:20+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Gen.G overpower Hanwha Life Esports to stay unbeaten at LoL Worlds 2026 Swiss Stage",
+   "source": "GosuGamers",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeUJJdmk0c2VjblhvU1Z1NDhtMHlHSThSUUJUT3d6TGtRNTBvT2hwbm1zMk9Ha0JtMWFHZ0JLRUhYZDVlOWRsSFJTaGxiSk15UXhmZXlaQ1ZUcFd0WTFncS0yQlJfeWVkajF0SUJaT3JQOEdxNzJ1SDF2bDdlRlNaaHZMTkFZbkRFSXhNYXNYb3hUS1JzeUt4dXhMZElFekJaZGx6bWRNRFRYVFVMbnFuLWNhMS0xSGZnV2x1NFZxNjF0Unc?oc=5",
+   "published": "2026-10-24T23:23:34+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026: Gen.G Dismantle LCK Rivals Hanwha Life to Reach Promotion Pool",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFgxYUFWR2RkaUxRWDc5WTNDbU1hNlpmWFlQbDBiS1FOSVZVd2tyOUNzM3plOUw0OWtqMGU1TE90MU1KampVYlB3b19JeXF2MmpYRHVGTVVQdkotOFlCZW56RE5XbWRrZEtMVEc2TTQ4eHNxVlNKQzZSeHRPR2dpWDN4TUw2NDBUT3hteW1sd096RzdpeXltaGFjdWhUOHIyc3c?oc=5",
+   "published": "2026-10-24T23:14:35+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026: IG Turn the Tides on TSW to Level Record at 1-1",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1VnT05oSDBtQTZ5eklldVBDaklZQzcycGpzcndfVExhLWJ6WmdwM3VDRTl0Z2l5dFNVeEdwQ0RROFVvcC14TXFpM3dEUzBZUy04cmxjVTlpUGhMdlhKanJFQ0gzTnZIR0dUNWpib1J6bDd6eW5qMWZnX0RqN3piUzdiTld1NEVvOUJhYkg4b3F6eDZHV3oxaE1fT05obWN5Y0E?oc=5",
+   "published": "2026-10-24T21:57:34+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -25,6 +318,59 @@
    "local_image": null,
    "tags": [
     "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "LoL Pop-Up at Lotte World Mall... Faker Commemorative Stamps and T1 Merchandise in One Place",
+   "source": "아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vb2tJekx4eTJlU1ZlSlB4RDZWcTRHYWhBM09teXJWQkFBMzlRaFRnNEhSOVplNXhGaDNNX1lZbTdKNkl2T3Ntb3oyTXRnWmw2Sll2T3dGa2tVN2QzVExTQTNmRW83NC1Jc2VDNi1DT1B1a2xGVVE?oc=5",
+   "published": "2026-10-24T21:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Inspired Leads LYON Past Karmine Corp in Wild Worlds 2026 Comeback Victory",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmRGbkRHLVFnZ2IxTGs1SVJKZXlUNTRELUFRLWZIQkg3VVpqOUZkdVBDMEdxUVN4OC1NV2xGMWNIcVIxMC1sa19BZjNMSEtMbXZhNE91MkIzSHp6UDVpMHZfRndHUm1WeGp2ejNnTmNqdkNRdW5VeTd3a2xTN0t6OXVMeE5CQVVKcGNHZnZ4ak01UWNqak11NlN5eG03NndHb1E?oc=5",
+   "published": "2026-10-24T20:58:34+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "G2 Survives 39-Minute Worlds 2026 Thriller vs LOS to Dodge the 0-2 Elimination Pool",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXBudmtiN1Ayd0EyNTFHcjI3MmtGQzB1bDl5b0N2OWFKdUdLZ0d5eG9LYWdZYmx3VEtXVl9zZU1YSzdZVXE5aEJVRHVEOGJJNlRfdElQRUVidW5vQ0tOZWYzZDdGZWpGNi1xanV5RE42bkJpVmViSUZaLW1OSW1vZ2s1amdsVlZUd2dyc2pFa0lxa1JXNTJna1o5Z0lJNVFJQ2c?oc=5",
+   "published": "2026-10-24T19:51:46+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "《英雄聯盟》2026 世界大賽瑞士輪 Day 2 戰況總整理！CFO 對決 MKOI、LCK 與 LPL 上演多場內戰",
+   "source": "COOL-STYLE 潮流生活網",
+   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYTgwNEFCelQ3eFRMV1ZfdXNXMmhJbi1qOE9SVW42RFVIckZGeHZTN19NcDM1SDR5YmlQNVM2d2ZXellxQllVVUNGUE9VTTNPb0QwYjk0S0V5ZFhJaDZPV0MtZ1BZS2R1QnBObWhveUpfazlOTnc2bDFnRmVFMzNLTmRqV3gtdVlKWTItLU5lb3NaZ3hjYi1hWFdOcTNQMkdxazF4S3RFRjhBM1IzY1VFdExvbnBtQ25ic0pSTjVRR3o4WEdEaGk2aW9DTnV0eXNUVVJYTkdDclppMWV3VmF1Vm02b09veWw4VzlNQ2NKQnh0MDhJeDhDc0xTMFctNTVRNmFxNEh6Q2JLQ2ZZY0xYcmd6WFg5UFM1eTc3VGpfUVczMXNITWdPRGY2aWIwV3ZRQlU2NXFHLWZ0NENFdnpyS2NVZWtzdG5w0gHOAkFVX3lxTE94UTVGRDhzd0x1SHM5OEJySFlEU3NySkk3UUtBUGo2QzlTTTJzMWN5dGlsd0JWZktRT2tlX2FfcG9MU0VaSWdWX1diTmlPZFdmZk83YlNESUFaZTQ5cXVYM0Qta04zRk1sNFlDbW1uS0tEeDZNLWJUZjhlRXFROG9GdFA0RHlMQlhCOGk2LWtVR2dWcmROY0I0Wnl1aGVwVEhUTVp2Um1SeUJTR3ZuMzZlODlVc2oyamhid3hHQkZtN04yOXhJQ201Nkhjem1mNXVQTFIzOUw3c1VsS2JXVGFiZWRMVG5mMlRXSEtfMWR5ME1KWHBwM3JaTFRBY3FsbDhmTUVTSUZTeFlac1VNcDBTZmY3bUt2Y2I4c1BiakRqOHhHSHJNNGprZ2VFa2ZaU0xxSm4tdHF6NGRxWjR4QkVTbjRlenhqa0NsTXpyVXc?oc=5",
+   "published": "2026-10-24T19:48:41+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LPL"
    ]
   },
   {
@@ -68,23 +414,10 @@
   },
   {
    "type": "news",
-   "title": "Worlds",
-   "source": "LoL Esports",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iOTBwclVHN0l5V0Fla0NYaF9ycTd3X1oxUVpRTFN5Q2ZBcUJJUXQ0ckZBcW1Tdmd2dGtxXzQ4TTBmRGlMeFBPeTcwWjVTdE1qQkdZV0xhME1qX1NqVmhiVzdOUk02SVhiaHNZ?oc=5",
-   "published": "2026-10-24T18:19:30+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Top Esports defeat Anyone's Legend in bloody LPL showdown at Worlds 2026 Swiss Stage",
    "source": "GosuGamers",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUpzN29ybXVULUVka3A0RnY3SngwX1NWaHJoLUZVcExpOFk0amJacmVrYnJzSTBtR1NkdmgweEpNWGZxRjJPa2x4ekdRaDRwVHFaUlZ6YzA2ZzdxN0JuTTl0TWZOYVNXMmNMX1JEY1hYb0FwSXFkcmcxOXg3cEo1SDdSOG1HQjJDNy1MMlFxY2hOaGQwNDZsem5WZWtHRzZ4Z2I5NEdneTdaZUpXSDJPUE5lZDBjMFItbUNyQS1WcEYyYWlE?oc=5",
-   "published": "2026-10-24T18:13:41+00:00",
+   "published": "2026-10-24T18:21:46+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -95,15 +428,15 @@
   },
   {
    "type": "news",
-   "title": "《英雄聯盟》2026 世界大賽瑞士輪 Day 2 戰況總整理！CFO 對決 MKOI、LCK 與 LPL 上演多場內戰",
-   "source": "COOL-STYLE 潮流生活網",
-   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYTgwNEFCelQ3eFRMV1ZfdXNXMmhJbi1qOE9SVW42RFVIckZGeHZTN19NcDM1SDR5YmlQNVM2d2ZXellxQllVVUNGUE9VTTNPb0QwYjk0S0V5ZFhJaDZPV0MtZ1BZS2R1QnBObWhveUpfazlOTnc2bDFnRmVFMzNLTmRqV3gtdVlKWTItLU5lb3NaZ3hjYi1hWFdOcTNQMkdxazF4S3RFRjhBM1IzY1VFdExvbnBtQ25ic0pSTjVRR3o4WEdEaGk2aW9DTnV0eXNUVVJYTkdDclppMWV3VmF1Vm02b09veWw4VzlNQ2NKQnh0MDhJeDhDc0xTMFctNTVRNmFxNEh6Q2JLQ2ZZY0xYcmd6WFg5UFM1eTc3VGpfUVczMXNITWdPRGY2aWIwV3ZRQlU2NXFHLWZ0NENFdnpyS2NVZWtzdG5w0gHOAkFVX3lxTE94UTVGRDhzd0x1SHM5OEJySFlEU3NySkk3UUtBUGo2QzlTTTJzMWN5dGlsd0JWZktRT2tlX2FfcG9MU0VaSWdWX1diTmlPZFdmZk83YlNESUFaZTQ5cXVYM0Qta04zRk1sNFlDbW1uS0tEeDZNLWJUZjhlRXFROG9GdFA0RHlMQlhCOGk2LWtVR2dWcmROY0I0Wnl1aGVwVEhUTVp2Um1SeUJTR3ZuMzZlODlVc2oyamhid3hHQkZtN04yOXhJQ201Nkhjem1mNXVQTFIzOUw3c1VsS2JXVGFiZWRMVG5mMlRXSEtfMWR5ME1KWHBwM3JaTFRBY3FsbDhmTUVTSUZTeFlac1VNcDBTZmY3bUt2Y2I4c1BiakRqOHhHSHJNNGprZ2VFa2ZaU0xxSm4tdHF6NGRxWjR4QkVTbjRlenhqa0NsTXpyVXc?oc=5",
-   "published": "2026-10-24T18:08:51+00:00",
+   "title": "Worlds",
+   "source": "LoL Esports",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iOTBwclVHN0l5V0Fla0NYaF9ycTd3X1oxUVpRTFN5Q2ZBcUJJUXQ0ckZBcW1Tdmd2dGtxXzQ4TTBmRGlMeFBPeTcwWjVTdE1qQkdZV0xhME1qX1NqVmhiVzdOUk02SVhiaHNZ?oc=5",
+   "published": "2026-10-24T18:19:30+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
-    "LPL"
+    "Worlds"
    ]
   },
   {
@@ -254,19 +587,6 @@
   },
   {
    "type": "news",
-   "title": "True Damage Know My Name Skins in LoL: Full Lineup, Prices, and Details",
-   "source": "games.gg",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sc0NZb3ZHU0RpQTNCYWp0SThkTnhmQnFmaHJXampfQ204QjVKenpZcmtzRlVJb0FCblk3d3QzMDRQcFdpVEhoZ2ZoNnlrMVVrVFBGTVltZHhMdjA5eTV6Vy1pSE1qUEVkeV9hdFpFSlM4dHNtUGk1QVpwVzVxQQ?oc=5",
-   "published": "2026-10-24T13:27:05+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "LoL Worlds 2026: Teams, Schedule, Format, and Favorites",
    "source": "games.gg",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjFJSTZyWlBoTDVVcC1VeldKQm9XY29VcnRBRVRWWS15ZlprNk1VcWFyOTR4ZG54Vi1PVms1dWdiR01NdU1sYlEtaC1pY205U0tJWU8zNzNmUWNCY3ZfT1RtT21aWlF5V2toZVAwWS1CZm8tQW0zQ0VDbU5LMUtoS1dB?oc=5",
@@ -275,20 +595,6 @@
    "image": null,
    "local_image": null,
    "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026 Swiss Round 1 Results: LPL Goes 0-4",
-   "source": "Esports.net",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXZYM0dhcEJHV1hDZVR3UElTOERzdDRqaEdTNE5ROGpZUzRrZGJZbXdwZWRnd1JUSWtCQUcwZVhfbWpkZzl3VDNIYXBYRU4wWFo3eE8tc0dMazRHUFc2Vkt0cTdTZHZmelp0YUlhbEVYS0ZGVUFRVDBjOGVDNXcwNjBn?oc=5",
-   "published": "2026-10-24T12:56:57+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL",
     "Worlds"
    ]
   },
@@ -373,6 +679,19 @@
   },
   {
    "type": "news",
+   "title": "Worlds 2026 Swiss Stage Day 1 Results: South Korea's Triumph and China's Sensational Collapse",
+   "source": "Players",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzlCTnlib01UbjNYT3pLRWk0dEdrMUZLTFItckxvLUlNX0RhazBpTmk0SThRMElBM1NBYXh5UUJTcjNrWW5CZGQ5MGJnTEtTVmR1WDBsQmNOY1NSUDNJbHppaWJ1aHZ3a0taX3NsUlFKTS1WYy1Na01LMnNaTFVpOUxRRmxPQ2dPMlB0RS1KcFpLS2pqX2lpNHBCdFVWZzB1d1dqOG1TQnBrVDg5UlpqVVdLWTUzZDM3bUE3c2lsZ05QQdIBygFBVV95cUxOMnU4Wjg2cTVvT2NsaHpjVU93Q3JNZExaWXdHejNqZ3BmdWRPTVh3Q2FxRUhQZm9FcFVxbDFLVkVsdkpSQTVkRjlNQ3d3dllsdXZ0X2ItaWRldGJqNUNOQjRZajlrTVZ0eGFxT0ZaRUQwdENpcC1jRlZJQXM3MDgzZy1UNHQtMHFnZnFTejBMZ2ZURmpkU1dDV3ZpYzN6QWM1ZGsyckJ6bEJncUZXS0tTYnRDVjY1VFB0U01pODBuOUxSaEtvOU9MR2pB?oc=5",
+   "published": "2026-10-24T10:32:21+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "T1 begin title defense at LoL Worlds with comfortable victory",
    "source": "Field Level Media",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3lqMU5kUjBvQmZRWVM1V1oyRUhSZVF3SG9fMjJuNVR4aTl4YjEwUU5pa0tWNmx3Qmp2SlZnZlNnTEU2UDFhZVpPa2tnWGRqeUpuU3lJNmVIbVg2dWg2NjU2aDBHV09YNDBmbXp0MnpBSlpnOVladkJDMW1hMTBoY0NVa0d2V2pTVHoyWjVZLXhIUDBlZE5KSTQ3NHdRUGs?oc=5",
@@ -443,14 +762,15 @@
   },
   {
    "type": "news",
-   "title": "Dplus KIA beat G2 again in Worlds 2026 opener, three months after Esports World Cup win",
-   "source": "Esports Insider",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkY4djhfRTJuaHo3MHBvbV9MbW1Ud1RsdUVDWThMUWV6QXYyX3ZzOENGb2llUDJIUUJtOHpEbXpkdndDTHFmWklFR0xmUlNOYzAwaHVweUl0X291VFlaNGppaktTempuRm15VWZ5dzJZQ3BEMHEyNm5yRnctYW9CS05QMGZ0VVJUcHhieGI5YjVsemRvT3BWT2VuWW0tUXc3?oc=5",
-   "published": "2026-10-24T07:06:32+00:00",
+   "title": "《英雄聯盟》世界賽LPL四隊全敗！Gumayusi賽後直言：中國賽區不像以前那麼有威脅性",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNWTV0Vk9nZ0ozUmt3eTE4aW5WcmFMcFVCa0lYalhTeFhLMllTUFJMdU1NMk9JTXJERnBPT3pXcURFUldSQXp1U2dRbENBcGhHUGtJWVl2emNmck03d2dycWZUSzk2VDZRemZvdHAtNE14eGItR3J1WnVXcWh6cF9ZY2gzNEd5THQ0MmxQMXk1ZnlUb1lXVTJEU3pyOVBCSmdZYVBsOUJ1MWFnTUdncm1WamxydEl1Z01qZDc2Nzh0cmZib3JQWnB2T1JOdXZ2bFVyd2VJazRGOHFBTlI0UjM4MkJvUmFLQXhLQVRJZ3lfbW9reGVMNE9tNHhZS1lwdDhvczRQMDllakVIWkNnWGpNRXo3Tkh2RUVYbFE4TlFuaUZmRkpFdlN0VVVTcGJIRDZWZmhCWHVCTkpEdXpEbTVjclkzWXhiRTBPMFc0VEw4cndWNDg4RU84ZVBBTkVyLUJiQzQ5MnBZc25pbGxCNXliNnF4YU9Lc0xiTXhmRDMxOFVja2U5dllneFpBWHVGdkFDQ0JpZDRTb3pVajVuVF9qQlNZOUowRGJUMDJTYTFuWEc1bTg2enllVWpiWkd1U01zeFhqeTgxNFVkWHVPbVFocGQ4OFZubTJ1QXZ3djgwejI4OFRPUFRFRnc3UXFOdw?oc=5",
+   "published": "2026-10-24T06:49:29+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
+    "LPL",
     "Worlds"
    ]
   },
@@ -523,6 +843,20 @@
   },
   {
    "type": "news",
+   "title": "【持續更新】LOL 《英雄聯盟》世界賽2026賽程一次看！CFO逆轉TLAW奪首勝、10/25戰MKOI，T1對DK，11/15 紐約爭冠",
+   "source": "風傳媒",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TekxCVkJTTU91OFNVMnpPblRWZzZPMExIaTA0Zlk5RDd5WUtxelVZRl8yeDlOTkQxZVQyZ3lrSEpEY2FWQUh4d2NSeDg2MS1X?oc=5",
+   "published": "2026-10-24T05:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "T1",
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "《英雄聯盟》世界大賽／台灣 CFO 擊敗北美一哥！Shad0w 姬亞娜關鍵團戰助隊奪勝",
    "source": "上報Up Media",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yU2VtRUY3MG5lZXBWbFdnY2hTdXVqWExILWhiTllILWxvUDlTNEdJOVlITVJRZGVNczNiMWh1d1o2NHRic0tKNGc1TjFnZ2VtSUdwUHhnVQ?oc=5",
@@ -544,34 +878,6 @@
    "image": null,
    "local_image": null,
    "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LPL's Winless Worlds Start Forces an All-Chinese Match in Round Two",
-   "source": "Trending on Weibo",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFV5ejhpQzRlLVZyb0dnbldMcUxVQWhmRGI4SXJYM0dWSWhSYUxjWVp3M0VhSVB5YjRuemFQdG80ZUQ2NDhJUXVnb2gxQXY1X2ZWMnlfVExtbC1fY3Q5ZTlrc1Z2RHJVWTlvVHA5QXJkTnlVbTZkRHRGbkFReENERFNyWmhCUnBGcFYxTg?oc=5",
-   "published": "2026-10-24T04:10:47+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》世界賽LPL四隊全敗！Gumayusi賽後直言：中國賽區不像以前那麼有威脅性",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNWTV0Vk9nZ0ozUmt3eTE4aW5WcmFMcFVCa0lYalhTeFhLMllTUFJMdU1NMk9JTXJERnBPT3pXcURFUldSQXp1U2dRbENBcGhHUGtJWVl2emNmck03d2dycWZUSzk2VDZRemZvdHAtNE14eGItR3J1WnVXcWh6cF9ZY2gzNEd5THQ0MmxQMXk1ZnlUb1lXVTJEU3pyOVBCSmdZYVBsOUJ1MWFnTUdncm1WamxydEl1Z01qZDc2Nzh0cmZib3JQWnB2T1JOdXZ2bFVyd2VJazRGOHFBTlI0UjM4MkJvUmFLQXhLQVRJZ3lfbW9reGVMNE9tNHhZS1lwdDhvczRQMDllakVIWkNnWGpNRXo3Tkh2RUVYbFE4TlFuaUZmRkpFdlN0VVVTcGJIRDZWZmhCWHVCTkpEdXpEbTVjclkzWXhiRTBPMFc0VEw4cndWNDg4RU84ZVBBTkVyLUJiQzQ5MnBZc25pbGxCNXliNnF4YU9Lc0xiTXhmRDMxOFVja2U5dllneFpBWHVGdkFDQ0JpZDRTb3pVajVuVF9qQlNZOUowRGJUMDJTYTFuWEc1bTg2enllVWpiWkd1U01zeFhqeTgxNFVkWHVPbVFocGQ4OFZubTJ1QXZ3djgwejI4OFRPUFRFRnc3UXFOdw?oc=5",
-   "published": "2026-10-24T04:05:01+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL",
     "Worlds"
    ]
   },
@@ -736,6 +1042,19 @@
   },
   {
    "type": "news",
+   "title": "TBD vs TBD | Worlds 2026 | 24 October 2026",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDZXYUpkUlFWRFFjNzhtcGJhWHNEVkR5Wjh2Z2NjbUgxZkhRWHRSMUFiZ2pYUDZ5Nmh2OWdMazN1WDRZMzlMbU1oaV9waFhMa0tjNExxY09SbmV0VGdwSW1WaXBYeGtHT1lxYkNUc19uVG1pVUs5cXJFekFLUDNyNnBoYjZoVWFVNnRXLXY1cGlBVU93MXZkZXNPMlN3Zm5UVjYyeWJMQ1poenc?oc=5",
+   "published": "2026-10-24T00:46:41+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "Worlds 2026: LYON Overcome Early Chaos to Stomp Team Secret Whales into 1-0 Bracket",
    "source": "EGamersWorld",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHRtaWgzNWVKU0xhcWVjbFF4d3Zsb0t3dkZIWjFRQk5XTERBVUNkaXl6WDFUZlBnMnkyQmE1ZlF1eDZ1Nm5KXzNMZHZTNWRkN2g5a19TZ2p5M1VQam5ZenZDdm14SVNqZFZaZE1MSklWT2xQYTlSam50alZ6blBvLVdVNkpCbnBTZEpEVWdXVHo2YXZEdjl4QU1xS25qVkFjX2c?oc=5",
@@ -831,19 +1150,6 @@
   },
   {
    "type": "news",
-   "title": "Dplus KIA Secures Comeback Victory Against G2 Esports in 2026 LoL World Championship Opener",
-   "source": "SSBCrack",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek1mYWxxWWh4ZEZGZm9iU2x1ZHg5cE9Yak1oaHB2WWd5aElUbmFoNi1HVW5xbVgxSmZOV2Z4RnZWbHVUUjJnLWNiTFZCZWhlTkp6aWVBekVWb3pJMjFSTzJ5b3oxbk03Vlg4VGRoZzBxRHBtOExVWlU3VEJuazA2dkZYVl9tRU13MV9vZG4tRnZEZjFWZ0ZaWXNOUmp6U2VkR0RzdUxfY0ZxeENHb3lxUDVxSTZocWJib2c?oc=5",
-   "published": "2026-10-23T23:18:42+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "League Of Legends Icon Faker Now Has His Own Official Stamps In South Korea",
    "source": "GameFragger.com",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkV5MnJBTm1uLWEzQVV0TWYwUUUtbm5uUGtPNWpNWkU2bEpjQ05vMVpKQ0NYNWxqUlo5VEtFMG1qTXdqdS1aclVCR3Rjdmc4WnBBRGxDb1pOZmdBdS1Lb3FGMHhoTlAwa0RWdmc2NXVxV3NpNVJhMGhCbmZPOXNGMzdMX3NNeWpBS3Y4aWM2aG5WdERHRzR5bnRXdEQ4eTRKVnRPZ3NpLWNzMkJ5a0l0TEx5U2Z6U3gxSGhzTGF1SmNta1dIU3BjY2c0cVk?oc=5",
@@ -923,15 +1229,15 @@
   },
   {
    "type": "news",
-   "title": "\"Live and die by the blade\": League of Legends LoLdle answers 1570 (Saturday, October 24, 2026)",
-   "source": "Sportskeeda",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUNDTUV1bnA5OTlQdUdBQW1vdHl6amZrb3VfVlVtbkdoWjFWaFZqZm84TkVIV0p4WXZScVNSbW9mZEplWjJZQW5TY0VRaklHUS05UlFSNV9tUlFhc3YweTJjeXdzVGNFTTFCOFBqdGNlQUFFdWR4bmF3RlB0ME9kRnB2dkVNeUJUWTZxRldqMVBseFZ0R0Y0c3hURmJ1SmVNcWtJR2lxeW5Dc3EzUHRR?oc=5",
-   "published": "2026-10-23T22:20:32+00:00",
+   "title": "Worlds 2026: Dplus KIA Stage Flawless Late-Game Comeback to Overthrow G2 Esports",
+   "source": "EGamersWorld",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk5Yb1ZkUGRnVVVuUjZjSThtTjJBaC1GXzEtV2lqVFZ1WEUwU1lpMTJuakU1SzdqRG9TeUlDb0Y1NTZrY1FtLXZGeTk4NlVTSVdCZ1JQMFN0YWpDN0lKMm0xV1RESDZlSDNsdXhuZFh0NGRsbnV3S21YY1ZoNjh6MHpXNlg2ajVEeTZXT1dQSFhsWE1nZVFjUVpxZlBsNXk5R3c?oc=5",
+   "published": "2026-10-23T21:57:36+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
-    "LoL"
+    "Worlds"
    ]
   },
   {
@@ -968,20 +1274,6 @@
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxObmxpUWNtRGtoRlZGYkJwX3ZSSkhvTHJpMEtmRkxscm5TZmZtdXBOZi1qYmRyTFJEQjRycTluSlpOSWVjYV9kN19EVUpXZUhlQm9UcUNDR25ObFYwY2JycUczNEJGVVpadDA2Z0JMMkljeFcyOVM1VEkzdExkX2FoRGVPT1luX2I2cWhmcVNORjM1TmQySFJHdm1FWHp4SXpSNzMtMnRkbEdtaVZoaXFNZVhDMXZGcXM4eUgyY3lpblFCSUl4VGx4eWVqaDJfVFBOdWJhUzFDeUlBX1E4eEo2SzVOcU5lc3BVRFdUc0Q3Znd4TGQzWlVfSVJwVW5OVGJqT1NZNm1LLUdvUzVLQ0ZsQ0k2VDRXaVpRbFdDUUMtQ2JFZmlGaFlmbVN4M2txRUV4Nkp6SXhfenZPNWFuR3JkM0xRZUJkbG9hemcxejZoV1hYTTMwaU1nR1NTX3RTdUpHZVNjNXF6NWkteEFWS3Jxd3VhckJ1MDU0eE1GVkVxd2RmMm5mcGFyVWs4Q0l4R3hTcGRMSTItTHVGNWwzQ0RTbWNCRWlJRUFXMkFGQ1R5cTR2ek1vdXIycXlYeFFKVHZwaGZxS0g1R2dpOFJTVWdvRjY1c0lHRGVNWml4LQ?oc=5",
    "published": "2026-10-23T21:25:55+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LPL Teams Went 0-for-3 on Day One of League of Legends Worlds — and One Team's Coach Never Left China",
-   "source": "Trending on Weibo",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlNVOEZJOU0xWVotLXYwWmgwOEZhVmp2MHVmSnRMZndacDU3VTdHOW8xekVSVTBubWRHUi1kNDZoeVdJUlJsYkstWlhKRXVGOU9qbnVsUklvUDNPaFh2ZVh3S1l3aWdiWjRWOTRwb3N4M3ZFUUw3SEtrSTZlc1NpUUZ3aU8xbmR4?oc=5",
-   "published": "2026-10-23T21:25:12+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1088,32 +1380,6 @@
   },
   {
    "type": "news",
-   "title": "LoL Worlds Swiss Stage — Hanwha Life Crushes TES in 23-Minute Rout",
-   "source": "The Korea Daily",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JS3VjeXE2OGpMSnhBWGcyTFZxVDVycURRd1FadmtzcVd6WmoxX0VKYzFMR2tOUnBXUkMxNVdHRU5zeUZXa2F3ZnRWRlZlajFfTUtjUjNLMERobVVDVEJ1eUdNZW41QWlsRGZWNl9RQlhPR00?oc=5",
-   "published": "2026-10-23T19:09:15+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "G2 Esports' Hans Sama Reflects on Team's Journey Ahead of 2026 LoL World Championship",
-   "source": "SSBCrack",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0t3S2VWamN2RngwUDFoMDhMZHlQNnotX0FObmpPb2V6SnZfLUVYMXVOa3UwaVNBNkVBSFNSSGI1VXdXdHRMblVybk9KUEdySG5VLURVMDY2YXRNUm5ZMkp2RG1FWmt3QkdrVWhLaGNtYTZFTFdsS3JxRlQ1ZDRQcFlxNVU3UTZVX2hzMlRJX2ppOElzd3ZsQ0s4RzFSaW44ZnF1TXlUWUFfYXpuSTdR?oc=5",
-   "published": "2026-10-23T18:58:33+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Worlds 2026 Swiss Stage: HLE Dominate Teamfights to Outclass TES in Game 2",
    "source": "EGamersWorld",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1FxdG1KN0dTdGpfMkVTM1gxLThJSjFHbi1rMXdfMkU1OWg4RWtXSTNjRUlmaWwwXzNmUFFkOGJmQnQ5b29FVjBadFAzdmpPQk83dk9OSzR1TTZNSVR5SnUzcUE0S25TellFVGZ2RjVMYlpOa0ZpUWlsSUpTNF85R2N3clJUdHlHZjdjNGo4Rnpkc3NMdEh3Z3dlN0F6ZTF0Q0E?oc=5",
@@ -1166,19 +1432,6 @@
   },
   {
    "type": "news",
-   "title": "Teams to Watch in the 2026 League of Legends World Championship Swiss Stage",
-   "source": "SSBCrack",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUtlWUR6YWdNblNWRXJYWTBmU0xJMFFZcEJsUEJMaURjYjVDOW42a0luWHVubk5uMkRUT0VkanBGRG1vU1djZ2FQc09lRS1naEJnY1lOalZtZzBsRXVCM3c5MVY2WHJ4aGRqUWo4ZTRhbnZaNWtqQXJRRXN6MG9JZnJtVnRjVXNaLWJuY2h3Mzd1SjVrcmNmMkI0VHlLZ1lBU2txVw?oc=5",
-   "published": "2026-10-23T16:33:45+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
    "title": "颱風待在家觀賽！《英雄聯盟》世界賽瑞士輪開打 CFO清晨6點登場",
    "source": "NOWnews今日新聞",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xVUp2MXpPVGlYUGZYdGRXYU1fQVlkOGFYakhITnlsRHRPc3V0ekpFTkpGeVQzZ3pBQTA0Q0loNGlTNDhrMXphZXlYNDFXVXVha3fSAVJBVV95cUxOcVVKdjF6T1RpWFBmWHRkV2FNX0FZZDhhWGpISE55bER0T3N1dHpKRU5KRnlUM2d6QUEwNENJaDRpUzQ4azF6YWV5WDQxV1V1YWt3?oc=5",
@@ -1218,19 +1471,6 @@
   },
   {
    "type": "news",
-   "title": "K/DA And True Damage Will Share The Stage At The League Of Legends Worlds 2026 Final",
-   "source": "GameFragger.com",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcU8yNUdsUzFHWndmM2VhdUlyWVFTMWJiNzFVS3B5ODMxWi1zdXRIM1ZwTEtYQ28wWHFINTFjRkR2aU04OE1hTmdYYlBCbUNrUExUUkZxekkxVlVCOU5oa3lxWHhpSkEtWmN4ZGdvbjB0blgtYkZGMzk4VFhjcVh1b3QyYTBld09VZ3BSTGc4cm4wRzhVRTNyMTJreUE3V2ZGU0Nnak9iOXVDd3lWTXdaNkxhdFRUdU00U1Z0VE5ESU1QNjgwcXdTc1RaZTlESnJpdTI3a09VRmc?oc=5",
-   "published": "2026-10-23T11:10:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
    "title": "COOL 專訪《英雄聯盟》「印度神王」Dhokla 談：印度神王這外號非常有趣，原來我是這樣的王！",
    "source": "COOL-STYLE 潮流生活網",
    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWEJUNmtYVXRmMnhveDdBeEpkaVNNbVljTFlnSVJwM21KOVJISmJpcF8tZzJVbFRCYjdCOUJrLVAxMnRpYzFXRFRQZG5nbXRQUGktZ1gtY3NCTzN3MDRSdTROQlJQR0FrbklKUzBoclNyY2E5X2FwS0Ffc3h4R2thODl3TS10OUJ0NUR2TjZpNWRRQlBiQUt3cGdMTE9rQjR2ZklMYnRwYkowRWt4TF9IdC1LOU1TSGVNZDVaNVp1UDlwUFlZdkhvblp5MnpuYmJmMWdUTGNqUllrdlpRUzNJY1lEV3RDejVzNkw5V01DR2lOZW5tTWpSbVVzZG80cERUbnFCNXZWN2JBemIyanN6Y3BzWDRqazJFcDFicHJ3MjlPR2hFb2dxTlZzenNfZmd4M2pKNjJUcmRWSHNXd1I2c196WFdSR3Yt0gHOAkFVX3lxTE9RaDVLNGMwbzQzc3pvbHRBNjdPSjRfbUIzT0U4Rm05WUVERU1GNWwzY1lKd1owUnJTdm9kSUIxb0I3SjE2TmNENEtJOUtSZ3djazVMYjFQLVNPNE9Rb0w1VlpDNlczelU1azh3RU5FY2lOSmZCTTdSSFhhVlhhdExaVXV4eDBraVhoM3FwbVUyZVJGUEQwaU40LTAybzliQ3VLVXllaFZEbkJ0dF9LZDE4b0dkWjFKX29fUDJwU0xhN3ZvYV9uQU80TmxmQlNKVmFSMVRiODdNYTYwdFl4NmhScDB6U3dnUUlSLVBlNUcyMTJwOVZHWFlUd1I2d1pzZTRzMmlHVFdFYjhPTHBtWmwyZ0tzb0tnNldMcE9ENjQtS3NfQjNxU09BX01PcU54cVdmY1pRQ2ttTGN3dlRpay1mbW43alRtMlFid2dPSnc?oc=5",
@@ -1240,19 +1480,6 @@
    "local_image": null,
    "tags": [
     "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026 Swiss Stage Kicks Off Friday, October 23",
-   "source": "Happy Gamer",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3hEbWZJN3h1SkdkVE9MR3haNkNnNTNYNTdRR3pSOG9xYWJFclhmYWhFa2NoUXhCQXlvaXMtYlUybkNkX3RBUVdEd04wVjBHVGJYWm40ZGZxeXh3bGNmMkRxdlNQelQ1ZjVXUkw4ZDRBai1MdmZxX1JCVFNtLUJlcw?oc=5",
-   "published": "2026-10-23T07:44:51+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
    ]
   },
   {
@@ -1296,6 +1523,19 @@
   },
   {
    "type": "news",
+   "title": "K/DA and LoL Worlds go beyond the screen with Korea collaborations",
+   "source": "The Korea Herald",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FNlE0cVVLcVgyNWdXM2VZaTZ6U2V0RTV5cVlrQUwxS1M4WGxMdks0ZE9nYTR0NTdub3BETnRDSVdDaWg1b0hlNHRFYUgxQVQtcktDd0V1dw?oc=5",
+   "published": "2026-10-23T05:01:06+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "《英雄聯盟》369證實打翡翠玩家真的有壓力！談第一場對決Zeus：「打過就知道誰比較難打」",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxPTXNLVDVkQ0lqc3VhLThTNE1GZzNpdmhGOE9Sd0JvRGcyY2NIMThYdktGeUp4QWZjM213T3BTaWlqNHEzX0hIbTlzUEUtVzlLbFZWdEhSbUNyOXVrVmhzU1BhMkFUSFpENXFGRGwtTFEyeEdidndsQk9TaVlHR1VRaGhubVAzbFp6SEw4SzB1OW5YT2p0eXpVS0k4UUo4V0J1TXczRmVwY0VUclVjTW9SVENTbF9iMmVocFI4UzFJaTNNNVNrVkM5LWRXaUNYTkhmMVN6Y3RBSy1CX0xWV3hXczVhR2VOQUZMQ281UlFnZ2RhcXJGMk9TeDVhTGNKOTktNVFES0lZeUZjZEtGQk8xem9LZTF2QjgxUDhkSDlpLWVuY3M4dldCRXZQY29OVHlmTTNZODM0QnJZWHk4YmdXdUEtVlNHTjlxYjFOVzI5YVRvakEyVjJwQVYtN3AwXzBQT3YyVGxoN1pUb2VWcHRCRUVySWcwZ0M5clBkMU5HNWVNUmgtQnAwTThkZnh3RElndEVkSG1XcHUxMklGb0lka0J3QlF4WnJNZm8ySHE1TjBSdlo4RHgtM3daOGZrQWVpaUdqX1pvbktXX2xCeHUxZFZpQ3dmS2x0M1plTlZUb3U2bFRFQXAtRDBoRjRzT0RhdndyQ24wM3N6QlVJdmlDdEx4ZUM1YkVWbjM1aVpBallFQ3RFOGNVdmNWQXBHU25SVURYWg?oc=5",
@@ -1322,6 +1562,19 @@
   },
   {
    "type": "news",
+   "title": "LoL Worlds 2026 Interviews - IG Jiaqi",
+   "source": "YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jT3pnZkxtS3ZIWlp4ZV85eElCa1B6T1JGS1NBQTBYYjh6bVVsZTRPRUpiMUdESGdoVy1zZElkNEYyUQ?oc=5",
+   "published": "2026-10-23T02:00:20+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "LoL-Based TCG Riftbound Releases Three Limited Editions Featuring K/DA, Worlds, and T1",
    "source": "Inven Global",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd1IwN3NsVDR4Z21ldEl6VERjYUc0b3g2T3BudkZ2NWk1bjg3STRuRDBGTGxOZ3FKTjh3WjY3cVlMdFhrVWlNa01yckhXdDBRTVEwSE9GeFAxWER2aGpXVXg5V0JjTHRvLU9DUGVLTk4wcnk3NTA2ZVJiMnJDNjhWUDNlRkRpVlVldHRSOXdWZGpYVTN3Z3JrNDdnZEVQa1BLVk9RcmdWOExfR193THgtMjlvbFhNUFd4RjdXNHd1bXJuVk5u?oc=5",
@@ -1336,10 +1589,23 @@
   },
   {
    "type": "news",
-   "title": "Caps: “We’re Much More Flexible Now” After G2’s Tough Worlds Scrims",
+   "title": "K/DA heads to Worlds 2026 Opening Ceremony and releases new tracks",
+   "source": "Esports.gg",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWhvSFBkU21LRU9oalNkMU5NT2ZVeGZrTVBKcjhEZzlzV0lYNm5DSlJZdEhVT3dGbTY5UThicTYteFhCUy1sNlNBRER2MWUzM1JiOXFKRWp3eHVPclBrOVVPZkVRWDRPMWlaSG9WQ0JkMS01NmJkZ3hfd2pJU0lreHNfUU14dGlYVFBMTmFKRnBYQk9DeG9vamJSa0Y1ZWhaeFEyd3VQX1pwSkhHd0E?oc=5",
+   "published": "2026-10-23T00:07:54+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "KC Kyeahoo Rates His LoL Skills Ahead Of His First Worlds",
    "source": "Hotspawn",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEdHQzdpeDRYdDRNWUttblFSRnlPYS1MWUthS3ZlNjZ0MlJDMUZQOUZsSWpUWEVQUVMxSG8tZGdZSEJlRElvaVNkanc2MTdpYkwzbWluOWZxODhKWW5FcTRXLUhCTkFfaEcydVN6WTg1UXBTR0xlUkV6YVpQVVkwY0RzQQ?oc=5",
-   "published": "2026-10-22T21:26:11+00:00",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0h1d0VOT2E4TDBWTHNLdExKam9zeUZYM0R5TkJSbzJXODlldWJ2WHdWeEtmSC0zYnktMmtDdXpXVjJwYUtvZGhYaDZyWmJlWmk4WG1tV1RxTl9ETGQ2cF85RnFsTnJxUjJfNThLNmZvc2daLU5IZm5zbU1QZ1dtSjhUM2hUWGM?oc=5",
+   "published": "2026-10-22T20:28:36+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1375,20 +1641,6 @@
   },
   {
    "type": "news",
-   "title": "LOS vs T1 Betting Tips – T1 Should Not Struggle Against LOS at LoL Worlds 2026",
-   "source": "FreeTips",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nZXJ5SndpeTZJeXI3ekhCaWZXTlpidE9MdUJfb1JlRkhGSTZJRzJvaF9lYm9uRk1BUE1RWS1NQUdwY3JzcmZxYVVSQkpDVEloTFZSeTRUOXdFbDdPVm5jVU92c0V3TkIxY2lpczZaNG9kcURYOUJsMzJn?oc=5",
-   "published": "2026-10-22T19:04:37+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
    "title": "Team Secret Whales vs LYON Betting Tips – TSW Can Challenge LYON at LoL Worlds 2026",
    "source": "FreeTips",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmtVbUpOSm9NYzUxZjh5azBWZUpPS1dvSDB3OUUtdm9yaDJBU0Q4NFFka193bl92TzhxdkdjdnI4dmh2OTNuc0dzaXFZR2hUaDJDc3RrOFlEU0RYZUhQNzJWeVJwQWQ5UE80UVl0Y0txXzcyMkU3TC15WEVYckw5Y2FPRkY3YnNaUl9sblJ5MTI?oc=5",
@@ -1406,33 +1658,6 @@
    "source": "Esports Charts",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xdEx4cGVKc09rLThDei1YdjVoY2FwX05QU3BfaHREZE9ScTF4NDFyNm5WZU5WQm1QaHFEbEl3eFdabmxoMm9fdUdVdVZRU2pJYUpyank4NzREVVpNQUJ0QXc0djU?oc=5",
    "published": "2026-10-22T18:10:06+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Gen.G vs Invictus Gaming: LoL Worlds 2026 Predictions and Best Odds",
-   "source": "WIN.GG",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzJ2a2tlVXIzRjFOMy1wQmd0MkpFSXJGaURnSy1wT0hqeXBVMWVQX1NJRXBmY1Y5dnR0Z0RCY0szTVMzSEJ1NUxvT09MUXdWZmFwTlphNFV5ZGhVVHBmaE9BV3VJNldyMndzbDdLMzBNOW5nMGZBSlJkLTlqVGktQ3VnQWw?oc=5",
-   "published": "2026-10-22T17:17:40+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Who won League of Legends Worlds in 2021?",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFl0Y1U2dHZLaU9yV1M3UjlNMmdJQWRpb25Da1Y2amdXeEd3N1pNMmFaUDFFWnNSaEEwVFU2ek1wVWZfUXRFTE15aUlRZW1LcU5jSEhTSWRXam5YaE5SWVpPdjQ1dF96Q1ZFRnhIVVd6c3ZreHhCMXhnQ1lUVERNWW1aR3Rid19EektvUw?oc=5",
-   "published": "2026-10-22T15:10:56+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -1483,22 +1708,22 @@
   },
   {
    "type": "news",
-   "title": "Worlds 2026: The Culmination of the League of Legends Esports Season",
-   "source": "Players",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2xVVjB1aWZ1OTRNb2VsMjdfaWZlN0NKcWQ3ZlVHcDk2aWhvYUhjOFhPWEh0emhzTk9fWVVmeTBuVzFKVE5sUDI5RUdHbGN0eHNHMm5KenNYQVB0TEotblJJanZJcGxMcV9rbDE3QXFZRUQ2RzlXUTAyM1FzZ3B5QU9yRkdiTHJGdHRFNzFkNVFCSWEteWxJRHR1WFo2WXN50gGoAUFVX3lxTE42a0RvTEJGMnhpcTNKTFowTm9iUUFzdVJxYldLblQ0SnBfR1B0RXBiYzhMcm9JMkpxTTNZQUhfQzMzcXdIR09VWVNBN1lPLVFNNk1JTjVGRjBBeHZ3eElMaDJYR2ItQ245cjBUenlnaUJyQ0FaU3o5eU80U2ozbzBEMFVzcG04a0xzQjFYd1J4emhvT1RyaEd2M3lHYnhwRDVhcWJpM2hlSA?oc=5",
-   "published": "2026-10-22T12:42:13+00:00",
+   "title": "We list the best League of Legends players of all time. Can you guess who made it?",
+   "source": "Red Bull",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Yc3Y2eVlZdTgxNF9rSWh3OTFMdzRBUVo4OWhsaXFQMWZTSWN0UW5KNjNmT21BcF9ZVW9mRHhhOGpYbFM0SS14QmRXT2RiaDFiTHpuZnl4dkY0MmNOU1FtZkt0OWFnVER1bzc3WGhSaFJ3OEctcHYtZ25hR1Mzdw?oc=5",
+   "published": "2026-10-22T11:00:00+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
-    "Worlds"
+    "LoL"
    ]
   },
   {
    "type": "news",
    "title": "Who are the best League of Legends players of all time?",
    "source": "Red Bull",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Yc3Y2eVlZdTgxNF9rSWh3OTFMdzRBUVo4OWhsaXFQMWZTSWN0UW5KNjNmT21BcF9ZVW9mRHhhOGpYbFM0SS14QmRXT2RiaDFiTHpuZnl4dkY0MmNOU1FtZkt0OWFnVER1bzc3WGhSaFJ3OEctcHYtZ25hR1Mzdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55c3dlN1ZoNFJaZE1hdFJfYlBSMXB4WERUV3MtZWFBTlc5empNSEJXMmh1OXRib3NFOUU0ZDlDRTM1MEtJSGFkZjV1b0pOTU5ycWtEbnc5a19rYTMzdHdlMnNtZ09OV1pYQ1l3VEVtVW5DYVpoTnhHWDJrWjM?oc=5",
    "published": "2026-10-22T11:00:00+00:00",
    "summary": "",
    "image": null,
@@ -1642,6 +1867,32 @@
   },
   {
    "type": "news",
+   "title": "《英雄聯盟》Bin臉型變太誇張？新舊照片差太多 連韓國人都嚇到：這到底是誰",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOd0oyMXZuSGRkNlZpcVZOQnB5MDhBWlBTRWJNaGc0ZXNNT3RBV19jbEx4cUh6S1pCT2pLdm03bG1GVm84YmU1OG8weTd3dU9tUDdMVlBDdVR6UmpsN1lVcWYwU2JmRjhacEdPSkFxdVVWU2RsOGhJZk5TUmlYLV9sclliXzMzeW1VM3BSM0ZlX1l6dVZ3VDdadEx4NDVEZzBCRk41TUhaZFBMM0FqM25vWnVMaDd0b0RwcS1aRjIyQ0ZfQWRkZV9wZVE0bVFYa2tCblZBaTJ4akJuVDBhWG90eUFyS2tYUWVXcm9ZaERqU2V6aENjRlpTamFKQUFVclBqZTNoTFRXNGJHQUxic0ZQcGdrSVc3YXRrc1hNNnJKVlpULXNKMHB1WGd4aUhnb0lRYkw1VGJoUmRIYkhLRWVacVFZWXV5eHJUazdWbUJlVGFXcER6QTJMRTZRRmI1UDJ0bGU0Z3RiWGRVbmprNlZPcXhucXh5aGFNUTdTTDgtdUpDVnNaX2VXWkRvQXk3MjNDVEpPdGdfQWt3WDRRbC12TEZDTl9IdElpbnYySjhXYUdNWUxMZG90MTg4djhkOTBUOTg4QTdYaTdoY1VjUFE0QktMUUY1cVpySGZTWGVrYmtsQTdv?oc=5",
+   "published": "2026-10-22T05:51:43+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "2026《英雄聯盟》世界賽懶人包！瑞士輪對戰出爐 賽程、戰績、直播一次看",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQM2ZkblVzaHpDcG14MzdKT3FqVFFUUDFWamdkem0yMkJtcFVCeXVrZjZycEZkbWdHbW1UY05tNzROSlNQYzJxRFFQeU1MQ1JZeGp1UmlrTG1RQzJ6NFZ0RWRKelB5dXRsTXZoZGV1Yml6WG5FN3RYbllTWUp6S09UQjhpTzFVbDVJaVNzVk9MVUY3cGVXekV0TWhkQkJEdTRMZ01wNHp0YzRqb2pMT1VEVEwzc0ZwT1ptTVNqRTdod3Y1ODlzZ25rVlBGbnZYZVBNdlVzbGEtTGFNbEpzT25tZDViVzdUOVZ4T2lTejVRSmpndG1zdXNaTHV0Z0dQWmhUei1Sb0o2WURnMXpLWFpzN01IUE1ZTmo2c3ZFQ0thRG1WbjRmaWFrUjBUX0lDNE9FSDVGMDl4MDlSd1B3eXBYamZTR2drLWp3YUlZYlplVTM1cmlicE9oeHZUYnRKMnZfSWYwWnl2U0pEcjQ3cjhDc0FRRmFKdEk2ZVFhSWZycTRSTWdTWE5wV3pYZnhad1BacFVOOWR0WkIwek5laE55Vmd3WFplOVEtU2RtcGtKcmVVdFFDOTZtYi12SkFZc0RLMm9ZU1dXTVFSakpoMkE?oc=5",
+   "published": "2026-10-22T05:49:32+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "獨／T1 Peyz談世界賽！親揭隊伍問題、回應官方預測與Gumayusi「誰會殺更多」",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNMDBHaDZJMENwTXlaS280em4zUWtrVDcwakxHUC0xUkh6MS0tMHNkT3Y4QzdMS2RpVE40aFhiNjA0VWRBR1ZzMkNsRlBkWndidFhqdElxT3pmWUg0Ry1QdHRwTEdiRUJtRWlzLUVUZ2o5ZHFBdi1lZXlWa2FZbFVQdkEtdUJHZWVOVngxWVVDLWhzN25MQlNLbVRJSTB3NFZGSlRkZjRHenQ2TTlWOVB0Y1o0cTA0SU02ekI3T2pCTHpmYlhEbUFYMzBSRGtXTFVXRW5SaS0zUEZaYWY5bUxkVjlVM1BHdTVublA4UHJMZDIzRWZfUmd2U1lXbG9IRk5zeVNPNjh5SHU5TG9KYVg5dGcxTldha05OR091ZWtJeG9HYU5uYUdrci1FV1JwbnpXRnJrb2U4Z01MSnNIVG1qbHVmSHJWSk9FNG1NTDhvME5sM085OVNwQW52QlhINFNWaVh4ZW93Sk56Z2ZtTGwwbHNpR1R2VmJFWEUwSnhmNVZURzVhOUpiZ2N5TzJUenptVWFtUTBkMExuclNVOGNWNmk3aWhsZ3hXMFFkZ2ZIbF9ac1hWWVJR?oc=5",
@@ -1678,19 +1929,6 @@
    "local_image": null,
    "tags": [
     "Faker",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Riot Games True Damage LoL Worlds 2026 Anthem",
-   "source": "Wazzup.PH",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95aU9jSmlCTF90RDdRY3NXSTRpckxjVS1BWDc4TDZucWhaU01aRTNwbF81dHBSVjJmdUJxd3JJT0tlMnBpZEZZNXd3OWdYT0N6WEkzOFVGcjFXRUZDTndkNVB4RURpcFAxUi1oQ2MtbzVodWdxenpJ?oc=5",
-   "published": "2026-10-22T03:30:55+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
     "Worlds"
    ]
   },
@@ -1818,19 +2056,6 @@
    "source": "EGamersWorld",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONG9kVWhPLWgyRmFTNFJ3bk9Ib1c5bkJHU2RhTFZJQ2RYOG9ZSi1feDhodkUwOHlTVlVYNlBzZTNJTS1HTGxSTmxydnNpWVE5aVVmckh0MGE3Q1NNaUZESHkxRjY2dmNYcC1ibVJnLXkyaWdHNkowNmZsamFHV1M0eDAyM2ExZEdmYjIwNFJhOVJRazB1WWc?oc=5",
    "published": "2026-10-21T15:37:21+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LoL Worlds 2026 Prize Pool Breakdown",
-   "source": "news.bet365.com",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMTB4UW93QVJEaHowVFQydU5vWnFvMzQ5aGZmZVgtRzc3WER6b3VFMW1GTGJIN0hwbk9ZaVZRc0F4dkNGd2VwS0JELVp4b1FHbVlSZnBtVlFFN3dFV25fSUk0cTZhWHFRMDgwNjMyN2FaZ0FPc21qb3RxNDktT1pBWkxnMU5KWWRTVThnNExfMFgxa0pCdVc5WlBR?oc=5",
-   "published": "2026-10-21T15:18:49+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -2128,6 +2353,19 @@
   },
   {
    "type": "news",
+   "title": "Worlds 2026: Play-In peak viewership hits its lowest level since 2019",
+   "source": "Sheep Esports",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDh5cnlrbHl1TXNhMF9UTU1ycGw3cTlmd19MMG50NTRVNVgtQVRPNlJrdWFLSzk2LWxrT25NTlhYa0cxQ09SNzNBR3VXMXFzQzl4RlNmUWJ1Uy1PZ2VNUzlhZ3VTVU1hNEFjQld2XzJvbDZJLTlSemlBYnlvOEFkdEhlSE1vSFBjbDhiRzZpcENET1NpTU5KdFNpWmJGd0FFaTltWVlYTkF0a0ZMZjNrMEp3?oc=5",
+   "published": "2026-10-19T17:40:00+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
    "title": "Faker’s most played League of Legends champions and their win rates",
    "source": "Dexerto",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN25lRWl2c2NCY3VQTTVrZ2xRTFpBNEs1Y1ZkUklubFNLWWdmQWF2RGQyS0hXMFhVU2hncjctaFVIRDF2QTFQLW1xZWtBMHNsT3JwNW92QVo0eWZKYmNHaDlBdlhEdThNSjFtMHB6MlY2UTVpTGdkdGtzNHJIQzlwbzBOTHNGSkxwMXZVdlR3dGVlQUI0dVlXOTdFNjNUZmhmODM4c3ExSWs1dGVncF9SRjJn?oc=5",
@@ -2171,6 +2409,19 @@
    "title": "Faker explains how he’s so good at new LoL champions",
    "source": "Dexerto",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEE5LXI2U2Rubi12blZyNnI5eWNCaHMxRHNPdWRmZGp0X2lGTDh0VkFxVm9OSXRuZ3dkQWN6TmZkX1A0UkVGM2I0d0phTjhPSmozeUxndkFUeFpzSGpteWMtbUctZVdLcll2V3Y2ZnpDTUpKR1pPUGk0eC1qbVg0bXNUT2lpOEoyeHhaR3hmRTJXa0J0NHFQQWkyS0dXZ25rYTVV?oc=5",
+   "published": "2026-10-19T16:53:30+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Faker"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Caps and Faker are being set up for the most unlikely battle outside Summoner’s Rift",
+   "source": "Dexerto",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE5mamxDeV9Pc29saXpWWnhORFNEb1c1RVNxR1dUWWhjWTktcUp5a0dFWDFsMlpLM2VsTWNlNGRJcDNFbDFMR1hQdFprMDgwUHp2d1pnd1plVllVMXZhakpGR01FaURTdkRxY0UxNzZfcE4zS0pTXzZjanRsUEdFNUwwU21IWGtILWhfWkpBQkc1Q0c2MlE?oc=5",
    "published": "2026-10-19T16:53:30+00:00",
    "summary": "",
    "image": null,
@@ -2233,15 +2484,15 @@
   },
   {
    "type": "news",
-   "title": "Pro League of Legends player punished for violent threats toward female fans",
+   "title": "Doinb reveals why he’s considering retiring after finally winning Worlds",
    "source": "Dexerto",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVXhxYy03Z1A2blhxcDFIWUVRcUNZZjJaMXZXck9YcjhzT3RMZHoxMGk4SjJLaEVoVTNDUnQ5R0VYSzNMT19hLVkzZ29IaF80REo1dkdUOXNBQnJIb3h4S0VzejdBdmc2V2JUS09MeHFyaDhYM3dmVzQzWGZXcVp2NU9feGg5UkJGZ201TjZzU2lYSFdzVVQxcmx5N0dPT0JIVnlrUFlycVBqRngwbGxkTVdUV3FrOG9hbVdIcnlKQndHTU43R2hVeU5hYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2J6dUU1bGxHNUpjd1BuNFdCazFTRng5dUEtYnp1SEM3Zjl6TWJaNkc3SnNHOGJBa2M5QVQxVTFLdVpRb1hudEg3UjgyZ3FrUTlWVVkxWmxyRUJObWdTcHRqM3RySFlUeHJsczVaZ2JsbGU0R2tna0dMRlhBMnZxSUZydVdzNzVfMXc3SmZ1UjdKb3BaanlYa3JiQzZSY0tuajJPdHNkOEttXzNn?oc=5",
    "published": "2026-10-19T16:53:30+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
-    "LoL"
+    "Worlds"
    ]
   },
   {
@@ -2263,6 +2514,32 @@
    "source": "bet365",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWUzNVYxbF9DVk5HSV9XOWJfcW90a0NlNFVaMkhVVDZnZWpYRVhjdExxUFRwRUhIT3R2NVZXaUxFd09Cb3U3Q1RCSlZRcEdIajY2bWROZWxCWXV1ZnRGOWZOZFVUdzhlbVhtV19YVEZNVTJSREhIT0pMa0xsRFpobl9iemFmdTdxcDNobFJQX25sTzBFcDhFUlpUTy1sbGJPQnJQUVRIZEh1ZG5NdWdrS3BzQWtGamRRT1BNVWw2Y0Q?oc=5",
    "published": "2026-10-19T16:06:17+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "Worlds"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "League of Legends ranks in order: All LoL ranks and tiers",
+   "source": "Esports.gg",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvb1g4aUFNd3ZtMEZSYWdrdDh4NmlJRFQwS0NNdEdtNmltc0VadGRscjhEeFZ6Q1BVUVZLeXIyeXlnTzJmTENRcll1WVRaVUVnUWtSa2VHOW5BbnhLXzZndVN5bnlTRE9VV3V0YzRTVklSLWM?oc=5",
+   "published": "2026-10-19T13:17:09+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
+   "title": "Worlds 2026 Play-In peaks at 1.02 million",
+   "source": "Esports Charts",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xVzFqb09sMmhmdk40R2dNeGhrQkEyT2NJS0lVbmZ3cDk5UDlaZkFic2NkQU9NeU1mRGdmMlJPV3gtRmhlNlZVdnR0X3c4OGx1SDNMS0liNXowNkY2bDlPOU5wVjNMSTg?oc=5",
+   "published": "2026-10-19T11:31:25+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
@@ -2338,6 +2615,19 @@
   },
   {
    "type": "news",
+   "title": "League of Legends: Your Shop dates for 2026",
+   "source": "Esports.gg",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnNzJkWURsdHdaQlhkSjB2cVVTenRoZUJBZkZWRThpb3NZOFB6R2o1REdCVXVIMkpqbkJvWUVUQ21QZDNNRkd6UzNkdlo2WUJEUzBpdG9URGx4dlpxdzcwSDN5NnVTTElSbmRwbHh1SGxLT0U?oc=5",
+   "published": "2026-10-19T09:10:13+00:00",
+   "summary": "",
+   "image": null,
+   "local_image": null,
+   "tags": [
+    "LoL"
+   ]
+  },
+  {
+   "type": "news",
    "title": "《英雄聯盟》虛擬女團K/DA 睽違6 年回歸！新曲〈FIRESTARTER〉MV 公開，i-dle MIYEON、SOYEON 再度獻聲",
    "source": "SouNova 少女星",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kQTJOYTdLYjZfcEVBaFRCZ3A5aHZXcHhTTHFFV3JRNVBvREhCSkM3aHQzMllwUmpiOExJeHdOTzBRc052czdlTVdCUVNIYk9ZckJUWjlYUlhDamF2d1JWWWZHRDIyd2ZMTTlwWHJQSDNXMkNEQUlyVVNn?oc=5",
@@ -2351,303 +2641,15 @@
   },
   {
    "type": "news",
-   "title": "《英雄聯盟》TES 369世界賽首戰又要打Zeus！他半年都在玩FPS...網笑：宙斯壓力大了",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOLVpXWHUyYXFWQzFwOTlEaFRDV3QweWJGMlA5ZWg5QmZrYlVOVmVES2dmaWF1eFdwUXhQbjY5X1N1SXdZS3cza21vanlPb3puWkRWRzhQalZfYkxkMWFrWjlRQVZZdGJTdWtnZ3hfcUZpRmdXVVNONDlQMVFkdlZIOFIyOGdPR29EYlpmZ1lZSEtvNTRlb29mMFRvdTVkU25ITHJ6YTZDNWRzMnRGdEpPM3dBUjBXTkZYSFJpQ1ZvMWV2bHU4UHdnMDhDdjZXUGtITXlzV1g0QkEyMHpaY0ltX0FORHB3RmhMWW1YRnNkUm9zUUQ4MkhWcS04VEhEUDVpMlozZ1JqcmVXc3dFSkZXSVF6N3RjZy1tRW5vd3gzT0MyNkRKYUp0UkZWMVBXcV82SENnZDNmX1FvN0JlWVFUQzljRTY5TE5xZUNGM19OS0Vib3ZCYUFlNkhlR2VIZDA5QmtGQjlVUUtSXzBqOHg5dzhncFpPY3AybWI4dnJIeU1BdjNHUGlEUkJHTkZtTlRFbG11azBDLVJaQjVrN2RSalpWOUJNSmNIZ21mS1BKYk9XdElvdy1PYjRSZmxVUzVBR1RsbFJhSGtYOTFhSVE?oc=5",
-   "published": "2026-10-19T07:48:31+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LoL Worlds 2026 Swiss Stage Bracket",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHktUjgtUk9OQmgweHpzRW42R0lGeFJ0VzJZZkhLVGsxY2E4V2M1azlnY2JQTHRta2psZFJ6M19oeGZmSzg3MlptcmFhMnI4dnZUSEJUSHNNNUhwdGMybmczOXRxVUFCN0hJNFlPS2xjRnUwLV94eXkwLVlpWlZRU1FfaGE?oc=5",
-   "published": "2026-10-19T07:35:36+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LOL／互相抽到上上籤！CFO、TSW 16強首輪都對戰北美 歐實況主直呼不公平",
-   "source": "udn遊戲角落",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80cVhaSDFETUZhM2hkV05HeFhQLXFDOFhMcjFWNEJZWWN5V2pFR2ZKNHduR25RTDgyTXF3aGZkSjZfZHNkNy03UDdCM3ROVlQ3ZExSTVJLTU9iQdIBX0FVX3lxTFBnNTZ1YVhmYUM3OEdldFNDZUxORldXekRJSlpJZHE0dlloRlBCYWR2MGpPMVQyMkpVWVFRakVHdXRYWVd5eDZ5aVJia1BHcS1URHlEUUtpa1pIWGJ1SkEw?oc=5",
-   "published": "2026-10-19T07:33:30+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》女團K/DA無預警發表新歌！消息外流逼出官方提早點火",
-   "source": "NOWnews今日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vRHRZOXFBNXJKZWJoS2ZwWWVVWXdDd1E3QkVnNmtvcEg0VHAxVHBocnQ4MFBSTWxubFBTQnJWSEFja0QxTzJkdDhYdHjSAVJBVV95cUxQNGJPZ1AxSmNEVUtrcXdtS21kdUxHQ0tkbXQwT2cydlFQeHdRMWdwNGJJUWRUMGs0dUVhaDRXZ25IbEpsRlk1bXc3UkNSV1VvMmFR?oc=5",
-   "published": "2026-10-19T06:07:53+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》K/DA 新曲〈FIRESTARTER〉MV 正式公開，《奧術》動畫團隊操刀製作",
-   "source": "COOL-STYLE 潮流生活網",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQRXhwekM3TzVZZUd4b0RYNzZ6bGtSYTZHdDRFR0RfSzFxVUxtNktPZU85c3JPUkFCMkdfN2VUQU11WXJ2bXBGT2FrNHkySVhxaGduS1lYUjRTYklNV2ZLNW5FQi1OaTFBQVVLLWg0S1kwaHRXM1UwU2xhdHRUdko4SzVoOTc0OU1NNzUzLWhnUlZRaktUZm9rT2FHRkhua0JFT01USDViazd6VFVWQXFtQU4yS3pBUWpveEZ4bWdUU2hHdzFZbnVPZ21YR0w3MEFxUDloa0Q3NVRzNG9VcG5WRWx4TlZPUjFhLUdNdmhjZTNtejVGX2F0VTB4Z1o4bndPbmozcWswdDRHZFF0Q2l1VktKMWpTTEs3V295bldheFhkZ9IBpwJBVV95cUxNbmZvM2NUVHpjSUZINkUxZV91S0M1cGYyZlVJOFM4aHdVbnU0ZlhiS3YySTNzaDFZN1FRYURqdnkwN2JVMjVTUEZzVTg3QUJuc0x5Z2NLUGtaYlk0S2V1R1M0bVJfejZnU2EyVldYNE95TWxOREJoSVNkMWpBM2ItY0E1VEV3d09NWk04bmZXZS1RanNhT2JuVFdIeHhHSHhXWk9aUGxXUGtoSnBnby1SVjJob01FNkhvNm9RSkpkMEtoOEZfbkJDSXFKTHVzRVV0V09sT1g0NElqdy16N1BlMEdQRFQ3TDdOdXlZazRSeVdVdm44VHVPSnA4RjQ1QldFVU9oMUZ5a3E5bHZoMHhqdGhQVDkydDJlcmVYZ04ySktsUmRBUGhr?oc=5",
-   "published": "2026-10-19T05:20:37+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》2026 世界大賽瑞士輪對戰出爐！KC 橫掃 MVK 晉級正賽，CFO 首戰對決北美第一種子",
-   "source": "COOL-STYLE 潮流生活網",
-   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQdThWNk5hd3VyMERCZnljY2RrYVczVUt3dHZ5bERQVV9FbVIyQXBJcUQyNTc1bVlGX0VONW0yZF9udGFBem4zN0NqYVdIeGRlbkJTb1dPU0JQR1NHYVFsS0FLSTNvU0tFLUtWWURJdzM2bWRkZGc5NkoxdThtbk9jamtmQ3AwNDBCeDVYaHVDUVRZRXNnamNUQ183bkRLN3h6S0xibms0RW5vM3NldHk5SmdGb1lhTEFDYnRoRmFwMWo1ejVsbkd4NHJyQ1VDMVJUMTBvNVppbllxbU9HUmI2UUhsZUxNWkotc2pleEdUX0RQTDA4UUZnYzhKUl9uRlk5WjZrTEQ4MU14RlhaMHJlajlYZ0tPejhWN1E1R2RiQ05nWWNRZTJZNEU1WWhCZkdQWE1SeGF1NmxhRk1wVU04NWp5YWtYYmUwMzFFZzNiS093QTJqSmJOckZaWEtzSHdla2fSAecCQVVfeXFMT0h6eElfYnRuR0xZT0YzaVVodVB3QWdFSlFwbzVfX0RHNDg2bTlkM2dEVWJra1cwZWdVeFZxakVyOXZUX3BzSEgxZnliWGNLOUpNR216bnctVXlsXzMxUzJjcTFfa3A5SDlqU2hWQzlILTBQX1A5NGFsVW1TdF8zZDF4em5yTTZtVGpudUJqUm5HNXFHdTZtTGdzcy1nMlplQVdrUzh6dTZXZWNGQ19TdXBpNUVINDFPZDFYUm4yVjFBTUNuV0hkRndaeVZHZURqWm1HOGM3TnhhVjRVRTJUMXJUTkl6M2kzSTljelpTd0Jqb3piNzBBZHVJclJQbEI5T3NKcXBJeDcxdm1IWXhwVGVWU2FNOTJXOG5Yd1lPQzRPN1NWZldtZTFwMWtHb3ZrUURXdEY3NXM5aXRhYk1YemZjRHJZUVpFLVdId3hvLWVJNnVqYXd3LS1XaWVMRVo5S0NpRmxOWjQ?oc=5",
-   "published": "2026-10-19T05:05:34+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026 Play-Ins: Karmine Corp Qualifies for Swiss Stage",
-   "source": "Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNay1xVjFaaHd1ZFF1M2lHS3hVN0t1aENraFpBX2FuUFZvZHg2Yll3ZWZYY2kzYjF3aGloN2szenl0U3RsZ2FmVG1aYXM2Y0V4ZzRUbzdHWlk4elg4WHZmVlp2ZDFBdDlNRmNQZ2I0T3FJV24waHlPRXFYb0JwR01qbUVVdw?oc=5",
-   "published": "2026-10-19T03:57:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "「我就是引火者」《英雄聯盟》曝光虛擬女團 K/DA 全新單曲〈FIRESTARTER〉",
-   "source": "GNN 新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSUE5tVnh0U1JpajZLOG5FVEhkY04wMkZlZ1A2SlBtSFZDWnd3Ym5jTmdZbzJXY1dVSWc0ekZ5RWY1R2FmRjNhSl9xQlBpZmdybkgzVTc2bG8?oc=5",
-   "published": "2026-10-19T03:26:57+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》世界大賽瑞士制對戰抽籤結果CFO、TSW 將對上LCS 隊伍 MVK 止步入圍賽- 遊戲新聞",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGF6Tnpyb05BRERkX3FTVVhYck10NzQzV1RtVFZ0SUVKNFYwSXIxSWFNMFc1Q0ZpcDNTYnpxX3NOdHF4ZWhLZGVhS2JmcWloazY2M1o0dXdOOF9kcS15d3RrQ2w1WTlmUXM0QVpIc19yQzh5LWE2YWtXWWJsczlHZkZGMzk?oc=5",
-   "published": "2026-10-19T03:13:57+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026 Swiss Stage draw: Round 1 matchups and format",
-   "source": "Dot Esports",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jOWRXRUtKcVlEQjg2c3NnTXh2ZGh1M1hLX3NmNXd3ejdTRktjbUtKV3ljeWY4QUwwNzFabVJmQlhKSTVhTjF0dFpEYklnTnFWd2EyWGJNLU1uUklkLUF5dlFuUG9XMktVQm4yNDJxRmxna3dPUVRDOGpmU2xQMGc?oc=5",
-   "published": "2026-10-19T02:13:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "LOL世界賽瑞士輪抽籤出爐！衛冕軍T1首戰巴西LOS CFO對決北美TL",
-   "source": "NOWnews今日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3dTN0TFJTZWhfZEprY3hCcElfeVM0czktYmhwSk1tdWJwa2paeGJnZW5rUlRvbFdkbTdTMDVHbHBTVHA0dngyLVREYUfSAVJBVV95cUxPSWtJNmdzeXlGRi1veV90b0YzeE5xTWthUllpdTVpYlhsX0xLdjlLN2lhQlBvVEd0V21lcWpGUGNyQUVXUW44ZnhiOFN1RlRKTURB?oc=5",
-   "published": "2026-10-19T02:04:06+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "2026《英雄聯盟》世界大賽16強抽籤出爐 GEN首輪對決IG、CFO交手TLAW",
-   "source": "4Gamers",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV8yb2xTbGg4VUNMWnRERm93ZG9lTnJOSW1tR0x0NXNQUTEwYmM3djZVdVV6T3FKdkVvX3g2UFZxU3h5S0NCWHk3VVFiREh3TTAyLXN5WnFGYmg1T3lXcU1yMkhJMFpGY2J4Rkhnd0pfV2Q5WW5wT0RweEZMQ0dvVThxOA?oc=5",
-   "published": "2026-10-19T02:00:10+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》MVK 再度慘遭 KC 3：0 無緣晉級正賽 瑞士輪首輪抽籤出爐 中韓大戰無可避免一觸即發！",
-   "source": "Paradaily",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZVNJM055T205N2QtNHU1MnRvdUdhOXFRUjg1SlE4YzhwQWdkWFIxZnpzbU45X29BZGl3al9qVnVBQ2hsTzhTbTVmc2lyQ2R1MlpVSGVkUnRoMHFPS2FOaC1wcVZmLVNjX2lpQ1lhZVdTVmJlY0ZPR3FR?oc=5",
-   "published": "2026-10-19T01:48:21+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "League of Legends Worlds 2026 schedule: Play-Ins, Swiss Stage, Knockouts, and live stream details",
-   "source": "Sportskeeda",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SbzZGRjRleERHSHc3eThTZU16R2lURGpocVc3bWxfdTZ3aHlQRGQwSk8tN3U5dlF2eDdXd0pBMmhEZE5tTmRDd2ptaWVya280ZWNtamJNT3lVYkF4UVJGY0h3czNZSFc5Umo1U3dmdkpwSjhGQU5aVVhzOA?oc=5",
-   "published": "2026-10-18T23:43:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Karmine Corp sweep MVK Esports to secure final LoL Worlds 2026 Swiss Stage spot",
+   "title": "K/DA makes long-awaited comeback with FIRESTARTER, new EP and Worlds 2026 performance",
    "source": "GosuGamers",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGtjU1BFeUFTZS11NTZXa2JaY05fQWVGVTB6TGo3MTVGVE02V1BKOElzajVkRU5DMFlxdkFpdDRnQXFhMG41WWlQRmJINmNQdEJORFJJMVpZQ0ZqeERPLUNlMENiTWxIVG94ODctaXRBTXBUVmlIQ0xhb3ZoZUdINXF6SHpBR016aERCLWZsSjdIanZaTWJUaDN0YVFSTWlfU2JoLUdXVVdkaXBFU0NHMFhWa09GQWdBc1gyTlRB?oc=5",
-   "published": "2026-10-18T21:46:49+00:00",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYnpaRHQ5M3lFUjBCTk5pTnpDLUNYRDJENHo1ZURWQW1WMmNrZm10U2RDZ3VEYWpDS3RuMVRleFRYam9kOTcwM2VvNkJmUlVBaXN4elBpUFl0UFRCU1MtbDVfQ0VqSHk5Qlo4RDU0S0NIYmQzaV9YTU82NDYwQVU4elZ4MjJ3MXl1NVc4WVBOQnlTS0pKd2JoQmpZMFJvS0o0ekJVT1ZoOU03Q3BzZ0lWLXhnWmtOZkd1MmF1XzdVaw?oc=5",
+   "published": "2026-10-19T08:04:02+00:00",
    "summary": "",
    "image": null,
    "local_image": null,
    "tags": [
     "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026 Swiss Stage Set: 16 Teams, Opening Round Matchups, and Fearless Draft Rules",
-   "source": "EGamersWorld",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcy1LNWJvbTF6VVFkeHhqNFo5a1pUcnp3RGpqaF9ScEZWQVZrY244bGNvWU5mdjdockw1aDM0MVhfMWx5TlZueHdHV0dySk1IZHJlQzRQNlVPWExsaXA1N1hhckZoeFBMdnZtdUhBejZ6cDVJdmlfYVVTQTdmUTNoc0p1T2lpeVpNVk5IaGJfRmpYdWl5Ql9VVzRCaDR3NUk5QlE?oc=5",
-   "published": "2026-10-18T20:42:44+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Swiss Stage Round 1 Matchups Set — Two LCK-LPL Clashes, DK Faces G2",
-   "source": "Inven Global",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWVzUnE1YUI4anN1OUswd18yNlk4RV9Dd0ZVRVM2a29VNXB4c0NSRXpCcGVDbDVXeFRkbThHX0V3OE1Xb3ppU0dZYmNBQ2taU1hSYVc0TFptUUJvOGVZWHpLZ2N2MlVJaGFtOWdtckVqa3lpbTB1Y2g4SXBSV29FNzZpWEZPckJndGhGYVA5Z2lSY0s1UVpfcXExRS1xUG9aekZGRVZSVFFFQUk?oc=5",
-   "published": "2026-10-18T20:41:13+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》世界賽瑞士輪抽籤出爐！CFO首戰北美TL、T1對巴西隊 16強對戰組合一次看",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPZGo2bmRObUlmVTh5RFdocGtUa2x4RVBLeFUzY1FpTUJ2NHRQbGhLa2szTjZkZTJna2JoaUtJbFNrQmJJTkF5Zms1VUppaFplZV84RklQVmNOX1h0Q2RXajdINE8zaDllNUFLMHVpS28yalV6Q0h4ZVJNQlRaYmlPY1BWemRIekFwaV9tdDdoalhhVjIzdllGNFU2MlJwV25qR0pzMzQ1V2t5SkNaQzNqQk02dEtoWTNEOXBxc0w3SmlJNWY5dk9MZC11NXZsTF8yZDdCOFl5bWJSdVExOHczbE5PLWF1MjNrUjBnWWo1UkxQdkFhTUxzaXJLejZhRE1LU0E1cWE0ZC1HNm56TjhyMWR6ZEZIZUh2NE1rX3NQM2dBMXBVd0dXelZCZnhEUG5iQVNKY2VYYzJDcmJSSTJjM1BEdkdKZlpaanowV2hOUEd0SGYtUVdUV3hONi1fOV9vZElYZjNuQ3BTVzk1SWZBck5ZQUJWZHZSQVpDYWI1ajRoX24yS1hUYWVvc1F1WnRJcjNmdnpPcTZHTlBTZ3RhODhyYnRjT2JQMTNjaHpNWEFka0otbzBmeTJlZTc1eGowblo2UWVCVjFROGh0MlRnbk55TURBS3hVWW1vSWdtLTJSQ3QzMHUxUkpoaGFOam5QUjVKR0RNa1k?oc=5",
-   "published": "2026-10-18T20:40:07+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "T1",
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026: Swiss Stage Round 1 Draw",
-   "source": "Sheep Esports",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQalc5NWlrYjloSHdFb1F6b0M1ck1jTEp4NzE1M0gxTXZYS2NSc004Y18xODJRaWNSeGRaR0NEODhaTEJCc241QzYwMVFTeFdRalFuRkZJUlpJSWd4R0dVNnhlRXZDUklGZEZyS29lWUkyZGlJWnlhVnVaRlV0aFV6TW41RU4xQVk?oc=5",
-   "published": "2026-10-18T20:32:28+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "Worlds 2026 Play-In Decider: Karmine Corp Crush MVK Esports to Claim Final Swiss Berth",
-   "source": "EGamersWorld",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOU5jV3B0WTVUZ0d5dnhoZkZZSHhnVUdjeW9FSjVEVmNDVm5ramxXUnYybjFCaUJqVDUtcDRPa0tKaG9hQlhKdlZidm84THJVeFljRWw4SjZmZHpoZWVHZl9NY2d0Zk82QlJGMExfWUFWUFdsTmtkRDFnUURPRDBhWlR4NXNPbFU1X1pXWFBzWHJlX0d2ZkZJc1FHcmVyVjIxZ1E?oc=5",
-   "published": "2026-10-18T20:26:42+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》HLE教練差點出事！赴美打世界賽竟帶「神秘白粉」 粉絲看姑媽直播急阻止",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNNVA2R1BsZ0xHSUVUQWxrYWtSaF9iQjM3YUVEM0E3TnE5Q01VczhiOFRBeFV5b3hEaHZzdExmQkc2QUVCdk50bnhYdmY5VzBHbDdCZHBDdEJwUUtoZXFSY0x6dmFlQkR4VUxkZkE3MFlqS1d2SDUySzBDYUpEMWVrSkYzei03U3J0X3BPZmZmT0VHdk9hREhfWXdoemF3ZnQ4akh5RkR6blZHRFMwakF6WmdrUWk4bmt1cEg5ekNBNW5fRmp3SDVWWHIzWVVuZkIxVE1qZEh6dXFxSGlPTG5VVjV2RXNlSXZPWDBWUFFoMEQ2MHg1b3NoT25XSXdxMjBibGRkUnpoN2kzclE3ZGo4OU9DTjQtalhYdWlHZjVCOWxCNU5nVExxczFNS1pIQXVabVdqTmRuSkRVMjlaclJvTWxrdVBWcXkxSjd3NFZBVjVZS2dFSkdXLXh1ZnljT2NrWTlDdkNtTmRqMXZPWUczeWlvN2JQUXVCSjVlUjl5d2hhcGVOX05ieXA2SzdQSmgtekdWMXlwSXhkOV9rMlU5b2hpYjU0eTRvRWZzSUphM194WUlJSnFZTGlxeHpDdlRyLVRUUWljZUY4V1R4Vk54b3VzSzFsRm1nQXFmX2xwdDJNRFBJbDZPOGt3REp4MHdkQWEzZUIzSFNGb2ZxWDNCTTFpdXFnNHlvcmNIT293SVU5R1Rm?oc=5",
-   "published": "2026-10-18T18:25:48+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "Worlds"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "KT Rolster Rebuilds for 2027: BNK FearX Core In, Diable Eyes LPL Move",
-   "source": "EGamersWorld",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1VmOGI5VnBXLUxkTWx0bExYSGVWVVZQQkFKMWVXcWtXSkhIN0hVQWxoWDFlV1lJMnpIOG85aVA3RkV1UEpzOEQ1ZmVLXzZOMkF3RkJKWF8wV2hQRTVwV0EzNDNLZlJ5bDluMDRIRkZWa09wbDFpWl96eXlsT21nTDdSdy10clBRVHpmcWJRcnRISmYzQkFlZmF4Nnl1Mmo2NVE?oc=5",
-   "published": "2026-10-18T17:04:42+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LPL"
-   ]
-  },
-  {
-   "type": "news",
-   "title": "《英雄聯盟》德瑪西亞盃 BNK FearX 3：1 擊敗 Team WE 奪冠 Raptor 獲選 MVP",
-   "source": "Ludens Media",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YNHdTeVlyMnZpMWs1eG1vYU9jcmk5cjV2QUFCRm9XRFBhaThzRUdORlZPc2JUSFVJTXZVWXNHSkVUMUJkc2R2REdBNm9rYy1pWUhEZFJXdldqcGp2NmNNX29GcWZuanU5VEhOc3I0VQ?oc=5",
-   "published": "2026-10-18T13:53:00+00:00",
-   "summary": "",
-   "image": null,
-   "local_image": null,
-   "tags": [
-    "LoL"
    ]
   }
  ]
